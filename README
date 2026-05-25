@@ -1,0 +1,9 @@
+NRPP – Normative-to-Record Preprocessing Pipeline
+
+Projeto experimental para extração estruturada de evidências documentais
+a partir de normativos institucionais.
+
+Execução:
+
+pip install -r requirements.txt
+python orchestrator.py

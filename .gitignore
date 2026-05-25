@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+.agents/
+.codex/
+
+*.zip
+*.zip.txt
+*.7z
+
+output/
+*/output/
+pdfs/NRPP_RESULTADOS/
+
+.DS_Store

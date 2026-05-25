@@ -1,0 +1,5634 @@
+{
+  "entries": [
+    {
+      "id": "TERM_51756",
+      "preferencial": "3D SECURE (3DS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_51981",
+      "preferencial": "ACT ADITIVO À CCT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_52611",
+      "preferencial": "AMBIENTE DE GRANDE e 18 de outubro de 2021).",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_52706",
+      "preferencial": "ANÁLISE DE OCORRÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_52900",
+      "preferencial": "APÓLICE DE SEGURO PAR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_52933",
+      "preferencial": "APOSTADOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_53013",
+      "preferencial": "APURAÇÃO DE RESPONSABILIDADE DISCIPLINAR E CIVIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_53241",
+      "preferencial": "DOCUMENTAÇÃO DE ARRECADAÇÃO HÍBRIDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_53394",
+      "preferencial": "BANCO PARTICIPANTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_54633",
+      "preferencial": "BLOOMBERG",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_5",
+      "preferencial": "CANAL ELETRÔNICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_55660",
+      "preferencial": "CCA PLATAFORMA ELETRÔNICA (CCA PE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_55709",
+      "preferencial": "CÉDULA OU MOEDA ATINGIDA POR DISPOSITIVO ANTIFURTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_55824",
+      "preferencial": "CERTIFICAÇÃO FSC - FOREST STEWARDSHIP COUNCIL (CONSELHO DE MANEJO FLORESTAL)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_56521",
+      "preferencial": "COMUNICAÇÃO ADMINISTRATIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_56978",
+      "preferencial": "CONFORMIDADE\\/COMPLIANCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_57218",
+      "preferencial": "CONTA “ESCROW”",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58033",
+      "preferencial": "CORRETORA DE VALORES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58201",
+      "preferencial": "CRIPTOATIVOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58306",
+      "preferencial": "CUPOM TR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58335",
+      "preferencial": "CURVA IS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58502",
+      "preferencial": "DADOS NÃO-ESTRUTURADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58542",
+      "preferencial": "DADOS PROCESSADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58704",
+      "preferencial": "DECLARAÇÃO DE IMPACTO DE NORMA DA CAIXA ASSET",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_58898",
+      "preferencial": "DIFERENÇAS NO RECOLHIMENTO DO FGTS E CS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_59887",
+      "preferencial": "ESPECIALISTA EM CENÁRIOS ECONÔMICOS (ECE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_60372",
+      "preferencial": "ESTRATÉGIA DE CONTINUIDADE DE NEGÓCIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_60857",
+      "preferencial": "nalisado.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_61057",
+      "preferencial": "FRAUDE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_61150",
+      "preferencial": "FUNDOS ESPECIAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_61594",
+      "preferencial": "GOVERNANÇA DE DADOS SUSTENTÁVEL E ADAPTATIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_61814",
+      "preferencial": "HOME BROKER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_62404",
+      "preferencial": "INTERESSES DA CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_62634",
+      "preferencial": "JUÍZO DE ADMISSIBILIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_62924",
+      "preferencial": "LOTERIA DE PROGNÓSTICOS ESPORTIVOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_63999",
+      "preferencial": "NOTA DE CRÉDITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_64396",
+      "preferencial": "COLEGIADOS ESTATUÁRIOS PRÓPRIOS DA CAIXA ASSET",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_64644",
+      "preferencial": "PAGADOR ELETRÔNICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_64788",
+      "preferencial": "PARTE INTER\nirigente, Consultores Jurídicos, Consultores de Organização e Estratégia, empregados com lotação na Presidência da CAIXA ou em Unidades diretamente vinculadas (exceto Diretorias), empregados com lotação nas Vice Presidências e Diretorias, e demais e mprega\nabsoluta dos votos dos acionistas presentes n as três últimas assembleias gerais da sociedade investida , ainda que não seja titular das açõ es que lhe asse gurem a maioria absoluta do capital vo tante.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_66071",
+      "preferencial": "PUBLICAÇÕES PATROCINADAS OU IMPULSIONADAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_66084",
+      "preferencial": "PUBLICIDADE\\/CONTEÚDO MERCADOLÓGICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_66500",
+      "preferencial": "REGRA DE TAYLOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_67219",
+      "preferencial": "SAC CENTRALIZADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_68514",
+      "preferencial": "TARIFA DE SERVIÇO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_68892",
+      "preferencial": "TOMADA DE DECISÃO APOIADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_69286",
+      "preferencial": "TR CONFORMIDADE DA CAIXA ASSET",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70161",
+      "preferencial": "VARIÁVEL EXÓGENA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70490",
+      "preferencial": "RISCO CLIMÁTICO DE TRANSIÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70497",
+      "preferencial": "RANKING SICONFI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70503",
+      "preferencial": "LEI ORÇAMENTÁRIA ANUAL - LOA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70547",
+      "preferencial": "QUADRO DE USOS E FONTES - QUF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70570",
+      "preferencial": "VE - VALOR DE EM vNomeUnidade",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70576",
+      "preferencial": "CONTA VINCULADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70580",
+      "preferencial": "CONVÊNIO DE COOPERAÇÃO FEDERATIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70594",
+      "preferencial": "CONTRATO DE REPASSE - CR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70608",
+      "preferencial": "REMUNERAÇÃO BASE - RB",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70618",
+      "preferencial": "FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70678",
+      "preferencial": "ENFITEUSE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70682",
+      "preferencial": "GARANTIA PRECÁRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70699",
+      "preferencial": "ÍNDICE DE PREÇOS AO CONSUMIDOR AMPLO - IPCA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70707",
+      "preferencial": "CESH - CUSTO EFETIVO DO SEGURO HABITACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70718",
+      "preferencial": "BOLETO ÚNICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70731",
+      "preferencial": "REGISTRO DE RESPONSABILIDADE TÉCNICA (RRT)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70748",
+      "preferencial": "ENCARGOS EDUCACIONAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70753",
+      "preferencial": "PARCE mbros do grupo familiar, que compreende: o valor bruto de salários, proventos, vale alimentação, gratificações eventuais ou não,  gratificações  por  cargo  de  chefia,  pensões,  pensões  alimentícias,  aposentadorias,  comissões,  pró-labore,  outros  re CADIN, SERASA e\\/ou SCPC, conforme [MN, FI053].",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70785",
+      "preferencial": "SEGURO PRESTAMISTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70803",
+      "preferencial": "TERMO DE ENCERRAMENTO FIES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70823",
+      "preferencial": "CADASTRO DE ENTIDADES PRIVADAS SEM FINS LUCRATIVOS IMPEDIDAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70835",
+      "preferencial": "FUNDO MUNICIPAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70857",
+      "preferencial": "LAVAGEM  DE  DINHEIRO E OUTROS - LD\\/FTP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70882",
+      "preferencial": "ÁREA NÃO LOGADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70889",
+      "preferencial": "GERENCIADOR CAIXA EMPRESAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70895",
+      "preferencial": "OPT-OUT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70907",
+      "preferencial": "COVENANT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70912",
+      "preferencial": "RENEGOCIAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70917",
+      "preferencial": "AGLOMERADOS URBANOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70949",
+      "preferencial": "DOCUMENTO DE ORIGEM FLORESTAL (DOF) - INFRAESTRUTURA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_70993",
+      "preferencial": "DESPOSTO DE PARTICIPAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71001",
+      "preferencial": "DOAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71014",
+      "preferencial": "ESTAÇÃO DE TRATAMENTO DE ÁGUA (ETA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71024",
+      "preferencial": "FATO DO PRÍNCIPE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71046",
+      "preferencial": "INFRAESTRUTURA PARA COLETA SELETIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71053",
+      "preferencial": "ADIANTAMENTO A DEPOSITANTE - ADEP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71107",
+      "preferencial": "ANTECIPAÇÃO DE PARCELA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71129",
+      "preferencial": "NÚCLEA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71155",
+      "preferencial": "REDE DE RELACIONAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71159",
+      "preferencial": "SPAM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71169",
+      "preferencial": "NOTA FISCAL ELETRÔNICA - NFE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71184",
+      "preferencial": "ÓRGÃOS DE CONTROLE E DE FISCALIZAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71207",
+      "preferencial": "PLANO DE SUSTENTABILIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71218",
+      "preferencial": "PRAÇA DA JUVENTUDE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71225",
+      "preferencial": "PROJETO DESPORTIVO OU PARADESPORTIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71229",
+      "preferencial": "PROJETO PADRONIZADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71251",
+      "preferencial": "REDUÇÃO DE PERDAS ESTIMADAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71258",
+      "preferencial": "RELATÓRIO DE SALDO CONTÁBIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71263",
+      "preferencial": "BEHAVIOUR SCORE (BS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71289",
+      "preferencial": "RISCO DE CRÉDITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71314",
+      "preferencial": "GRAVAME",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71327",
+      "preferencial": "FURTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71332",
+      "preferencial": "MOEDA ESTRANGEIRA - ME",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71340",
+      "preferencial": "SALA DE AUTOATENDIMENTO - SAA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71373",
+      "preferencial": "GRUPO FUNCIONAL DE EXECUÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71398",
+      "preferencial": "RECOVERY POINT OBJECTIVE (RPO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71415",
+      "preferencial": "REDES\nediatamente substituídas pelo mercado.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71426",
+      "preferencial": "PLANO DE RECUPERAÇÃO CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71446",
+      "preferencial": "PORTABILIDADE DE CRÉDITO SALÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71463",
+      "preferencial": "CARTEIRA VIRTUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71469",
+      "preferencial": "GRUPO DE GESTÃO DE CRISE (GGC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71529",
+      "preferencial": "MODALIDADE OPERACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71551",
+      "preferencial": "COFRE VIRTUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71563",
+      "preferencial": "COLETIVA DE IMPRENSA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71577",
+      "preferencial": "NOTÍCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71584",
+      "preferencial": "ARQUIVO DE AGENDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71593",
+      "preferencial": "TRABALHO SOCIAL (TS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_716",
+      "preferencial": "CERTIFICADO DA CONDIÇÃO DO MICROEMPREENDEDOR INDIVIDUAL - CCEMEI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71636",
+      "preferencial": "COMISSÃO DE CONCILIAÇÃO PRÉVIA - CCP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71653",
+      "preferencial": "FISERV",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71659",
+      "preferencial": "LEI GERAL DE PROTEÇÃO A DADOS PESSOAIS - LGPD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71674",
+      "preferencial": "ORDEM DE CRÉDITO AUTOMÁTICA (OC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71680",
+      "preferencial": "QR CODE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71692",
+      "preferencial": "SUBSÍDIO PROCON",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71705",
+      "preferencial": "UNIDADE RESPONSÁVEL (UR) - OCORRÊNCIAS DE OUVIDORIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71715",
+      "preferencial": "REEMBOLSO DE ROYALTIES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71",
+      "preferencial": "CLUSTER o mineral, em estado bruto ou pequeno grau de industrialização, produzido em larga escala e destinado ao comércio externo.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71755",
+      "preferencial": "GRUPO ECONÔMICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71759",
+      "preferencial": "INSTRUMENTO HÍBRIDO DE CAPITAL E DÍVIDA - IHCD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71767",
+      "preferencial": "PADRÕES PAPILOSCÓPICOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71812",
+      "preferencial": "CENÁRIO DE ESTRESSE DO PROJETO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71820",
+      "preferencial": "CRÉDITO ROTATIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71857",
+      "preferencial": "ACORDO SUBSTITUTIVO DISCIPLINAR (ASD)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71887",
+      "preferencial": "PADRÃO MONETÁRIO - PM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71903",
+      "preferencial": "CÓDIGO DE OFERTAS PÚBLICAS ANBIMA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71924",
+      "preferencial": "COORDENADOR LÍDER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_719",
+      "preferencial": "INSTRUMENTO DE CESSÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71951",
+      "preferencial": "MÓDULO DE DISTRIBUIÇÃO DE ATIV nta, no caso de distribuição secundária. e o Administrador e o Gestor, no caso de oferta primária de distribuição de cotas de Fundo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_71960",
+      "preferencial": "TIPO DE MOVIMENTAÇÃO - TM TX-SANIN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72020",
+      "preferencial": "CONSOLIDAÇÃO DE PROPRIEDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72026",
+      "preferencial": "que estas classes de CRI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72032",
+      "preferencial": "CRI MEZANINOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72038",
+      "preferencial": "ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO DO AUTOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72046",
+      "preferencial": "APELAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72051",
+      "preferencial": "LAYOUT DE ARQUIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72056",
+      "preferencial": "CADASTRO OPERACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72081",
+      "preferencial": "COMPANHIA DE SEGUROS DO ESTADO DE SÃO PAULO - COSESP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72087",
+      "preferencial": "DESTAQUE DE ATA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72108",
+      "preferencial": "ID BAJ",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72114",
+      "preferencial": "INTEMPESTIVIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72130",
+      "preferencial": "REABERTURA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72165",
+      "preferencial": "VALOR REFERENCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72176",
+      "preferencial": "CLIENTE PESSOA FÍSICA (PF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72192",
+      "preferencial": "FIANÇA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72203",
+      "preferencial": "EMPRESA DE PEQ AN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72",
+      "preferencial": "PIN PAD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72222",
+      "preferencial": "SEGUROS  E  ASSISTÊNCIAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72237",
+      "preferencial": "VARIANTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72244",
+      "preferencial": "CONTA DE LIVRE MOVIMENTAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72272",
+      "preferencial": "PORTAL NACIONAL DE CONTRATAÇÕES PÚBLICAS - PNCP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72308",
+      "preferencial": "PURGA  DA  MORA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72319",
+      "preferencial": "MANUAL DE CRÉDITO RURAL DO BANCO CENTRAL DO BRASIL - MCR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72340",
+      "preferencial": "SIMULADOR DE PRECIFICAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72348",
+      "preferencial": "VIDA ÚTIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72357",
+      "preferencial": "CÁL ão CAIXA apresentando propostas.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72363",
+      "preferencial": "CLIENTE TOMADOR DE PENHOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72379",
+      "preferencial": "BI - BOLETIM DE INTELIGÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72385",
+      "preferencial": "CRÉDITO A REGULARIZAR - C-REGDIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72395",
+      "preferencial": "PRODUÇÃO DE CONHECIMENTO EM INTELIGÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72403",
+      "preferencial": "EMOJI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72420",
+      "preferencial": "RETENÇÃO DE VALOR DE CONTRATO DE CONTRAPARTIDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72428",
+      "preferencial": "GIRO CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72463",
+      "preferencial": "JUROS REMUNERATÓRIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72469",
+      "preferencial": "OPERAÇÕES PASSIVAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72491",
+      "preferencial": "CONFEDERAÇÃO NACIONAL DOS TRABALHADORES N\nsa foram alcançados, considerando os recursos gastos.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72499",
+      "preferencial": "VALOR RESIDUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72505",
+      "preferencial": "DELTA SALARIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72512",
+      "preferencial": "PLANO DE CARGOS E SALÁRIOS - PCS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72530",
+      "preferencial": "TIME SHARING OPTION - TSO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72540",
+      "preferencial": "PAGADOR EFETIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72587",
+      "preferencial": "CATÁLOGO DE LOTES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72594",
+      "preferencial": "PLANO DE NEGÓCIOS PF ALTERADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72617",
+      "preferencial": "OPERAÇÃO DE CRÉDITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72624",
+      "preferencial": "CHANCE - ODDS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72655",
+      "preferencial": "PSDM - PORTA DE SEGURANÇA COM DETECTOR DE METAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72659",
+      "preferencial": "AVERBAÇÃO DE SEGURO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72665",
+      "preferencial": "ALIENAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72676",
+      "preferencial": "GLOSA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72683",
+      "preferencial": "HABITUALIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72709",
+      "preferencial": "PRESTAÇÃO DE SERVIÇO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72723",
+      "preferencial": "RELAÇÃO DOS TRABALHADORES SEFIP - RE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72729",
+      "preferencial": "NO LABEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72737",
+      "preferencial": "CONTRATANTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72746",
+      "preferencial": "SERVIÇO TERCEIRIZADO RELEVANTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72751",
+      "preferencial": "DECURSO DE PRAZO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72758",
+      "preferencial": "NOTIFICAÇÃO FISCAL PARA RECOLHIMENTO DA CONTRIBUIÇÃO PARA O FGTS E CONTRIBUIÇÃO SOCIAL - NFGC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72771",
+      "preferencial": "CONSULENTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72784",
+      "preferencial": "BENCHMARK",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72831",
+      "preferencial": "DEMANDAS PARLAMENTARES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72849",
+      "preferencial": "EXCEDENTE DE RENTABILIDADE DAS DISPONIBILIDADES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72856",
+      "preferencial": "INSTRUMENTOS DE DÍVIDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72861",
+      "preferencial": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL- MIDR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72868",
+      "preferencial": "OPERAÇÃO URBANA CONSORCIADA - OUC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72872",
+      "preferencial": "DADOS DE MERCADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72909",
+      "preferencial": "SISTEMA DE VALORES A RECEBER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72918",
+      "preferencial": "FUNDO DE serviços públicos e internet e sua coleta estende-se, em geral, do dia 01 a 30 do mês de referência.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72924",
+      "preferencial": "PLATAFORMA CENTRALI tor_termo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72933",
+      "preferencial": "COMMON REPORTING STANDARD (CRS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72952",
+      "preferencial": "WORK ORDER - WO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72956",
+      "preferencial": "BANCOS COORDENADORES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72975",
+      "preferencial": "NÍVEL DE DISPÊNDIO DE RECURSOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72987",
+      "preferencial": "AFTER MAR\nela B3, sob demanda dos Agentes de Custódia",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_72993",
+      "preferencial": "REVENDA MULTIMARCA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73015",
+      "preferencial": "GANHO - GAIN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73020",
+      "preferencial": "INTERMEDIÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73038",
+      "preferencial": "PLANO DE TRABALHO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73060",
+      "preferencial": "NOTA DE CRÉDITO À EXPORTAÇÃO - NCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73080",
+      "preferencial": "ARQUIVO SALDOS GERAIS DIÁRIOS - CSGD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73094",
+      "preferencial": "ORDER MANAGEMENT SY\nCAÇÃO OPERACIONAL DA B3 (PQO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73114",
+      "preferencial": "RISCO SOCIOAMBIENTAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73152",
+      "preferencial": "OPERAÇÃO DE NEGÓCIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73158",
+      "preferencial": "CONTRATADO A TERMO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73173",
+      "preferencial": "RISCO  DE  LIQUIDEZ  DE  FLUXO  DE  CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73181",
+      "preferencial": "RISCO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73199",
+      "preferencial": "TRACKING ERROR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73221",
+      "preferencial": "CERTIDÃO DE INVENTARIANÇA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73226",
+      "preferencial": "CRED-MAC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73234",
+      "preferencial": "PAGAMENTO PARCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73267",
+      "preferencial": "GIROCAIXA ORIENTAD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73276",
+      "preferencial": "SISTEMA (TABELA) PRICE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73292",
+      "preferencial": "ADQUIRENTE OU CREDENCIADORA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73299",
+      "preferencial": "CENTRAL DE ATENDIMENTO A SURDOS - CAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73329",
+      "preferencial": "DECLARAÇÃO DE MARGEM CONSIGNÁVEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73357",
+      "preferencial": "DESENVOLVIMENTO DE APLICATIVOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73369",
+      "preferencial": "INTEGRAÇÃO CONTÍNUA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73384",
+      "preferencial": "PROCESSO DE DESENVOLVIMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73398",
+      "preferencial": "PROCESSO DE PRESTAÇÃO DE CONTAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73425",
+      "preferencial": "PESSOA COM DEFICIÊNCIA - PCD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73434",
+      "preferencial": "TECNOLOGIA ASSISTIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73445",
+      "preferencial": "SEM MARGEM CONSIGNÁVEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73455",
+      "preferencial": "AGENTE EXECUTOR DO TRABALHO TECNICO SOCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73460",
+      "preferencial": "ROLAGEM DE DÍVIDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73470",
+      "preferencial": "AVALIAÇÃO MASSIFICADA DE MUNICÍPIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73478",
+      "preferencial": "DÍVIDA FUNDADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73493",
+      "preferencial": "PESSOA PROPONENTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73499",
+      "preferencial": "REATIVAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73506",
+      "preferencial": "UNIDADES PAR DISPONÍVEIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73519",
+      "preferencial": "SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL DO BRASIL – SCR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73530",
+      "preferencial": "TM-LIB-FAR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73541",
+      "preferencial": "TITULAR DE CARTÃO DE CRÉDITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73553",
+      "preferencial": "CAN\n21 TRABALHADOR FGTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73562",
+      "preferencial": "DATA PREVISTA PARA O PAGAMENTO - DPP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73574",
+      "preferencial": "FATOR REDUTOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73581",
+      "preferencial": "IMÓVEL ADJUDICADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73588",
+      "preferencial": "EQUIVALENTES DE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73600",
+      "preferencial": "RETORNO DO PATRIMÔNIO LÍQUIDO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73613",
+      "preferencial": "ESTABELECIMENTO CUMPRIDOR DE COTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73660",
+      "preferencial": "EMENTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73672",
+      "preferencial": "PERCENTIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73684",
+      "preferencial": "DEMONSTRATIVO DO INDICADOR DE LIQUIDEZ DE LONGO PRAZO - DLP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73696",
+      "preferencial": "CLASSIFICAÇÃO INTERNACIONAL DE D\n5421,",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73705",
+      "preferencial": "CLASSIFICAÇÃO E CODIFICAÇÃO BRASILEIRA DE DESASTRES - COBRADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73714",
+      "preferencial": "DIRIGENTE SINDICAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73724",
+      "preferencial": "EXAME ANATOMOPATOLÓGICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73733",
+      "preferencial": "GUIA DE REC eguras.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73744",
+      "preferencial": "IDENTIDADE ELETRÔNICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73753",
+      "preferencial": "TRANSFERÊNCIA DE PARTE IDEAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73781",
+      "preferencial": "RETIFICAR DADOS DO TRABALHADOR - RDT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73790",
+      "preferencial": "SITUAÇÃO DE EMERGÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73802",
+      "preferencial": "ADJUDICAÇÃO - FGTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73828",
+      "preferencial": "BAIXA POR MÉRITO DE DÉBITOS DE FGTS E CS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73835",
+      "preferencial": "PROCURADORIA DA FAZENDA NACIONAL (PFN)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73842",
+      "preferencial": "COMUNICAÇÃO PARA RESTITUIÇÃO - CPR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73854",
+      "preferencial": "D\nno_termo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73873",
+      "preferencial": "DEPÓSITO A DISCRIMINAR DEVEDOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73879",
+      "preferencial": "SISTEMA ESOCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73885",
+      "preferencial": "DURATION",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73894",
+      "preferencial": "MOVIMENTAÇÃO DEFINITIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73901",
+      "preferencial": "RELAÇÃO DE ESTABELECIMENTOS CENTRALIZADOS (REC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73911",
+      "preferencial": "CIRCULAR DE OFERTA DE FRANQUIA - COF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73917",
+      "preferencial": "CASO DE NEGÓCIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73922",
+      "preferencial": "DESPESAS DESCENTRALIZADAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73935",
+      "preferencial": "RELATÓRIO DE CONTAS COM INCONSISTÊNCIAS endedor e pelo comprador do veículo. A ATPV é parte integrante do Certificado de Registro de Veículo (CRV) e é necessária para formalizar a transferência de propriedade junto ao Detran.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73957",
+      "preferencial": "F chadura.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73967",
+      "preferencial": "SERVIÇO DE ASSISTÊNCIA E SEGURO SOCIAL DOS ECONOMIÁRIOS - SASSE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73972",
+      "preferencial": "SEGREDO DE COFRES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73977",
+      "preferencial": "PROGRAMA TRANSMISSOR DE ARQUIVOS - PTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_73996",
+      "preferencial": "AUTORIZAÇÃO DE SAQUE - AS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74009",
+      "preferencial": "CONTA  FINANCEIRA  TAMBÉM  DENOMINADA  CONTA  SUPRIMENTO,  MANTIDA  NO  SISFIN\\/MÓDULO  CONTROLE FINANCEIRO,  PARA  REGISTRO,  REMUNERAÇÃO  E  ACOMPANHAMENTO  DA  M HOMOLOGADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74036",
+      "preferencial": "PROVISÃO DE SINISTROS OCORRIDOS E NÃO AVISADOS - IBNR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74041",
+      "preferencial": "IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES - IPVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74063",
+      "preferencial": "LIVRE ESCOLHA SAÚDE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74108",
+      "preferencial": "AGRONEGÓCIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74121",
+      "preferencial": "CRÉDITO “EM SER”",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74142",
+      "preferencial": "AGENTE DE PAGAMENTO (LINHAS FINANCEIRAS DE LIQUIDEZ - LFL)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74151",
+      "preferencial": "DEPARTAMENTO DE OPERAÇÕES DO MERCADO ABERTO DO BACEN - DEMAB",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74155",
+      "preferencial": "BLOQUEIO CAUTELAR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74166",
+      "preferencial": "CELULAR SEGURO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74173",
+      "preferencial": "AUTRAN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74179",
+      "preferencial": "PREÇO UNITÁRIO MA\nAIXA e GOV Conta.\\nA Senha de Transação pode ser Simples ou Múltipla. \\nA Senha de Transação Simples possui 6 caracteres numéricos e atende contas PF individuais ou conjunta solidárias e PJ\\/GOV cuja movimentação possa ser realizada isoladamente ou por qua\nreço http:\\/\\/www.GESEC.mz.caixa, menu “acesso rápido”, “consulta paridade.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74201",
+      "preferencial": "BANCO DO ESTADO DE PERNAMBUCO - BANDEPE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74228",
+      "preferencial": "BOLETIM DE ALTERAÇÃO CADMUT -BAC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74246",
+      "preferencial": "MINISTÉRIO DA FAZENDA - MF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74265",
+      "preferencial": "CRM CENTRAL SAÚDE CAIXA termo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74270",
+      "preferencial": "CONTRA AUDITORIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74280",
+      "preferencial": "VLRCORRCADCRED",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74287",
+      "preferencial": "PORTAL OPERADORAS ANS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74299",
+      "preferencial": "CUIDADOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74305",
+      "preferencial": "GRADE DE FECHAMENTO DE EVENTO - GFE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74316",
+      "preferencial": "INTERNAÇÃO DOMICILIAR (HOME CARE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74321",
+      "preferencial": "ADIMPLENCIA CONTRATUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74337",
+      "preferencial": "AZUL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74347",
+      "preferencial": "AUTENTICIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74382",
+      "preferencial": "CONSELHO NACIONAL DE ARQUIVOS - CONARQ",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74395",
+      "preferencial": "EMENTA DO DOCUMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74425",
+      "preferencial": "MACRO HEDGE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74443",
+      "preferencial": "CONSERVAÇÃO DOCUMENTAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74458",
+      "preferencial": "MEMÓRIA INSTITUCIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74468",
+      "preferencial": "CADASTRO DE INSCRIÇÃO DE ENTIDADES FINANCEIRAS - CSA-CIEF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74477",
+      "preferencial": "PROTOCOLO DE ENTREGA DE DOCUMENTOS-PED",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74507",
+      "preferencial": "ASSINAT a modalidade ,Aquisição, de financiamento habitacional",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74524",
+      "preferencial": "CADASTRO DE OPTANTES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74530",
+      "preferencial": "SEGURO AGRÍCOLA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74545",
+      "preferencial": "PRINCÍPIO DA PRUDÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74553",
+      "preferencial": "UNIDADE PADRÃO DO FGTS- UPFGTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74559",
+      "preferencial": "BANDEIRA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74579",
+      "preferencial": "RESPOSTA DE AUTORIZAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74614",
+      "preferencial": "CONTROLE DE ACESSO DOCUMENTAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74666",
+      "preferencial": "HIGIENIZAÇÃO DOCUMENTAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74676",
+      "preferencial": "OCORRÊNCIA COMBO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74681",
+      "preferencial": "ACORDO DE NÍVEL DE SERVIÇO (ANS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74697",
+      "preferencial": "RELATÓRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74714",
+      "preferencial": "CÓDIGO DE SAQUE 93",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74739",
+      "preferencial": "GAIA I – GAIA SECURITIZADORA S\\/A",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74752",
+      "preferencial": "COTA DE BOLÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74768",
+      "preferencial": "LISTAGEM DE ELIMINAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74791",
+      "preferencial": "ATUALIZAÇÃO DE SUPORTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74798",
+      "preferencial": "CERTIFICAÇÃO DIGITAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74805",
+      "preferencial": "INTERAGÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74816",
+      "preferencial": "EMPRÉSTIMO PE\nPVAT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74836",
+      "preferencial": "MATRÍCULA DO AGENTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74843",
+      "preferencial": "CONFLITO DE INTERESSES ENTRE ÁREAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74865",
+      "preferencial": "OBJETO DIGITAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74874",
+      "preferencial": "SEGURO COMPREENSIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74889",
+      "preferencial": "INSPEÇÃO QUÍMICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74903",
+      "preferencial": "EIXO DE ATUAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74917",
+      "preferencial": "TÍTULOD CVSB",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74959",
+      "preferencial": "LICENÇA AMBIENTAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74968",
+      "preferencial": "PLEITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_74997",
+      "preferencial": "ASSOCIAÇÃO BRASILEIRA DOS DIREITOS DE AUTORES VISUAIS (AUTVIS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75005",
+      "preferencial": "CLIPPING\\/CLIPAGEM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75011",
+      "preferencial": "FACILITY REPORT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75025",
+      "preferencial": "RIDER TÉCNICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75042",
+      "preferencial": "MICRO, PEQUENA E MÉDIA EMPRESA - MPME",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75057",
+      "preferencial": "APPLICATION SCORING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75069",
+      "preferencial": "AREA TOTAL CONST\nsica indicada pela Entidade Organizadora apta\\/enquadrada a contratar o financiamento ou arrendamento habitacional na CAIXA, com recursos subsidiados do OGU.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75073",
+      "preferencial": "POÇ o",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75089",
+      "preferencial": "INTEGRIDADE TÉCNICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75095",
+      "preferencial": "PORTAL DE OPERAÇÕES DO CARTÃO BNDES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75108",
+      "preferencial": "ESPAÇO ADMINISTRATIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75128",
+      "preferencial": "BANC xijam mesa de trabalho",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75148",
+      "preferencial": "ORDEM DE EXECUÇÃO DE SERVIÇO (OES)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75154",
+      "preferencial": "ITDR - DETECÇÃO E RESPOSTA A AMEAÇAS DE IDENTIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75183",
+      "preferencial": "SOLICITAÇÃO DE MOVIMENTAÇÃO DE CONTA INATIVA - SMI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75190",
+      "preferencial": "AGÊNCIA\\/PA DE DÉBITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75235",
+      "preferencial": "INCORP de_definicao",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75263",
+      "preferencial": "PROPOSTA MÚLTIPLA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75268",
+      "preferencial": "MPOR - MINISTÉRIO DOS PORTOS E AEROPORTOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75276",
+      "preferencial": "PORTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75298",
+      "preferencial": "SERVIÇOS TÉCNICOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75314",
+      "preferencial": "ATESTE DIGITAL NO SILIC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75323",
+      "preferencial": "NÚMERO DO  , pessoa ou família que o produziu.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75333",
+      "preferencial": "DESCRIÇÃO DO DOCUMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75",
+      "preferencial": "HABITAÇÃO DE INTERESSE SOCIAL (HIS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75363",
+      "preferencial": "HEADER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75385",
+      "preferencial": "CÂMBIO SIMPLIFICADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75394",
+      "preferencial": "CARTEIRA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75402",
+      "preferencial": "INSTITUIÇÃO FINANCEIRA DEBITADA - IF DEBITADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75430",
+      "preferencial": "INDICADOR DE DESEMPENHO DE CUSTOS - IDC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75448",
+      "preferencial": "CONSELHO DE AD\nde atuação, recomendando ou não sua aprovação.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75455",
+      "preferencial": "AÇÃO CRIMINOSA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75466",
+      "preferencial": "MANIFESTAÇÃO CONCLUSIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75477",
+      "preferencial": "REUNIÃO O\nrmo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75488",
+      "preferencial": "SENSOR DE ALARME",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75523",
+      "preferencial": "EMPRESA BAIXADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75528",
+      "preferencial": "UNIDADES DE CONSERVAÇÃO DE USO SUSTENTÁVEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75546",
+      "preferencial": "BEM ALIENÁVEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75553",
+      "preferencial": "CUSTOS INDIRETOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75571",
+      "preferencial": "PROJETO DE CONVERSÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75621",
+      "preferencial": "SERVIÇOS COMPLEMENTARES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75629",
+      "preferencial": "TRANSAÇÃO COM PARTES RELACIONADAS - TRP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75656",
+      "preferencial": "ETIQUETA DE MARCAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75678",
+      "preferencial": "COMERCIALIZAÇÃO MÍNIMA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75690",
+      "preferencial": "CTO – CUSTO TOTAL DE OBRAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75704",
+      "preferencial": "DECORE - DECLARAÇÃO COMPROBATÓRIA DE PERCEPÇÃO DE RENDIMENTOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75721",
+      "preferencial": "LOTE - TERRENO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75739",
+      "preferencial": "PARCELAS VINCENDAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75744",
+      "preferencial": "PESSOA JURÍDICA DO RAMO DA CONSTRUÇÃO CIVIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75749",
+      "preferencial": "RECURSOS NECESSÁRIOS À CONCLUSÃO DO EMPREENDIMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75757",
+      "preferencial": "SEGURO MULTIRRISCO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75763",
+      "preferencial": "PRODUÇÃO DE UNIDADE HABITACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75827",
+      "preferencial": "DESLIGAMENTO PARCIAL OU ENTREGA PARCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75846",
+      "preferencial": "SISTEMA FINANCEIRO NACIONAL- SFN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75858",
+      "preferencial": "ORÇAMENTO PARAMETR  PERSON",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75879",
+      "preferencial": "MENSAGEM STR0007",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75887",
+      "preferencial": "TRIMESTRE DE COMPETÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75912",
+      "preferencial": "TRANSAÇÕES DE FR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75951",
+      "preferencial": "SUB50",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75968",
+      "preferencial": "LOGÍSTICA REVERSA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_75978",
+      "preferencial": "SISTEMA NACIONAL DE VIGILÂNCIA SANITÁRIA (SNVS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76005",
+      "preferencial": "GENERALLY ACCEPTED ACCOUNTING PRINCIPLES IN BRAZIL (BRGAAP).",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76015",
+      "preferencial": "UNIDADE RESPONSÁVEL - OCORRÊNCIAS INTERNAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76022",
+      "preferencial": "INEXIGIBILIDADE DE LICITAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76037",
+      "preferencial": "MALHA URBANA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76050",
+      "preferencial": "ADENE - AGÊNCIA DE DESENVOLVIMENTO DO NORDESTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76070",
+      "preferencial": "CCE - CERTIFICADO DE CONCLUSÃO  5464 INFRAESTRUTURA DE ATACADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76078",
+      "preferencial": "FUNDO DE INVESTIMENTOS DO NORDESTE - FINOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76084",
+      "preferencial": "INDICADOR DE REDUÇÃO DE PERDAS OPERACIONAIS NÃO JUDICIAIS - IROP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76091",
+      "preferencial": "CCIR – CERTIFICADO DE C siderado imóvel usado aquele que já tenha sido transacionado ou ocupado.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76098",
+      "preferencial": "CERTIDÃO VINTENÁRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76111",
+      "preferencial": "MT940",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76125",
+      "preferencial": "CAN 133,",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76147",
+      "preferencial": "BASE DE CÁLCULO DA EXIGIBILIDADE DOS RECURSOS OBRIGATÓRIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76161",
+      "preferencial": "COMISSÃO DE GESTÃO DE PERDAS OPERACIONAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76166",
+      "preferencial": "BRASÍNDICE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76185",
+      "preferencial": "DOMÍNIO DIRETO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76193",
+      "preferencial": "VALORAÇÃO AS E CARTEIRAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76207",
+      "preferencial": "AUTOATENDIMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76216",
+      "preferencial": "IMÓVEL ORIUNDO DO CRÉDITO COMERCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76222",
+      "preferencial": "PORTO SECO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76228",
+      "preferencial": "SUBMETIDA À ALÇADA SUPERIOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76243",
+      "preferencial": "CODIFICAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76250",
+      "preferencial": "FAIR VALUE - VALOR JUSTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76256",
+      "preferencial": "HEDGE DE VALOR JUSTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76263",
+      "preferencial": "SWAP HIPOTÉTICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76269",
+      "preferencial": "REGRAS DE NEGÓCIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76",
+      "preferencial": "CONTA CONJUNTA NÃO SOLIDÁRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76290",
+      "preferencial": "BENS IMPENHORÁVEIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76295",
+      "preferencial": "ASSET A\nTIDÃO DE DÉBITOS RELATIVOS A CRÉDITOS TRIBUTÁRIOS FEDERAIS E À DÍVIDA ATIVA DA UNIÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76317",
+      "preferencial": "TELECOBRANÇA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76332",
+      "preferencial": "P\nTÁLOGO ELETRÔNICO DE MODELOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76349",
+      "preferencial": "CONTA VINCULADA - ACT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76362",
+      "preferencial": "OVERBOOKING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76375",
+      "preferencial": "CUSTEIO DE CARNÊS DE IMPOSTOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76385",
+      "preferencial": "PAINEL REDE PARCEIRA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76394",
+      "preferencial": "CONTRATO SERVISING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76405",
+      "preferencial": "ÁREAS COMUNS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76412",
+      "preferencial": "BENS CONCILIADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76427",
+      "preferencial": "COOPERATIVA DE CRÉDITO CENTRAL OU DE 2º GRAU",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76433",
+      "preferencial": "TERMO DE RESPONSABILIDADE DE INVENTÁRIO (T\ndade",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76438",
+      "preferencial": "CADASTRO DE PRODUTOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76467",
+      "preferencial": "MODELO DE APREÇAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76478",
+      "preferencial": "CUSTO FINANCEIRO RECOLHIDO AO BANCO CENTRAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76510",
+      "preferencial": "DUPLA AUTORIZAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76519",
+      "preferencial": "PORTLET",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76566",
+      "preferencial": "FIDELIZAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76581",
+      "preferencial": "PR\nInformação. É desejável que sejam apresentadas reflexões sobre o limite dos benefícios atingidos e as necessidades de correção de rumos e reorientação de estratégias, se houver.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76618",
+      "preferencial": "EQUIPE DE PLANEJAMEN\n funcionar pelo Banco Central do Brasil, em resposta a situações de estresse, contribuindo para a manutenção da solidez, da estabilidade e do regular funcionamento do Sistema Financeiro Nacional (SFN).",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76636",
+      "preferencial": "CONSULTA DADOS DA AQUISIÇÃO - CAQ",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76656",
+      "preferencial": "COMPOSIÇÃO PRODUTO CONTÁBIL - CPC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76671",
+      "preferencial": "CON\ndade",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76696",
+      "preferencial": "GESTÃO  DE  PAGAMENTOS  E  RECEITAS - GPR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76710",
+      "preferencial": "SERVIDOR DE AUTOMAÇÃO - SA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76749",
+      "preferencial": "CONTR\n63,",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76785",
+      "preferencial": "RENDA FAMILIAR BRUTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76791",
+      "preferencial": "SENHORIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76802",
+      "preferencial": "FAMÍLIA HOMOGÊNEA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76809",
+      "preferencial": "FRAUDE CONSUMADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76828",
+      "preferencial": "SISTEMA DE REGULAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76857",
+      "preferencial": "SEGME termo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76863",
+      "preferencial": "NÍVEL DE RISCO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76877",
+      "preferencial": "PERDIMENTO DO BEM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76885",
+      "preferencial": "RISCO DE ESTRATÉGIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76896",
+      "preferencial": "FITOTECA PRIMÁRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76908",
+      "preferencial": "BAIXA DE BOLETO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76914",
+      "preferencial": "CUSTÓDIA-CAUÇÃO DE CHEQUES PRÉ-DATADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76933",
+      "preferencial": "REQUISITOS FUNCIONAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76952",
+      "preferencial": "DOSSIÊ CADMUT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76976",
+      "preferencial": "BOLETIM DE COMANDOS ESPECIAIS (BCE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76981",
+      "preferencial": "BOLETO DE PAGAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_76995",
+      "preferencial": "COMITÊS AVALIADORES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77001",
+      "preferencial": "MATERIALIDADE DA DENÚNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77008",
+      "preferencial": "RETALIAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77018",
+      "preferencial": "COMITÊ DE PRONUNCIAMENTOS CONTÁBEIS 46 - CPC 46",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77042",
+      "preferencial": "SINGLE NAME",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77056",
+      "preferencial": "ORIGEM DE RECURSOS\\/ CÓDIGO DA OPERAÇÃO - OR\\/CO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77091",
+      "preferencial": "APPLICATION IDENTIFIER - APPLID",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77092",
+      "preferencial": "ISPB - IDENTIFICAÇÃO DA INSTITUIÇÃO FINANCEIRA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77125",
+      "preferencial": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE (ADIN)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77150",
+      "preferencial": "OPT-IN DE RECEBÍVEIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_771",
+      "preferencial": "PRINCÍPIO \\",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77180",
+      "preferencial": "REPACTUAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77195",
+      "preferencial": "CONSULTORIA JURÍDICA (CONJUR)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77207",
+      "preferencial": "HAIRCUT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77220",
+      "preferencial": "DELTA DE MATURIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77235",
+      "preferencial": "NÍVEL DE SIGNIFICÂNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77243",
+      "preferencial": "QUI-QU\n QUADRÁTICO MÉDIO - REQM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77258",
+      "preferencial": "SURVEY SELECT (NO SAS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77265",
+      "preferencial": "MÓDULO DE AVALIAÇÃO CADASTRAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77276",
+      "preferencial": "VALOR PROVÁVEL DE CONDENAÇÃO - VPC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77287",
+      "preferencial": "MODELO HÍBRIDO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77307",
+      "preferencial": "CONTRATO  DDI (CONTRATO FUTURO DE CUPOM CAMBIAL)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77319",
+      "preferencial": "DOCUMENTO CAMBIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77333",
+      "preferencial": "EMISSÃO SUBORDINADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77349",
+      "preferencial": "INSTRUMENTO DE TRANSMISSÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77357",
+      "preferencial": "O PROGRAMA NACIONAL DE HABITAÇÃO RURAL (PNHR)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77381",
+      "preferencial": "DISPOSITIVO INUTILIZADOR DE CÉDULAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77390",
+      "preferencial": "RECURSO NO GESP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77401",
+      "preferencial": "DEVEDOR PRINCIPAL FGTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77409",
+      "preferencial": "DECISÃO DE NOTIFICAÇÃO (DN)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77422",
+      "preferencial": "ENCARGOS DEVIDOS NOS RECOLHIMENTOS DE CONTRIBUIÇÕES FGTS E DAS CS EM ATRASO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77429",
+      "preferencial": "GUIA DE RECOLHIMENTO DO FGTS (GRE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77439",
+      "preferencial": "INSTITUTO DE ESTUDOS DE PROTESTO DE TÍTULOS DO BRASIL (IEPTB)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77489",
+      "preferencial": "VISTORIA LOCAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77500",
+      "preferencial": "PROGRAMA EMERGENCIAL DE SUPORTE A EMPREGOS - PESE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77509",
+      "preferencial": "CONHEÇA SEU FORNECEDOR\\/PRESTADOR DE SERVIÇO TERCEIRIZADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77526",
+      "preferencial": "PLANO DE PARCELAMENTO FGTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77533",
+      "preferencial": "REMUNERAÇÃO MENSAL DA TIMEMANIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77546",
+      "preferencial": "ROTINA DE INTERFACE DE APROPRIAÇÃO DA ARRECADAÇÃO E DECLARATÓRIA (RIAD)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77563",
+      "preferencial": "SOLICITAÇÃO DE PARCELAMENTO DE DÉBITOS (SPD)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77577",
+      "preferencial": "SALDO  CONTRATUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77592",
+      "preferencial": "VALOR MÍNIMO DE PARCELA DO\ntermo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77598",
+      "preferencial": "IMÓVEL PRÓPRIO NÃO DE USO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77606",
+      "preferencial": "RECEITA DE OPORTUNIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77613",
+      "preferencial": "BUILT-TO-SUIT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77622",
+      "preferencial": "EXPOSIÇÃO CAMBIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77637",
+      "preferencial": "FUNDS FLOW AND WIRE INSTRUCTIONS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77671",
+      "preferencial": "ATIVIDADE RURAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77684",
+      "preferencial": "CULTURA PERENE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77694",
+      "preferencial": "DB2 QUIESCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77704",
+      "preferencial": "ÁREA CON\nde_definicao",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77743",
+      "preferencial": "RRC0020",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77748",
+      "preferencial": "SISTEMA  CONSTRUTIVO  NÃO   CONVENCIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77753",
+      "preferencial": "VALOR DE MERCADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77767",
+      "preferencial": "PARTICIPANTE DO PIX",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77780",
+      "preferencial": "MODERNIZAÇÃO TECNOLÓGICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77799",
+      "preferencial": "PROGRAMA DESENROLA BRASIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77811",
+      "preferencial": "DIREITOS HUMANOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77833",
+      "preferencial": "CONDITIONAL VALUE AT RISK (CVAR)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77846",
+      "preferencial": "RENDA FIXA (RF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77851",
+      "preferencial": "VALOR PRESENTE DE OBRIGAÇÃO DE BENEFÍCIO DEFINIDO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77857",
+      "preferencial": "NÚMERO CONTROLE IF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77863",
+      "preferencial": "CONDOMÍNIO DE CASAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77901",
+      "preferencial": "ARTEFATOS PARA IMPRESSÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77944",
+      "preferencial": "INFRA ATIVO-ATIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77951",
+      "preferencial": "DATACENTER INTERCONNECTION - DCI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77959",
+      "preferencial": "FULL IMAGE COPY",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77968",
+      "preferencial": "TUNNING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77981",
+      "preferencial": "IMÓVEL DESMEMBRADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_77986",
+      "preferencial": "ENDPOINTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78000",
+      "preferencial": "SERVIÇOS SIGNIFICATIVOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78007",
+      "preferencial": "REGIME DE EMPREITADA INTEGRAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78013",
+      "preferencial": "PREGÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78029",
+      "preferencial": "LISTA DE VERIFICAÇÃO DE ACESSIBILIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78036",
+      "preferencial": "AUTORIDADE COMPETENTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78037",
+      "preferencial": "AGENTE FINANCEIRO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78065",
+      "preferencial": "CONVENÇÃO SOBRE DIVERSIDADE BIOLÓGICA (CDB)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78074",
+      "preferencial": "EHS GUIDELINES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78092",
+      "preferencial": "EFICIÊNCIA ENERGÉTICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78104",
+      "preferencial": "CONGRESSO NACIONAL (CN)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78110",
+      "preferencial": "PERFIL AGENTE MORADIA CONECTIVIDADE SOCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78125",
+      "preferencial": "CADEIA HORIZONTAL CONECTIVIDADE SOCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78131",
+      "preferencial": "ATESTADO DE SAÚDE OCUPACIONAL (ASO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78137",
+      "preferencial": "FALTA NÃO JUSTIFICADA - FNJ",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78165",
+      "preferencial": "REQUERIMENTO DE INFORMAÇÃO (RIC OU RQS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78171",
+      "preferencial": "CARTÃO CAIXA REFEIÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78184",
+      "preferencial": "ESTAGIÁRIO - PARA FIN _termo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78192",
+      "preferencial": "INFORMAÇÃO CONFIDENCIAL OU SIGILOSA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78210",
+      "preferencial": "FUNDO RESERVADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78246",
+      "preferencial": "RELATÓRIO TÉCNICO ADMINISTRATIVO (RTA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78253",
+      "preferencial": "FACILITADOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78265",
+      "preferencial": "CCA TRANSACI\na variação de seu respectivo estoque de provisão, ajustada pelo valor de baixa para prejuízo no período. O valor de baixa para prejuízo considera o fluxo líquido, ou seja, a baixa realizada no mês deduzida da recuperação de créditos baixados.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78293",
+      "preferencial": "PROCESSO ADMINISTRATIVO DE FGTS (PA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78300",
+      "preferencial": "TERMO DE INSCRIÇÃO NA DÍVIDA ATIVA (TID)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78317",
+      "preferencial": "PESQUISA DE MARKETING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78332",
+      "preferencial": "PROBABILIDADE DE DESCUMPRIMENTO (PD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78338",
+      "preferencial": "PRÉ-REGISTRO - CONECTIVIDADE SOCIAL V2",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78373",
+      "preferencial": "ESTIMAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78408",
+      "preferencial": "RECEITA BRUTA ESPERADA EMPREENDIMENTO (RBE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78418",
+      "preferencial": "CHEQUE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78431",
+      "preferencial": "KYC REGISTRY",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78437",
+      "preferencial": "TESTE DE HIPÓTESE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78459",
+      "preferencial": "COMPAR\ntodas as áreas passíveis de ocupação pelas unidades CAIXA e entes (áreas privativas) e áreas comuns da edificação.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78466",
+      "preferencial": "ÁREA DE L\nTIMER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78474",
+      "preferencial": "CESSÃO DE IMÓVEIS SEM ÔNUS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78513",
+      "preferencial": "LEITORA CMC7",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78524",
+      "preferencial": "PAINEL RCC - COMPOSIÇÃO DA PROVISÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78537",
+      "preferencial": "GLOBAL BIODIVERSITY INFORMATION FACILITY (GBIF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78548",
+      "preferencial": "HUMAN RIGHTS IMPACT ASSESSMENT (HRIA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78559",
+      "preferencial": "EV S DE GOVERNO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78565",
+      "preferencial": "LAUDO DE VERIFICAÇÃO TÉCNICA - LVT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78569",
+      "preferencial": "RELATÓRIO DE CONTROLE AMBIENTAL (RCA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78586",
+      "preferencial": "ÁREA ÓRFÃ CONTAMINADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78626",
+      "preferencial": "AMBIENTE SEGREGADO DE QUALIDADE DE DADOS (AQD)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78637",
+      "preferencial": "VIN - CONTA VERIFICADA INCONFORME",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78643",
+      "preferencial": "PROSPECÇÃO DE SOLUÇÃO TECNOLÓGICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78655",
+      "preferencial": "ORÇAMENTO DE INVEST RIA E MELHORIA HABITACIONAL (REGMEL)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78673",
+      "preferencial": "ATRIBUTO HISTÓRICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78707",
+      "preferencial": "DESPESA EXTRAORDINÁRIA ATIVO IMOBILIZADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78719",
+      "preferencial": "ZONE-REDUNDANT-STORAGE - ZRS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78732",
+      "preferencial": "GEO-REDUNDANT ST ADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78742",
+      "preferencial": "GLOBAL SERVER LOAD BALAN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78748",
+      "preferencial": "MOBILE COMMERCE - M-COMMERCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78755",
+      "preferencial": "GUIA DE TRANSFERÊNCIA DE MATERIAL (GTM)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78768",
+      "preferencial": "GASTO COM ATIVIDADE NÃO CONTINUADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78783",
+      "preferencial": "RUBRICA ORÇAMENTÁRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78791",
+      "preferencial": "COMPOSIÇÃO ADMINISTRATIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78800",
+      "preferencial": "DESPESA DE PESSOAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78808",
+      "preferencial": "GESTOR NACIONAL DE RUBRICA ORÇ Plano Orçamentário 99.5324.0001).",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78811",
+      "preferencial": "PLANO ORÇAMENTÁRIO DE PROJETO ESPECIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78817",
+      "preferencial": "TIPO DE GESTÃO DA RUBRICA ORÇAMENTÁRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78821",
+      "preferencial": "PROGRAMA ORÇAMENTÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78840",
+      "preferencial": "NOVA PRECIFICAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78846",
+      "preferencial": "DESPESA EM ATIVO IMOBILIZADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78876",
+      "preferencial": "TRABALHO ESCRAVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78920",
+      "preferencial": "CP – CAPITAL PRINCIPAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78960",
+      "preferencial": "BILHETE DO SEGURO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78971",
+      "preferencial": "ETAPA NO CONTEXTO DE PROCESSOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78983",
+      "preferencial": "TAREFA NO CONTEXTO DA GOVERNANÇA DO ARIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_78988",
+      "preferencial": "GESTÃO POR PROCESSOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79003",
+      "preferencial": "EMC CORPORATIVOS (EMC-C)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79019",
+      "preferencial": "ESCRITURAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79025",
+      "preferencial": "FUNDO ESTRUTURADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79047",
+      "preferencial": "BANCO CORRESPONDENTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79056",
+      "preferencial": "COBRANÇA DOCUMENTÁRIA DE EXPORTAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79064",
+      "preferencial": "(GAFI) GRUPO D\natus",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79071",
+      "preferencial": "SD - SOLICITAÇÃO  vencimento de uma obrigação, voltada, em regra, para compatibilizar os termos da dívida ao potencial pagador do devedor.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79088",
+      "preferencial": "efinicao",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79104",
+      "preferencial": "SEGURADORA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79117",
+      "preferencial": "TARIFA HABITACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79144",
+      "preferencial": "TRANSAÇÕES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79156",
+      "preferencial": "LEILÃO STN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79186",
+      "preferencial": "AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS (ANPD)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79190",
+      "preferencial": "DADO PESSOAL SENSÍVEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79195",
+      "preferencial": "AMBIENTE DE COMERCIALIZAÇÃO LIVRE (ACL)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79208",
+      "preferencial": "PSEUDONIMIZAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79226",
+      "preferencial": "PASTA DE SEGURANÇA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79257",
+      "preferencial": "COORDENAÇÃO EM ENGENHARIA OU ARQU\nermo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79274",
+      "preferencial": "AUTORIZAÇÃO DE ACESSO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79283",
+      "preferencial": "LDAP -  LIGHTWEIGHT DIRECTORY ACCESS PROTOCOL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79289",
+      "preferencial": "AUTENTICAÇÃO DIGITAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79310",
+      "preferencial": "DESEMPENHO DE CARGO OU FUNÇÃO ENGENHARIA E ARQUITETURA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79347",
+      "preferencial": "REGISTRO NACIONAL PROFISSIONAL (RNP)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79353",
+      "preferencial": "CADERNO DE DIRETRIZES DE AMBIÊNCIA (CDA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79373",
+      "preferencial": "ACORD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79386",
+      "preferencial": "ANATOCISMO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79401",
+      "preferencial": "AGENTE PUBLICO (PARA FINS ETICO-DISCIPLINARES)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79409",
+      "preferencial": "RESSARCIMENTO DE VALOR AO BENEFICIÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79429",
+      "preferencial": "ANÁLISE PRELIMINAR (ANAPRE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79444",
+      "preferencial": "DIRETRIZES DE ATENDIMENTO AOS CREDENCIADOS (DICA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79463",
+      "preferencial": "MERCADORIA (COMÉRCIO EXTERIOR)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79494",
+      "preferencial": "EMPRESA CREDENCIADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79510",
+      "preferencial": "FUNDO SOCIOAMBIENTAL CAIXA (FSA CAIXA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79515",
+      "preferencial": "OFFICE OF FOREIGN ASSETS CONTROL (OFAC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79522",
+      "preferencial": "OPERAÇÃO COMPROMISSADA SEM LIVRE MOVIMENTAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79528",
+      "preferencial": "OPERAÇÃO DE ROLAGEM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79536",
+      "preferencial": "DOCUMENTO FISCAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79549",
+      "preferencial": "MODELO DE DADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79564",
+      "preferencial": "COMPACTAÇÃO DE DADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79",
+      "preferencial": "PREDICADO DE OBJETO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79588",
+      "preferencial": "PRONTO ATENDIMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79597",
+      "preferencial": "WMAPE - WEIGHTED MEAN ABSOLUTE PERCENTAGE ERROR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79606",
+      "preferencial": "ÍNDICE DE DESENVOLVIMENTO HUMANO MUNICIPAL (IDHM)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79615",
+      "preferencial": "rança de posse, acessibilidade, adequação cultural, acessibilidade, localização que permita acesso aos bens e serviços urbanos oferecidos pela cidade, no que se refere à disponibilidade de transporte público e condições adequadas de circulação, acesso a eq\n integrante do PTS, é analisado deforma conjunta por Assistente de Projetos Sociais (APS) e engenharia.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79625",
+      "preferencial": "PLANO DE RE\nara extinguir a primeira, quer com a mudança do objeto da prestação quer com a substituição do credor ou do devedor por terceiros.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79630",
+      "preferencial": "CESS\n_gestor_termo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79637",
+      "preferencial": "GESTOR DEMANDANTE DA CONTRATAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79644",
+      "preferencial": "ORÇAMENTO DE TI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79660",
+      "preferencial": "SOLUÇÕES TRANSITÓRIAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79667",
+      "preferencial": "TRABALHO SOCIOAMBIENTAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79686",
+      "preferencial": "ÓRGÃO COLEGIADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79711",
+      "preferencial": "DIRETORIA EXECUTIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79719",
+      "preferencial": "rência de ativos para conta de gravame titulada pelo BACEN na entidade em que os ativos garantidores estiverem depositados ou registrados.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79729",
+      "preferencial": "PRIMEIRA HIPOTECA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79751",
+      "preferencial": "PURCHASING AGREEMENT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79762",
+      "preferencial": "PROGRAMA SAÚDE DO HOMEM E ntrato de distribuição da operação. É usualmente aplicada às Ofertas Públicas de Distribuição de Renda Fixa.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79769",
+      "preferencial": "FAF - FUNDO A FUNDO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79778",
+      "preferencial": "PROJETO LEGAL - HABITAÇÃO DE INTERESSE SOCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79786",
+      "preferencial": "FASE DE UTILIZAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79827",
+      "preferencial": "DEFASAGEM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79869",
+      "preferencial": "PROJETO ESTRUTURANTES DE TI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79887",
+      "preferencial": "LICITAÇÃO - PENHOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79897",
+      "preferencial": "INFORME DE RENDIMENTOS OU EXTRATO DO IMPOSTO DE RENDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79903",
+      "preferencial": "CADEIA DE CUSTÓDIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79910",
+      "preferencial": "PROGRAMA DE INTEGRIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79924",
+      "preferencial": "SITUAÇÃO DE CONTINGÊNCIA NA CM (CENTRAL DE MONITORAMENTO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79932",
+      "preferencial": "EVENTO COBERTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79944",
+      "preferencial": "COORDENADOR  DE  RELACIONAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79974",
+      "preferencial": "SISTEMA DE NEGOCIAÇÃO DE TÍTULOS PÚBLICOS E OUTROS ATIVOS (SISBEX)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79981",
+      "preferencial": "SOU CAIXA ID",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_79990",
+      "preferencial": "COOKIES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80004",
+      "preferencial": "TAXA FLUTUANTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80029",
+      "preferencial": "DIRIGENTE COM VÍNCULO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80",
+      "preferencial": "SOFTWARES DE AUTOMAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80058",
+      "preferencial": "PLANO DE AÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80065",
+      "preferencial": "SIMILARIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80079",
+      "preferencial": "CADEIA DE VALOR AGREGADO (VAC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80085",
+      "preferencial": "VENDEDOR DE MOEDA ESTRANGEIRA EM ESPÉCIE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80113",
+      "preferencial": "RISCO DE COMPLIANCE - VIART",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80142",
+      "preferencial": "RECOMPRA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80152",
+      "preferencial": "ACIDENTE PESSOAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80159",
+      "preferencial": "VALOR BASE CARTÃO DE CRÉDITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80164",
+      "preferencial": "LISTA RESTRITIVA DE EMISSORES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80184",
+      "preferencial": "MODELO DE GESTÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80193",
+      "preferencial": "MEIO DIGITAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80204",
+      "preferencial": "EVENTO DE INDISPONIBILIDADE DE UNIDADE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80211",
+      "preferencial": "OUTORGA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80219",
+      "preferencial": "ARQUÉTIPO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80226",
+      "preferencial": "PLANO DE IMPLEMENTAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80234",
+      "preferencial": "CENTRO DE CUSTO ORÇAMENTÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80246",
+      "preferencial": "BOLSA VERDE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80251",
+      "preferencial": "COMPETÊNCIA - PROGRAM\nuições dos agricultores (taxa de adesão), dos municípios, dos estados e da União, que, juntas, formam o Fundo Garantia Safra (FGS).",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80259",
+      "preferencial": "UPSTREAM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80298",
+      "preferencial": "RERO - RELATÓRIO EXECUTIVO DE RISCO OPERACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80337",
+      "preferencial": "FUNDOS DE INVESTIMENTOS ESPECIAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80345",
+      "preferencial": "NÚCLEO DE CONSTRUÇÃO CIVIL CORPORATE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80354",
+      "preferencial": "RELOJOARIA POPULAR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80363",
+      "preferencial": "SIMULACRO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80381",
+      "preferencial": "NORMA SETORIAL - NS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80389",
+      "preferencial": "CONSTRUTOR RESPONSÁVEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80397",
+      "preferencial": "MONITORAM ade",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80400",
+      "preferencial": "PARECER TÉCNICO DE ENGENHARIA E ARQUITETURA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80406",
+      "preferencial": "TIPOLOGIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80422",
+      "preferencial": "BALANÇO PATRI tatus",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80438",
+      "preferencial": "DELEGACIA CRIME ORGANIZADO - DRCOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80443",
+      "preferencial": "SEGURANÇA EMPRESARIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80449",
+      "preferencial": "TRATAMENTO DOS INSTRUMENTOS POR CARTEIRA (TIC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80469",
+      "preferencial": "LIMITE GLOBAL DE CRÉDITO (LGC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80487",
+      "preferencial": "CERTIFICADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80509",
+      "preferencial": "TEMPLATE BIOMÉTRICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80517",
+      "preferencial": "LISTA DE CERTIFICADOS DIGITAIS REVOGADOS - LCR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80525",
+      "preferencial": "PRESTADOR DE SERVIÇOS BIOMÉTRICOS - PSBIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80540",
+      "preferencial": "INTERVALO DE VALORES ADMISSÍVEIS - IVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80557",
+      "preferencial": "DESCUIDISTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80567",
+      "preferencial": "DCS - DOCUMENTOS COMANDADOSAOSISTEMA (OL 37)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80578",
+      "preferencial": "LDJ - LIBERAÇÃO DE DEPÓSITO JUDICIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80627",
+      "preferencial": "EMPREENDIMEN\no do vigilante contratado pela Empresa de Transporte de Valores para efetuar a movimentação das garantias.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80633",
+      "preferencial": "EQUIPAMENTO URBANO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80641",
+      "preferencial": "GRAU DE PRECISÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80651",
+      "preferencial": "FINANCIAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80658",
+      "preferencial": "IMÓVEIS URBANOS E BENS CORRELATOS URBANOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80669",
+      "preferencial": "LAUDO DE AVALIAÇÃO DE ENGENHARIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80685",
+      "preferencial": "ARMAZENAMENTO PLATAFORMA ALTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80698",
+      "preferencial": "PLATAFORMA BAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80710",
+      "preferencial": "RELATÓRIO FOTOGRÁFICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80720",
+      "preferencial": "SITUAÇÃO LEGAL\\/JURÍDICA DO IMÓVEL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80729",
+      "preferencial": "VAGA DE GARAGEM AUTÔNOMA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80735",
+      "preferencial": "VALOR DE COMPRA E VENDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80741",
+      "preferencial": "VÍCIO CONSTRUTIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80753",
+      "preferencial": "ENDOSSO EM BRANCO OU GERAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80759",
+      "preferencial": "FRAGILIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80769",
+      "preferencial": "SUPERVISÃO DA SEGUNDA LINHA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80786",
+      "preferencial": "ELEMENTO NA HABITAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80807",
+      "preferencial": "OCORRÊNCIA DO CONTROLEINTERNO.CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80813",
+      "preferencial": "CHIEF DATA OFFICER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80832",
+      "preferencial": "CAPITAL RELACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80841",
+      "preferencial": "ESPAÇO CIBERNÉTICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80849",
+      "preferencial": "INCIDENTE  DE  SEGURANÇA  CIBERNÉTICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80884",
+      "preferencial": "PERÍODO CONCESSIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80894",
+      "preferencial": "COEFICIENTE DE EQUIVALÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80903",
+      "preferencial": "ENXURRADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80942",
+      "preferencial": "ZONA BIOCLIMÁTICA - ZB",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80947",
+      "preferencial": "CATEGORIA NO SELO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80953",
+      "preferencial": "EFICIÊNCIA E\n, látex, resinas, dentre outros",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80961",
+      "preferencial": "MADEIRA CERTIFICADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_80972",
+      "preferencial": "PROGRAMA DE AJUSTE DA MÉDIA - PAM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81000",
+      "preferencial": "MODELOS ESTATÍSTICOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81009",
+      "preferencial": "COMISSÃO JULGADORA PERMANENTE - CJP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81067",
+      "preferencial": "APORTE ADICIONAL DE RECURSOS DO PNHR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81071",
+      "preferencial": "DISTRATO EM EMPREENDIMENTOS DE MERCADO (FGTS\\/SBPE\\/PMCMV)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81081",
+      "preferencial": "HOST",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81138",
+      "preferencial": "INCENTIVO CON\nFAM 5439 PROG TRANSF RENDA CADASTROS SOCIAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81153",
+      "preferencial": "CASH IN",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81166",
+      "preferencial": "AUTORIZAÇÃO AMBIENTAL DE FUNCIONAMENTO (AAF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81181",
+      "preferencial": "avaliar e controlar os  impactos ambientais de suas atividades, produtos ou serviços. Geralmente associado a seis processos: política  ambiental. planejamento. implementação e operação. monitoramento e correção das ações. revisão gerencial e \\nmelhoria con O",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81196",
+      "preferencial": "DIRETOR DE RELAÇÕES R",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81208",
+      "preferencial": "LANÇAMENTOS REJEITADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81217",
+      "preferencial": "CAPITAL FINANCEIRO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81229",
+      "preferencial": "SITUAÇÕES DE CARATER MANDATÓRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81252",
+      "preferencial": "CÓDIGO HOSTIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81260",
+      "preferencial": "ABNORMAL END - ABEND",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81273",
+      "preferencial": "UNIDAD\nesso que permite que dispositivos com sistema operacional Android possam executar aplicativos não-autorizados pelo fabricante.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81285",
+      "preferencial": "AGENTE DE IDENTIFICAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81312",
+      "preferencial": "LOGIN CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81329",
+      "preferencial": "PROGRAMA DE ERRADICAÇÃO DO TRABALHO INFANTIL (PETI)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81338",
+      "preferencial": "RESPONSABILIDADE CIVIL DIRETA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81352",
+      "preferencial": "SUB JUDICE\\/BL\nte da divisão do benefício que cabe a cada dependente e ao segurado.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81358",
+      "preferencial": "ÓRGÃOS ESTATUTÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81364",
+      "preferencial": "AMBIENTE DE CONTROLE INTERNO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81370",
+      "preferencial": "CONTROLE CONJUNTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81379",
+      "preferencial": "PROJETOS DE LEI DE CONVERSÃO DE LEI - (PLV)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81391",
+      "preferencial": "DOSSIÊ  INDIVIDUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81401",
+      "preferencial": "PLANO DE ATUAÇÃO \nilidade.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81406",
+      "preferencial": "AVALIAÇÃO DE CONTROLE E COMPLIANCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81421",
+      "preferencial": "OPERAÇÕES CENTRALIZADAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81431",
+      "preferencial": "PRODUTOS DE DADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81441",
+      "preferencial": "NATUREZA SOCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81473",
+      "preferencial": "CATEGORIA PROFISSIONAL - CP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81485",
+      "preferencial": "PROPONENTE DO\nmentos destinados a conhecer seus empregados\\/dirigentes, parceiros, fornecedores e prestadores  de  serviços  terceirizados,  incluindo  procedimentos  de  identificação,  qualificação  e  classificação  de  risco.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81503",
+      "preferencial": "MOMENTO DA VERDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81510",
+      "preferencial": "PAINEL CRÉDITO SALÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81525",
+      "preferencial": "DENÚNCIA DE DESCUMPRIMENTO  de",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81539",
+      "preferencial": "UNIDADE ALIENADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81555",
+      "preferencial": "ÁREA DE CONHECIMENTO QUALIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81561",
+      "preferencial": "ÁREA DE CONHECIMENTO AQUISIÇÕES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81575",
+      "preferencial": "BLOQUEIO DE ACESSO LÓGICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81584",
+      "preferencial": "ASSINATURA DE CÓDIGO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81598",
+      "preferencial": "IDENTIFICADOR DO USUÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81610",
+      "preferencial": "REDE CAIXA AMBIENTE WINDOWS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81635",
+      "preferencial": "CHECKLIST DE GOVERNANÇA VIART",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81665",
+      "preferencial": "PSICOMOTRICIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81672",
+      "preferencial": "TABELA SIMPRO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81689",
+      "preferencial": "PROJE RET 5300 RELACOES TRABALHISTAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81696",
+      "preferencial": "CELEBRAÇÃO DE PARCERIA ESTRATÉGICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81708",
+      "preferencial": "OPERAÇÕES  limitadas, com vistas ao atingimento de determinados objetivos",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81715",
+      "preferencial": "PROPOSTA NÃO VINCULANTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81721",
+      "preferencial": "FATURAMENTO DE PRÊMIO DE SEGURO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81740",
+      "preferencial": "AGENTE FINANCEIRO DO NOVO FIES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81758",
+      "preferencial": "CALENDÁRIO DE PAGAMENTO - ABONO SALARIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81782",
+      "preferencial": "CLOSING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81801",
+      "preferencial": "EARN-OUT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81819",
+      "preferencial": "MATERIAL  ADVERSE  CHANGE (MAC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81830",
+      "preferencial": "SHARE PURCHASE AGREEMENT (SPA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81836",
+      "preferencial": "INOVAÇÃO  INCREMENTAL  OU  DE  MELHORIAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81862",
+      "preferencial": "ABORDAGEM PROATIVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81869",
+      "preferencial": "OMNICANALIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81881",
+      "preferencial": "GE il, “ofensa ou diminuição do patrimônio moral ou material de alguém, resultante de delito extracontratual ou decorrente de instituição de servidão”",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81895",
+      "preferencial": "EVENTO ANORMAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81909",
+      "preferencial": "GESTÃO TÉCNICA E OPERACIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81938",
+      "preferencial": "CONTROLADOR (TERMO SOCIETÁRIO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81959",
+      "preferencial": "TARIFA DE COBERTURA DE CUSTOS PARA ACOMPANHAMENTO MENSAL DA OPE OGADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81970",
+      "preferencial": "SMOTE (SYNTHETIC MINORITY OV  30 dias, nos casos que necessitam mais de uma sessão para conclusão.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81982",
+      "preferencial": "AUTOGESTÃO - SAÚDE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_81987",
+      "preferencial": "SALDO DEVEDOR A RECUPERAR - CONTRATO HONRADO PELO FG-FIES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82016",
+      "preferencial": "ÍNDICE DE QUALIDADE DO ATENDIMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82022",
+      "preferencial": "CARTEIRA DOS CONTRATOS PRÓPRIOS – CAIXA (SI)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82033",
+      "preferencial": "VULNERABILIDADES ZERO-DAY",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82050",
+      "preferencial": "JOGO PA\nlassificada como pública, privada ou híbrida.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82059",
+      "preferencial": "CEPAC CERTIFICADOS DE POTENCIAL ADICIONAL DE CONSTRUÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82063",
+      "preferencial": "WORLD LOTTERY ASSOCIATION SECURITY CONTROL STANDARD (WLA-SCS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82071",
+      "preferencial": "NBR ISO \\/ IEC 27001:2022",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82077",
+      "preferencial": "EDIFICAÇÃO NOVA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82104",
+      "preferencial": "MÉTODOS NÃO-HIERÁRQUICOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82121",
+      "preferencial": "EMPREENDIMENTOS MIGRADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82160",
+      "preferencial": "GESTÃO CONDOMINIAL E PATRIMONIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82204",
+      "preferencial": "SEC ESPECIAL DE COM SOCIAL DA PRESIDÊNCIA DA REPÚBLICA SECOM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82213",
+      "preferencial": "CONFIRM ON DELIVERED - COD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82",
+      "preferencial": "TERMO DE COOPERAÇÃO TÉCNICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82272",
+      "preferencial": "REPASSE DE PRÊMIOS DE SEGUROS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82280",
+      "preferencial": "PATROCINADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82297",
+      "preferencial": "PROGRAMA DE TRANSMISSÃO DE ARQUIVO - PTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82305",
+      "preferencial": "TOMADOR PESSOA FÍSICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82323",
+      "preferencial": "ses de dados. Isso significa que as informações são processadas instantaneamente à medida que são recebidas, permitindo que os dados estejam sempre atualizados e disponíveis para consulta e utilização imediata.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82351",
+      "preferencial": "PORTFÓLIO DE SOLUÇÕES DEPARTAMENTAIS (SIPGC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82356",
+      "preferencial": "RESILIÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82367",
+      "preferencial": "PEDIDO DE REEMBOLSO DE DESPESAS SAÚDE CAIXA PRDP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_8238",
+      "preferencial": "PROGNÓSTICO SAÚDE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82394",
+      "preferencial": "PROPOST\nT VALUATION ADJUSTMENT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82408",
+      "preferencial": "NETTING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82435",
+      "preferencial": "TABELA AUXILIAR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82457",
+      "preferencial": "INTERNATIONAL CAPITAL MARKET ASSOCIATION (ICMA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82462",
+      "preferencial": "FINANÇAS SUSTENTÁVEIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82467",
+      "preferencial": "MANUTENÇÃO PREVENTIVA EM IMÓVEIS DE USO CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82486",
+      "preferencial": "NODE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82495",
+      "preferencial": "TFS - TEAM FOUNDATION SERVICE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82535",
+      "preferencial": "SOLUÇÃO INTEGRADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82551",
+      "preferencial": "DOCUMENTO DE ACERTO DE DIFERENÇA - DAD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82558",
+      "preferencial": "LIMITE GLOBAL CUSTO DOS EMPREENDIMENTOS (LGCE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82571",
+      "preferencial": "E-MAIL MARKETING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82582",
+      "preferencial": "SOLICITAÇÃO DE AÇÃO MARKETING",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82595",
+      "preferencial": "FENABAN - FEDERAÇÃO NACIONAL DOS BANCOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82611",
+      "preferencial": "FATORES INTERNOS AO RISCO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82629",
+      "preferencial": "GARANTIA DO JUÍZO FGTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82656",
+      "preferencial": "RECOMPOSIÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82658",
+      "preferencial": "CARTEIRA DE REGISTRO NACIONAL MIGRATÓRIO (CRNM)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82676",
+      "preferencial": "DIRETÓRIO NACIONAL DE ENDEREÇOS  (E-DNE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82688",
+      "preferencial": "SINISTRO EM CANAL FÍSICO PRÓPRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82696",
+      "preferencial": "SAÚDE FINANCEIRA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82740",
+      "preferencial": "AGÊNCIA PAGADORA DE VALOR CO\norismo adotados pelos parceiros localizados no território nacional.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82751",
+      "preferencial": "ENTES OBRIGADOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82762",
+      "preferencial": "CORPO CLÍNICO - SAÚDE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82767",
+      "preferencial": "HIERARQUIZAÇÃO - SAÚDE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82780",
+      "preferencial": "TERMO  DE  CREDENCIAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82787",
+      "preferencial": "CARTA DE CRÉDITO INDIVIDUAL RECURSOS FGTS (CCI FGTS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82804",
+      "preferencial": "BLOQUEIO POR GERAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82811",
+      "preferencial": "EMISSÃO AVULSA DE CARTÃO SOCIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82820",
+      "preferencial": "DEMANDA INSTITUCIONAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82846",
+      "preferencial": "PRÉ-COMPROMETIMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82859",
+      "preferencial": "REGIME DE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82887",
+      "preferencial": "ORDEM DE INÍCIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82894",
+      "preferencial": "SECRETARIA MUNICIPAL DE URBANISMO, IN\n conformidade ou apresentação em ordem (complying presentation) – Significa uma apresentação de documentos de acordo com os termos da Carta de Crédito",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82907",
+      "preferencial": "BENEFICIÁRIO, EXPORTADOR, VENDEDOR (BENEFICIARY, EXPORTER,",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82930",
+      "preferencial": "NOVAÇÃO DE DÍVIDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82958",
+      "preferencial": "AUTORIDADE NACIONAL DESIGNADA - AND",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82977",
+      "preferencial": "EMISSION REDUCTION - ER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82987",
+      "preferencial": "DOCUMENTO DE CONCEPÇÃO DO PROJETO - PDD\\/DCP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_82992",
+      "preferencial": "POA-DD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83004",
+      "preferencial": "RESOLUÇÃO CONTRATUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83015",
+      "preferencial": "ENTIDADE DE PROGRAMA - EP",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83044",
+      "preferencial": "CARTÃO AFINIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83052",
+      "preferencial": "TRADE-IN NA LICITAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83057",
+      "preferencial": "DOCUMENTO DE ARRECADAÇÃO DE RECEITAS ESTADUAIS - DARE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83073",
+      "preferencial": "ARRENDAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83085",
+      "preferencial": "PRIMEIRO PASSO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83101",
+      "preferencial": "MÓDULO DE ESCORE DO PRODUTOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83130",
+      "preferencial": "L'ACQUA DI FIORI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83142",
+      "preferencial": "RECONSIDERAÇÃO  DE  GLOSAS  E  NEGAÇÕES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83150",
+      "preferencial": "REDECARD (REDE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83179",
+      "preferencial": "BENEFÍCIO DE RENDA DE CIDADANIA (BRC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83193",
+      "preferencial": "CÓDIGO DE VALIDAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83222",
+      "preferencial": "MORTE PRESUMIDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83236",
+      "preferencial": "TOTALIZADOR DE DOCUMENTOS COMPENSÁVEIS - TDC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83256",
+      "preferencial": "mo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83270",
+      "preferencial": "TICKETS - OPEN FINANCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83287",
+      "preferencial": "SOLCRED",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83316",
+      "preferencial": "DEPARTAMENTO MUNICIPAL DE HABITAÇÃO -  _termo",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83343",
+      "preferencial": "NOTA  DE  SEGURO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83351",
+      "preferencial": "RERRATIFICAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83359",
+      "preferencial": "CARTEIRAS DE FUNDOS E GARANTIAS - CFG",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83365",
+      "preferencial": "QUALIFICAÇ isco da contratada, exclusivamente os serviços objeto do respectivo contrato.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83370",
+      "preferencial": "EVIDÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83385",
+      "preferencial": "ENDPOINT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83392",
+      "preferencial": "LOGOFF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83393",
+      "preferencial": "REEMBOLSO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83428",
+      "preferencial": "MÍDIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83429",
+      "preferencial": "NÚCLEO DE PRODUÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83443",
+      "preferencial": "PLANO DE INVESTIMENTO DAS LOTERIAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83456",
+      "preferencial": "VEICULAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83475",
+      "preferencial": "CERTIDÃO POSITIVA COM EFEITOS DE\ndade pertencente às estruturas operacionais dos órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional, localizadas em diversas cidades da Federação, para viabilizar, entre outras atividades administrativas, a operacionalizaçã\nSCOS, COMPLIANCE E INTEGRIDADE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83487",
+      "preferencial": "PESSOAS VULNERÁVEIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83504",
+      "preferencial": "CÂMARA B3",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83523",
+      "preferencial": "DESISTÊNCIA JUDICIAL\\/SUSTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83531",
+      "preferencial": "DIFERENÇA DE PRESTAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83559",
+      "preferencial": "CUSTO POR CLIQUE (CPC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83564",
+      "preferencial": "DNV604",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83578",
+      "preferencial": "CONTRAPARTIDA DE PATROCÍNIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83603",
+      "preferencial": "CONSULTA PRÉVIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83610",
+      "preferencial": "BENS NÃO DE USO (BNDU)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83636",
+      "preferencial": "TEQ - TERMO DE QUITAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83683",
+      "preferencial": "RESULTADO BILATERAL - ACORDO BNB",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83695",
+      "preferencial": "TRANSAÇÃO ESTORNADA - ACORDO BNB",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83710",
+      "preferencial": "TERMO DE NOTIFICAÇÃO AO FORNECEDOR (TNF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83715",
+      "preferencial": "SISTEMA NACIONAL DE INFORMAÇÕES DE DEFESA DO CONSUMIDOR - SINDEC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83722",
+      "preferencial": "REGIÃO DE RISCO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83740",
+      "preferencial": "EMPRESA DE TELESSERVIÇO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83768",
+      "preferencial": "CUSTOMER CARE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83796",
+      "preferencial": "CONSULTA JURÍDICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83827",
+      "preferencial": "DISPONIBILIDADE DE TI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83834",
+      "preferencial": "IMPACTO DE TI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83841",
+      "preferencial": "COMPANHIA SECURITIZADORA - CS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83866",
+      "preferencial": "SOLUÇÃO DE CONTORNO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83875",
+      "preferencial": "entos concluídos ou em construção.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83923",
+      "preferencial": "SISTEMA PÚBLICO DE ESCRITURAÇÃO CONTÁBIL - SPED",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83968",
+      "preferencial": "CERTIFICAÇÃO PQO COMPLIANCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83974",
+      "preferencial": "REDE PARCEIRA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_83981",
+      "preferencial": "TICKET MÉDIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84000",
+      "preferencial": "CLASSIFICAÇÃO BRASILEIRA HIERARQUIZADA DE PROCEDIMENTOS MÉDICOS - CBHPM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84019",
+      "preferencial": "CONTAS DE DESENVO\n TI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84026",
+      "preferencial": "PLATAFORMA MOBILE FIRST",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84050",
+      "preferencial": "CÓDIGO  DE  REFERÊNCIA SIAOI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84108",
+      "preferencial": "CONVÊNIO CONSIGNAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84121",
+      "preferencial": "SERVIDOR TEMPORÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84137",
+      "preferencial": "AMC – AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84151",
+      "preferencial": "CATÁ\nação ou conteúdo da mensagem original",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84155",
+      "preferencial": "ARQUIVO PONTEIRO (PONTEIRO LÓGICO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84170",
+      "preferencial": "FLUXO AUTOMATIZADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84184",
+      "preferencial": "SERIE DOCUMENTAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84203",
+      "preferencial": "MORADIA PRÓPRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84210",
+      "preferencial": "REGIME DE MUTIRÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84225",
+      "preferencial": "SEGMENTO JUDICIARIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84287",
+      "preferencial": "MANDATO UNIFICADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84312",
+      "preferencial": "ASSÉDIO SEXUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84329",
+      "preferencial": "LISURA DE CONDUTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84338",
+      "preferencial": "RESPONSÁVEL PELO ATIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84354",
+      "preferencial": "AÇÕES COM DEPÓSITOS JUDICIAIS - ADJ",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84386",
+      "preferencial": "PROGRAMA DE ESTÍMULO À RE atada, por meio de parcerias e acordos entre as Operadoras do SMP.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84393",
+      "preferencial": "SERVIÇO DE COMUNICAÇÃO MULTIMÍDIA - SCM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84404",
+      "preferencial": "CRÉDITOS ADQUIRIDOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84411",
+      "preferencial": "RENDA FAMILIAR (RF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84428",
+      "preferencial": "NORMA EXTERNA (NE)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84446",
+      "preferencial": "UNIDADES CORRESPONSÁVEIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84454",
+      "preferencial": "BENS MÓVEIS DO CRÉDITO RURAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84464",
+      "preferencial": "CLIMATIZAÇÃO DE PRECISÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84472",
+      "preferencial": "PARTES RELACIONADAS DOS FUNDOS DE GOVERNO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84479",
+      "preferencial": "PROBLEMA DE TI PROATIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84488",
+      "preferencial": "LANÇAMENTO GESTOR OPERACIONAL - LGO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84496",
+      "preferencial": "SOLUÇÕES DEPARTAMENTAIS LEGADAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84502",
+      "preferencial": "CHAVE PROTEGIDA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84513",
+      "preferencial": "HARDWARE SECURITY MODULE (HSM)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84520",
+      "preferencial": "SPLI , switches, balanceadores etc.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84527",
+      "preferencial": "AUTO ENROLLMENT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84535",
+      "preferencial": "BATIMENTO OPERACIONAL VERSUS CONTÁBIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84555",
+      "preferencial": "GESTOR  LOGADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84567",
+      "preferencial": "SOLUÇÃO TECNOLÓGICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84579",
+      "preferencial": "MICROSSEGMENTAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84587",
+      "preferencial": "REFERÊNCIA DATA-BASE SCR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84596",
+      "preferencial": "OCORRÊNCIA TRATADA LOTÉRICA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84605",
+      "preferencial": "CONSÓRCIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84619",
+      "preferencial": "GESTOR DE SIST\ntos gerados pelos sistemas (falha sistêmica).",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84626",
+      "preferencial": "MOVIMENTO REJEITADO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84638",
+      "preferencial": "UNIDADE CONCILIADORA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84649",
+      "preferencial": "PENDÊNCIAS DE CONCILIAÇÃO ELEGÍVEIS À BAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84655",
+      "preferencial": "PILOTO DE TI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84665",
+      "preferencial": "ACORDO JUDICIAL - PETROBRÁS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84674",
+      "preferencial": "ACEITE DE SISTEMAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84682",
+      "preferencial": "EMITE TQ",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84688",
+      "preferencial": "CONTEUDISTA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84698",
+      "preferencial": "CONCILIADO (CON)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84704",
+      "preferencial": "AMBIENTE DE PRODUÇÃO (OU AMBIENTE PRODUTIVO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84717",
+      "preferencial": "IQR - AMPLITUD\nuro Nacional.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84726",
+      "preferencial": "CRÉDITOS CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84732",
+      "preferencial": "CRÉDITOS  ORIGINADOS  EM  OUTROS  AF",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84739",
+      "preferencial": "MOEDA FCVS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84748",
+      "preferencial": "RELATÓRIO DEF822",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84756",
+      "preferencial": "FRACIONAMENTO DE DESPESAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84786",
+      "preferencial": "DESPESA DE PEQUENO VALOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84794",
+      "preferencial": "ASSUNTO PADRÃO (REQ-EXC-PAGCORP)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84807",
+      "preferencial": "AUXILIO INCLUSÃO PRODUTIVA URBANA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84819",
+      "preferencial": "OPERAÇÕES ESTRUTURADAS DE FINANCIAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84834",
+      "preferencial": "INQUÉRITO POLICIAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84849",
+      "preferencial": "PROGRAMA I\n},{",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84873",
+      "preferencial": "RECEBÍVEIS DO AGRONEGÓCIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84911",
+      "preferencial": "GOODWIL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84925",
+      "preferencial": "ASSISTÊNCIA TÉCNICA (DE GOVERNO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84938",
+      "preferencial": "PRESTADOR DE SERVIÇO DE MENSAGERIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84942",
+      "preferencial": "BANCO RECEBEDOR (BOLETOS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84948",
+      "preferencial": "GESTOR OPERACIONAL \n1,",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84959",
+      "preferencial": "TRIGGER",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84967",
+      "preferencial": "ÁREAS GESTORAS DOS ARQUIVOS DE MOVIMENTAÇÃO FINANCEIRA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84974",
+      "preferencial": "BASE DE CÁLCULO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84982",
+      "preferencial": "REGIME ESPECIAL DE TRIBUTAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_84997",
+      "preferencial": "ÁREA DE GOVERNANÇA DE TI",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85010",
+      "preferencial": "PROGRAMA GERADOR DA DECLARAÇÃO DE SER },{",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85025",
+      "preferencial": "LISTA DE SERVIÇOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85035",
+      "preferencial": "HARDWARE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85055",
+      "preferencial": "CHATBOT",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85074",
+      "preferencial": "IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CÂMBIO E SEGURO OU RELATIVAS A TÍTULOS OU VALORES MOBILIÁRIOS (IOF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85082",
+      "preferencial": "IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO (ICM\ncao",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85091",
+      "preferencial": "ESCRITURAÇÃO FISCAL DIGITAL DAS CONTRIBUIÇÕES INCIDENTES SOBRE A RECEITA (EFD-CONTRIBUIÇÕ\nA,  os  quais  recebem  conexões  de  aplicações  para  envio  de e-mails internos e\\/ou externos.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85103",
+      "preferencial": "DECLARAÇÃO DO IMPOSTO SOBRE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85117",
+      "preferencial": "DOCUMENTO DE ARRECADAÇÃO DO SISTEMA INTEGRADO  e da administração tributária.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85123",
+      "preferencial": "COORDENAÇÃO DO SISTEMA DE TRIBUTAÇÃO (CST)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85131",
+      "preferencial": "CONTRIBUIÇÃO PREVIDENCIÁRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85147",
+      "preferencial": "BENS REMANESCENTES (OGU)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85169",
+      "preferencial": "JORNADA NORMAL DE TRABALHO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85178",
+      "preferencial": "INTIMAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85203",
+      "preferencial": "ESTRATÉGIA DE CLIENTES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85223",
+      "preferencial": "TRIBUTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85247",
+      "preferencial": "UNIDADE EXECUTORA DE CONTRATO C\nvolvimento de aplicativos, acessível por meio endereço https:\\/\\/portalapi.caixa\\/",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85254",
+      "preferencial": "CONSUMIDOR DE SERVIÇOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85290",
+      "preferencial": "LETRA DE IMPRENSA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85299",
+      "preferencial": "OBJETIVO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85325",
+      "preferencial": "RECURSO - ASPECTO TRIBUTÁRIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85334",
+      "preferencial": "CONTA PRÓPRIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85347",
+      "preferencial": "NUMERÁRIO REMANESCENTE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85354",
+      "preferencial": "MERCADO A TERMO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85361",
+      "preferencial": "SUPERVISÃO BASEADA EM RISCO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85385",
+      "preferencial": "COVENANTS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85391",
+      "preferencial": "RISCO DE REPUTAÇÃ ompra de uma casa pronta.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85398",
+      "preferencial": "RESCISÃO CONTRATUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85416",
+      "preferencial": "TESTE DE ADERÊNCIA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85431",
+      "preferencial": "CONTENT DELIVERY NETWORK (CDN)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85438",
+      "preferencial": "INTERNET PROTOCOL (IP)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85445",
+      "preferencial": "PREÇO DE FACE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85449",
+      "preferencial": "PO\nAGRONEGOCIO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85455",
+      "preferencial": "ENTIDADE VINCULADA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85470",
+      "preferencial": "MODELO DE ÁRVORE DE DECISÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85485",
+      "preferencial": "MERCADOS BOVESPA (BM&FBOVESPA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85493",
+      "preferencial": "GESTÃO DE RISCOS (FGTS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85499",
+      "preferencial": "ÁRVORE DE DECISÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85505",
+      "preferencial": "PERDA ESPERADA ASSOCIADA AO RISCO DE CRÉDITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85524",
+      "preferencial": "PERÍODOS ANUAIS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85530",
+      "preferencial": "MULTIPLICADOR DE PERDAS INTERNAS - ILM",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85535",
+      "preferencial": "RESULTADO LÍQUIDO DA CARTEIRA DE NEGOCIAÇÃO - NTB",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85551",
+      "preferencial": "RELATÓRIO TÉCNICO DA EY",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85574",
+      "preferencial": "ARBITRAGEM - VEÍCULO DE INVESTIMENTOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_8558",
+      "preferencial": "CUSTO DO ATIVO DE DIREITO DE USO EM ARRENDAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85595",
+      "preferencial": "LEASEBA\n 5322 CONTABILIDADE CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85600",
+      "preferencial": "VALOR DO AJUSTE ORIGINADO POR RENEGOCIAÇÃO EM ARRENDAMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85610",
+      "preferencial": "ARRENDAMENTO OPERAC\nCAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85616",
+      "preferencial": "DEMONSTRAÇÃO DA POSIÇÃO FINANCEIRA NO FINAL DO PERÍODO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85629",
+      "preferencial": "GARANTIAS - BENS OU DIREITOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85637",
+      "preferencial": "FU\nNomeUnidade",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85645",
+      "preferencial": "INTERNATIONAL ACCOUNTING STANDARD (IAS)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85673",
+      "preferencial": "UC_PLAY",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85687",
+      "preferencial": "PAGADOR NO PIX AUTOMATICO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85772",
+      "preferencial": "ARRASTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85790",
+      "preferencial": "PCN - PLANO DE CONTINUIDADE DE NEGÓCIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85802",
+      "preferencial": "CADEIA DE VALOR",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85809",
+      "preferencial": "GESTOR DE RECURSOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85825",
+      "preferencial": "DOCUMENTO COM\n gerenciamento, acesso a interface que possibilitam a visualização de dados de negócio.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85831",
+      "preferencial": "APIM PARCEIROS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85869",
+      "preferencial": "CONTRAPARTE NO GERENCIAMENTO DE RISCO DE CRÉDITO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85875",
+      "preferencial": "PARTES RELACIONADAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85907",
+      "preferencial": "PGCCN – PROGRAMA DE GESTÃO DE CRISES E CONTINUIDADE DE NEGÓCIOS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85919",
+      "preferencial": "FUNIL DA INOVAÇÃO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85927",
+      "preferencial": "FLEXIBILIZAÇÃO DE NORMAS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85939",
+      "preferencial": "RELATÓRIO DE CARTEIRA DE CRÉDITO (RCC)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85951",
+      "preferencial": "ACRÉSCIMO DE VALOR CONTRATUAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85960",
+      "preferencial": "BID BONDS",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85964",
+      "preferencial": "FATOR DE PONDERAÇÃO DE RISCO (FPR)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85969",
+      "preferencial": "MEDIDAS DE APETITE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_8",
+      "preferencial": "VALORES RESERVADOS (VR)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_85986",
+      "preferencial": "GESTOR DO PROCESSO (GERENCIAMENTO DE CONFIGURAÇÃO)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86011",
+      "preferencial": "OCORRÊNCIAS DE RISCO DE COMPLIANCE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86020",
+      "preferencial": "MANUAL NORMATIVO DE ARQUIVOS DIGITAIS- MANAD",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86044",
+      "preferencial": "FUNDO DE INVESTIMENTO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86052",
+      "preferencial": "CAPACITY",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86059",
+      "preferencial": "PERSONA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86100",
+      "preferencial": "CAIXA CORR álise, com emissão de parecer, de plano de ação e das evidências para encerramento das ações de Controle Interno (criticidade Alta e Extrema) e de Auditoria Interna (Criticidade Média e Alta)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86120",
+      "preferencial": "PRECLU ar e responder a possíveis incidentes de segurança cibernética.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86124",
+      "preferencial": "CREDENCIAL DE ACESSO",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86137",
+      "preferencial": "TEMPO MÉDIO DE  u sistema.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86142",
+      "preferencial": "PROGRAMA DE GARANTIA DE PREÇO PARA A AGRICULTURA FAMILIAR (PGPAF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86145",
+      "preferencial": "CICLO GRC - GESTÃO DE RISCOS E CONTROLES",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86177",
+      "preferencial": "OBRIGAÇÃO - NE",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86206",
+      "preferencial": "REDE DE TELECOMUNICAÇÕES DO MERCADO (RTM)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86224",
+      "preferencial": "GÁS RAC",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86262",
+      "preferencial": "EXP\niárias sob forma de compartilhamento, empregados Caixa atuando nas empresas subsidiárias mantendo o vínculo empregatício com a Caixa",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86269",
+      "preferencial": "NÍVEL DE UTILIZAÇÃO DA CAPACIDADE INSTALADA (NUCI)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86305",
+      "preferencial": "PASSAPORTE OFICIAL (PASOF)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86313",
+      "preferencial": "CERTIFICADO DE CRÉDITO DE MASSA FUTURA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86334",
+      "preferencial": "ESCRITÓRIO AGRONEGÓCIO PF (ESA)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86364",
+      "preferencial": "CENTRALIZADORA REGIONAL CAIXA",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86369",
+      "preferencial": "VALIDAÇÃO - PROGRAMA CAIXA MELHORES PRÁTICAS EM GESTÃO LOCAL",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86378",
+      "preferencial": "TAXA DE NEG  e oportunidades e apoiar o alcance de seus objetivos financeiros ou estratégicos, distintos de metas sustentáveis.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86384",
+      "preferencial": "COMITÊ  DE  ESTRATÉGIA  DE  RISCOS,  COMPLIANCE  E  GOVERNANÇA  DA  CAIXA ASSET (CERCG)",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86407",
+      "preferencial": "IMPOS ção acessória.",
+      "sinonimos": []
+    },
+    {
+      "id": "TERM_86410",
+      "preferencial": "COMITÊ GESTOR DO IBS (CGIBS)",
+      "sinonimos": []
+    }
+  ]
+}
