@@ -3,16 +3,29 @@ NRPP – Normative-to-Record Preprocessing Pipeline
 Projeto experimental para extração estruturada de evidências documentais
 a partir de normativos institucionais.
 
-Execução:
+## Estrutura mantida
+
+- `orchestrator.py`: ponto de entrada principal do NRPP.
+- `BuscadorDePdfs.py`: utilitário para localizar e copiar PDFs para a pasta de processamento.
+- `pipeline/`: etapas A1 a A5 do processamento.
+- `resources/`: glossários e scripts auxiliares de preparação de glossário.
+- `pdfs/`: pasta local de entrada para PDFs.
+
+As antigas pastas de demonstração empacotadas foram removidas para manter uma
+única versão do programa na raiz do repositório.
+
+## Instalação
 
 pip install -r requirements.txt
 
-Processar PDFs já existentes na pasta pdfs:
+## Execução
+
+Processar PDFs já existentes na pasta `pdfs`:
 
 python orchestrator.py pdfs --clean
 
-Buscar PDFs em uma pasta do usuário, copiar para pdfs mantendo subpastas
-e executar o pipeline:
+Buscar PDFs em uma pasta do usuário, copiar para `pdfs` mantendo subpastas e
+executar o pipeline:
 
 python orchestrator.py pdfs --origem /caminho/da/pasta/dos/usuarios --clean-pdfs --clean
 

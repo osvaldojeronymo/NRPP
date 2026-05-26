@@ -13,4 +13,9 @@ output/
 */output/
 pdfs/NRPP_RESULTADOS/
 
+controle_pdfs.db
+processamento_pdfs.csv
+relatorio_processamento.xlsx
+checkpoint.txt
+
 .DS_Store
