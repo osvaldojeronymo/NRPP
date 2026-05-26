@@ -66,8 +66,8 @@ def run(a4_csv, out_xlsx):
     # caminhos dos arquivos anteriores
 
     a3_csv = a4_csv.parent / a4_csv.name.replace("_normalized", "")
-    a2_csv = a4_csv.parent / "document_segments.csv"
-    audit_csv = a4_csv.parent / f"{a4_csv.stem}_audit.csv"
+    a2_csv = a3_csv.parent / a3_csv.name.replace("_cues.csv", ".csv")
+    audit_csv = a4_csv.parent / a4_csv.name.replace("_normalized.csv", "_audit.csv")
 
     # Excel com múltiplas abas
 

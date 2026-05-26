@@ -6,4 +6,44 @@ a partir de normativos institucionais.
 Execução:
 
 pip install -r requirements.txt
-python orchestrator.py
+
+Processar PDFs já existentes na pasta pdfs:
+
+python orchestrator.py pdfs --clean
+
+Buscar PDFs em uma pasta do usuário, copiar para pdfs mantendo subpastas
+e executar o pipeline:
+
+python orchestrator.py pdfs --origem /caminho/da/pasta/dos/usuarios --clean-pdfs --clean
+
+Buscar PDFs na pasta sincronizada do SharePoint pela matrícula do usuário:
+
+python orchestrator.py pdfs --matricula c088576 --clean-pdfs --clean
+
+Executar apenas o buscador de PDFs, com controle por hash, SQLite, CSV,
+checkpoint e relatório Excel:
+
+python BuscadorDePdfs.py --matricula c088576 --clean
+
+Quando a matrícula ou a pasta raiz do SharePoint é informada e nenhum destino
+é passado, a pasta central de PDFs é:
+
+PASTA_RAIZ/scripts/pdfs
+
+Também é possível informar a pasta raiz manualmente. No Windows, Path aceita
+barra normal ou barra invertida com string raw:
+
+python orchestrator.py pdfs --pasta-raiz "C:/Users/c088576/Caixa Economica Federal/O365GRP-Projects - NRPP" --clean-pdfs --clean
+
+A saída preserva a organização relativa dos PDFs em:
+
+pdfs/NRPP_RESULTADOS/
+
+Exemplo:
+
+/caminho/da/pasta/dos/usuarios/setor_a/norma.pdf
+
+gera:
+
+pdfs/setor_a/norma.pdf
+pdfs/NRPP_RESULTADOS/setor_a/norma/
