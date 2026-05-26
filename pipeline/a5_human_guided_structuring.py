@@ -5,16 +5,20 @@ import pandas as pd
 from pathlib import Path
 
 
-def run(a4_csv, out_xlsx):
+def _valores(g, coluna, filtro_coluna=None, filtro_valor=None):
 
-    print("\n[A5] Estruturação analítica das evidências")
+    if coluna not in g.columns:
+        return []
 
-    a4_csv = Path(a4_csv)
+    dados = g
 
-    df = pd.read_csv(a4_csv, sep=";", dtype=str)
+    if filtro_coluna and filtro_coluna in g.columns:
+        dados = dados[dados[filtro_coluna] == filtro_valor]
 
-    if df.empty:
-        raise ValueError("A4 não produziu evidências.")
+    return sorted(dados[coluna].dropna().astype(str).unique())
+
+
+def montar_validacao_nrpp(df):
 
     rows = []
 
@@ -22,8 +26,11 @@ def run(a4_csv, out_xlsx):
 
         texto = g["texto"].iloc[0]
 
-        docs = g[g["classe"] == "documento"]["termo_norm"].dropna().unique()
-        procs = g[g["classe"] == "processo"]["termo_norm"].dropna().unique()
+        docs = _valores(g, "termo_norm", "classe", "documento")
+        procs = _valores(g, "termo_norm", "classe", "processo")
+        entidades = _valores(g, "entidade_coletiva_detectada")
+        tipos = _valores(g, "tipo_funcional")
+        rels = _valores(g, "categoria_relacionamento")
 
         rows.append({
 
@@ -33,16 +40,25 @@ def run(a4_csv, out_xlsx):
                 texto,
 
             "Ação normativa detectada":
-                " / ".join(sorted(procs)),
+                " / ".join(procs),
 
             "Documento / artefato requerido":
-                " / ".join(sorted(docs)),
+                " / ".join(docs),
+
+            "Tipo funcional ISDF":
+                " / ".join(tipos),
+
+            "Entidade coletiva detectada":
+                " / ".join(entidades),
+
+            "Categoria de relacionamento ISDF":
+                " / ".join(rels),
 
             "Número de evidências":
                 len(g),
 
             "Conceitos detectados":
-                " / ".join(sorted(g["termo_norm"].dropna().unique())),
+                " / ".join(_valores(g, "termo_norm")),
 
             "Validação pesquisador":
                 "",
@@ -58,7 +74,94 @@ def run(a4_csv, out_xlsx):
 
         })
 
-    df_out = pd.DataFrame(rows)
+    return pd.DataFrame(rows)
+
+
+def montar_descricao_isdf(df):
+
+    rows = []
+
+    if "isdf_elemento" not in df.columns:
+        return pd.DataFrame()
+
+    for seg_id, g in df.groupby("id"):
+
+        texto = g["texto"].iloc[0]
+
+        for elemento, item in g.groupby("isdf_elemento", dropna=True):
+            if not elemento:
+                continue
+
+            rows.append({
+                "Fonte (item normativo)": seg_id,
+                "Elemento ISDF": elemento,
+                "Área ISDF": " / ".join(_valores(item, "isdf_area")),
+                "Tipo funcional": " / ".join(_valores(item, "tipo_funcional")),
+                "Termos normalizados": " / ".join(_valores(item, "termo_norm")),
+                "Trecho da norma": texto,
+                "Validação pesquisador": "",
+                "Observações": "",
+            })
+
+    return pd.DataFrame(rows)
+
+
+def montar_relacionamentos_isdf(df):
+
+    if "classe" not in df.columns:
+        return pd.DataFrame()
+
+    rel = df[df["classe"].isin(["documento", "entidade_coletiva", "relacionamento"])].copy()
+
+    if rel.empty:
+        return pd.DataFrame()
+
+    colunas = [
+        "id",
+        "texto",
+        "classe",
+        "termo",
+        "termo_norm",
+        "entidade_coletiva_detectada",
+        "documento_relacionado",
+        "categoria_relacionamento",
+        "isdf_elemento",
+        "necessita_validacao",
+    ]
+
+    return rel[[coluna for coluna in colunas if coluna in rel.columns]]
+
+
+def montar_controle_descricao():
+
+    return pd.DataFrame([{
+        "Identificador da descrição da função": "",
+        "Instituição responsável": "",
+        "Regras e/ou convenções utilizadas": "ISDF - Norma Internacional para Descricao de Funcoes, Conselho Internacional de Arquivos, 2008",
+        "Status": "Preliminar",
+        "Nível de detalhamento": "Parcial",
+        "Datas de criação, revisão ou obsolescência": "",
+        "Idioma(s) e forma(s) de escrita": "Português",
+        "Fontes": "",
+        "Notas de manutenção": "Descrição gerada automaticamente pelo NRPP para validação humana.",
+    }])
+
+
+def run(a4_csv, out_xlsx):
+
+    print("\n[A5] Estruturação analítica das evidências")
+
+    a4_csv = Path(a4_csv)
+
+    df = pd.read_csv(a4_csv, sep=";", dtype=str)
+
+    if df.empty:
+        raise ValueError("A4 não produziu evidências.")
+
+    df_out = montar_validacao_nrpp(df)
+    df_isdf = montar_descricao_isdf(df)
+    df_rels = montar_relacionamentos_isdf(df)
+    df_controle = montar_controle_descricao()
 
     out_xlsx = Path(out_xlsx)
     out_xlsx.parent.mkdir(parents=True, exist_ok=True)
@@ -84,6 +187,24 @@ def run(a4_csv, out_xlsx):
         df.to_excel(
             writer,
             sheet_name="evidencias_normalizadas",
+            index=False
+        )
+
+        df_isdf.to_excel(
+            writer,
+            sheet_name="descricao_isdf",
+            index=False
+        )
+
+        df_rels.to_excel(
+            writer,
+            sheet_name="relacionamentos_isdf",
+            index=False
+        )
+
+        df_controle.to_excel(
+            writer,
+            sheet_name="controle_descricao",
             index=False
         )
 

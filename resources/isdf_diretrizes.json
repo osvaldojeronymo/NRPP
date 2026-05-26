@@ -1,0 +1,92 @@
+{
+  "referencia": "ISDF - Norma Internacional para Descricao de Funcoes, Conselho Internacional de Arquivos, 2008",
+  "tipos_funcionais": {
+    "funcao": {
+      "isdf_area": "5.1",
+      "isdf_elemento": "5.1.1 Tipo",
+      "descricao": "Funcao"
+    },
+    "subfuncao": {
+      "isdf_area": "5.1",
+      "isdf_elemento": "5.1.1 Tipo",
+      "descricao": "Subfuncao"
+    },
+    "atividade": {
+      "isdf_area": "5.1",
+      "isdf_elemento": "5.1.1 Tipo",
+      "descricao": "Atividade"
+    },
+    "tarefa": {
+      "isdf_area": "5.1",
+      "isdf_elemento": "5.1.1 Tipo",
+      "descricao": "Tarefa"
+    },
+    "transacao": {
+      "isdf_area": "5.1",
+      "isdf_elemento": "5.1.1 Tipo",
+      "descricao": "Transacao"
+    }
+  },
+  "classes_isdf": {
+    "documento": {
+      "isdf_area": "6",
+      "isdf_elemento": "6.1 Recurso relacionado",
+      "descricao": "Documento ou recurso arquivistico relacionado a funcao"
+    },
+    "processo": {
+      "isdf_area": "5.2",
+      "isdf_elemento": "5.2.2 Descricao",
+      "descricao": "Acao, procedimento ou processo que ajuda a descrever a funcao"
+    },
+    "funcao": {
+      "isdf_area": "5.1",
+      "isdf_elemento": "5.1.1 Tipo",
+      "descricao": "Indicador de funcao ou subdivisao funcional"
+    },
+    "entidade_coletiva": {
+      "isdf_area": "6",
+      "isdf_elemento": "6.1 Recurso relacionado",
+      "descricao": "Entidade coletiva relacionada a funcao"
+    },
+    "legislacao": {
+      "isdf_area": "5.2",
+      "isdf_elemento": "5.2.4 Legislacao",
+      "descricao": "Base legal da funcao"
+    },
+    "data": {
+      "isdf_area": "5.2",
+      "isdf_elemento": "5.2.1 Datas",
+      "descricao": "Data ou periodo relacionado a funcao"
+    },
+    "relacionamento": {
+      "isdf_area": "6",
+      "isdf_elemento": "6.2 Natureza do relacionamento",
+      "descricao": "Natureza da relacao entre funcao, entidade coletiva e recurso arquivistico"
+    }
+  },
+  "categorias_relacionamento": {
+    "hierarquico": [
+      "subordinado",
+      "vinculado",
+      "integra",
+      "composto",
+      "subfuncao"
+    ],
+    "temporal": [
+      "sucede",
+      "substitui",
+      "anterior",
+      "posterior",
+      "vigencia"
+    ],
+    "associativo": [
+      "relacionado",
+      "apoia",
+      "utiliza",
+      "produz",
+      "mantem",
+      "executa",
+      "responsavel"
+    ]
+  }
+}

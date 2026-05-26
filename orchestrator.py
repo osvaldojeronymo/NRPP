@@ -36,7 +36,7 @@ Texto bruto extraído do PDF.
 Arquivos intermediários do pipeline:
 - segmentos_texto.csv
 - evidencias_semanticas.csv
-- evidencias_normalizadas.csv
+- evidencias_normalizadas.csv, com normalização terminológica e metadados ISDF
 
 ## AUDITORIA_PIPELINE
 termos_fora_do_glossario.csv
@@ -44,7 +44,8 @@ Termos detectados no texto que não possuem correspondência no glossário.
 
 ## PRODUTO_FINAL
 tabela_validacao_nrpp.xlsx
-Tabela analítica para validação humana.
+Tabela analítica para validação humana, incluindo abas de descrição e
+relacionamentos ISDF.
 """
 
     (pasta_resultado / "README.md").write_text(texto)

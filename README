@@ -9,6 +9,7 @@ a partir de normativos institucionais.
 - `BuscadorDePdfs.py`: utilitário para localizar e copiar PDFs para a pasta de processamento.
 - `pipeline/`: etapas A1 a A5 do processamento.
 - `resources/`: glossários e scripts auxiliares de preparação de glossário.
+- `resources/isdf_diretrizes.json`: mapeamento das diretrizes ISDF usadas para enriquecer a validação.
 - `pdfs/`: pasta local de entrada para PDFs.
 
 As antigas pastas de demonstração empacotadas foram removidas para manter uma
@@ -60,3 +61,12 @@ gera:
 
 pdfs/setor_a/norma.pdf
 pdfs/NRPP_RESULTADOS/setor_a/norma/
+
+O produto final `tabela_validacao_nrpp.xlsx` inclui abas de apoio à validação
+arquivística conforme a ISDF:
+
+- `validacao_nrpp`
+- `descricao_isdf`
+- `relacionamentos_isdf`
+- `controle_descricao`
+- `evidencias_normalizadas`
