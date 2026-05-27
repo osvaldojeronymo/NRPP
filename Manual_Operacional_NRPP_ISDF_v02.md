@@ -8,7 +8,7 @@ Autor: Osvaldo Jeronymo Neto
 Versão: v02  
 Data: 2026-05-27
 
-## 1. Apresentação
+## 1 Apresentação
 
 O Normative-to-Record Preprocessing Pipeline (NRPP) é um pipeline metodológico e computacional destinado a apoiar a preparação de evidências arquivísticas a partir de normativos institucionais.
 
@@ -18,7 +18,7 @@ Esta versão do manual descreve o uso operacional do NRPP considerando essa nova
 
 O NRPP não substitui a análise arquivística profissional. Ele produz insumos estruturados, rastreáveis e auditáveis para validação humana.
 
-## 2. Objetivo
+## 2 Objetivo
 
 Estabelecer o procedimento operacional para executar o NRPP em normativos institucionais, gerando artefatos intermediários e uma planilha final de validação humana com apoio da ISDF.
 
@@ -31,7 +31,7 @@ O procedimento busca garantir:
 - separação entre automação e decisão arquivística;
 - preservação de trilha de auditoria.
 
-## 3. Mudança metodológica introduzida pela ISDF
+## 3 Mudança metodológica introduzida pela ISDF
 
 A perspectiva anterior do NRPP tinha como foco principal a pergunta:
 
@@ -43,7 +43,7 @@ A perspectiva atual, orientada pela ISDF, amplia a pergunta:
 
 Essa mudança desloca o produto final de uma simples tabela de evidências documentais para uma base de validação funcional, capaz de apoiar descrições arquivísticas mais consistentes.
 
-## 4. Base conceitual
+## 4 Base conceitual
 
 Para fins operacionais, o NRPP utiliza a ISDF como referência para estruturar informações relacionadas à descrição de funções.
 
@@ -60,7 +60,7 @@ Os elementos incorporados ao pipeline incluem:
 
 Esses elementos são sugestões estruturadas para validação. Eles não constituem descrição arquivística definitiva.
 
-## 5. Escopo de aplicação
+## 5 Escopo de aplicação
 
 O NRPP pode ser aplicado a arquivos PDF contendo normativos institucionais com camada textual extraível.
 
@@ -81,7 +81,7 @@ O NRPP não é adequado, sem preparação adicional, para:
 - documentos cujo acesso não esteja formalmente autorizado;
 - análises que exijam decisão arquivística automática.
 
-## 6. Estrutura do repositório
+## 6 Estrutura do repositório
 
 A estrutura atual do repositório é:
 
@@ -113,7 +113,7 @@ Os principais componentes são:
 - `resources/isdf_diretrizes.json`: mapeamento das diretrizes ISDF usadas no enriquecimento do A4;
 - `pdfs/`: pasta local de entrada para PDFs.
 
-## 7. Arquitetura operacional do pipeline
+## 7 Arquitetura operacional do pipeline
 
 O NRPP é executado em cinco etapas principais.
 
@@ -370,6 +370,7 @@ Para cada PDF, o pipeline cria um dossiê:
 
 ```text
 pdfs/NRPP_RESULTADOS/<subpasta>/<nome_pdf>/
+|-- ENTRADA/
 |-- EXTRACAO_TEXTO/
 |-- INTERMEDIARIOS/
 |-- AUDITORIA_PIPELINE/
@@ -379,6 +380,7 @@ pdfs/NRPP_RESULTADOS/<subpasta>/<nome_pdf>/
 
 Conteúdo esperado:
 
+- `ENTRADA/`: cópia do PDF original;
 - `EXTRACAO_TEXTO/`: texto extraído;
 - `INTERMEDIARIOS/`: CSVs das etapas A2, A3 e A4;
 - `AUDITORIA_PIPELINE/`: termos fora do glossário;
