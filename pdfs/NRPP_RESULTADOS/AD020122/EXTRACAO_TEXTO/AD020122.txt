@@ -1,0 +1,3985 @@
+
+CONTRATAÇÕES DE BENS E SERVIÇOS
+
+SUMÁRIO DA NORMA
+
+1
+2
+3
+3.1
+3.1.8
+3.1.9
+3.1.10
+
+3.1.11
+3.1.12
+
+3.1.13
+3.1.14
+3.2
+3.2.1
+3.2.2
+3.3
+3.3.3
+3.3.4
+3.3.5
+3.3.6
+3.4
+3.5
+3.5.1
+3.5.2
+3.5.3
+3.6
+3.6.1
+3.6.2
+
+3.6.2.1
+3.6.2.2
+3.6.2.3
+3.6.2.4
+3.6.2.5
+3.6.3
+3.6.4
+3.6.5
+4
+4.1
+4.2
+4.2.1
+4.2.1.1
+4.2.1.2
+4.2.1.3
+4.2.1.4
+4.3
+4.3.1
+
+FINALIDADE,6
+DEFINIÇÕES,6
+REGRAS,6
+DISPOSIÇÕES GERAIS,6
+LICITAÇÃO,6
+CONTRATAÇÕES DIRETAS,6
+CONTRATAÇÃO COM RECURSOS DE AGÊNCIA OFICIAL DE COOPERAÇÃO ESTRANGEIRA OU
+ORGANISMO FINANCEIRO MULTILATERAL DE QUE O BRASIL SEJA PARTE ,6
+VEDAÇÕES E IMPEDIMENTOS,7
+PREVENÇÃO À LAVAGEM DE DINHEIRO, AO FINANCIAMENTO DO TERRORISMO E AO
+FINANCIAMENTO DA PROLIFERAÇÃO DE ARMAS DE DESTRUIÇÃO EM MASSA ,8
+PROGRAMA DE INTEGRIDADE,8
+ATOS LESIVOS À CAIXA OU À ADMINISTRAÇÃO PÚBLICA,8
+RESPONSABILIDADES,9
+GESTOR,9
+GECOT/CECOT,10
+PLANEJAMENTO DA CONTRATAÇÃO,10
+PLANO DE AQUISIÇÕES CAIXA,10
+ESTUDOS PRELIMINARES,11
+GERENCIAMENTO DE RISCOS,12
+TERMO DE REFERÊNCIA,13
+PESQUISA DE PREÇOS,14
+SOLICITAÇÃO DE CONTRATAÇÃO,17
+PRAZO PARA SOLICITAÇÃO DE CONTRATAÇÃO,17
+NÍVEL DE CLASSIFICAÇÃO DOS DOCUMENTOS DE CONTRATAÇÃO,18
+SOLICITAÇÃO NO SICLG,18
+FORMALIZAÇÃO DE CONTRATOS,18
+DISPOSIÇÕES GERAIS,18
+VERIFICAÇÃO DE IMPEDIMENTOS PARA CONTRATAR E DE REGULARIDADE DO
+FORNECEDOR,21
+IMPEDIMENTOS PARA CONTRATAÇÃO,21
+REGULARIDADE DO FORNECEDOR,21
+REGULARIDADE FISCAL E TRABALHISTA,21
+TRANSAÇÃO COM PARTES RELACIONADAS,22
+REGULARIDADE CADASTRAL,22
+GARANTIA CONTRATUAL,22
+PUBLICAÇÃO,24
+DADOS ORÇAMENTÁRIOS,25
+PROCEDIMENTOS,25
+AUTUAÇÃO DE PROCESSOS,25
+PLANEJAMENTO DA CONTRATAÇÃO,27
+GESTOR,27
+PLANO DE AQUISIÇÕES,27
+ESTUDO PRELIMINAR,28
+GERENCIAMENTO DE RISCOS,28
+TERMO DE REFERÊNCIA,28
+SOLICITAÇÃO DE CONTRATAÇÃO,29
+GESTOR,29
+
+1 / 47
+
+OBJETO DA CONTRATAÇÃO,29
+JUSTIFICATIVA DA CONTRATAÇÃO,29
+DETALHAMENTO DA CONTRATAÇÃO,29
+VOLUMETRIA E ESTIMATIVA DE PREÇOS,30
+INFORMAÇÕES ACERCA DO CONTRATO VIGENTE, SE HOUVER,30
+DADOS ORÇAMENTÁRIOS,30
+GARANTIA CONTRATUAL,31
+SELEÇÃO DO FORNECEDOR –CONTRATAÇÃO DIRETA,31
+SELEÇÃO DO FORNECEDOR – LICITAÇÃO,32
+
+4.3.1.2
+4.3.1.3
+4.3.1.4
+4.3.1.5
+4.3.1.6
+4.3.1.7
+4.3.1.8
+4.3.1.9
+4.3.1.10
+4.3.1.10.6  QUALIFICAÇÃO TÉCNICA,32
+4.3.1.10.7  QUALIFICAÇÃO ECONÔMICO-FINANCEIRA,32
+4.3.1.11
+4.3.1.12
+4.3.1.13
+4.3.1.13.5
+4.3.1.13.6
+4.3.1.13.7
+4.3.1.13.8
+4.3.1.13.9
+4.3.1.13.10  INFORMAÇÕES ESPECÍFICAS - SERVIÇOS DE TRANSPORTE DE PESSOAS E PEQUENOS
+
+DEFINIÇÃO DE MULTAS, DEMAIS SANÇÕES E RESCISÃO CONTRATUAL ,33
+PARECERES EXIGIDOS,34
+OUTRAS INFORMAÇÕES,34
+INFORMAÇÕES ESPECÍFICAS - BENS E SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO,35
+INFORMAÇÕES ESPECÍFICAS – EVENTOS DE T&D,36
+INFORMAÇÕES ESPECÍFICAS – CONTRATAÇÃO DE REMANESCENTE,37
+INFORMAÇÕES ESPECÍFICAS - SERVIÇOS DE CONSULTORIA E AUDITORIA,37
+INFORMAÇÕES ESPECÍFICAS - OBRAS E SERVIÇOS DE ENGENHARIA,37
+
+VOLUMES,38
+
+4.3.1.13.11  INFORMAÇÕES ESPECÍFICAS - CRITÉRIOS DE JULGAMENTO COM APRESENTAÇÃO DE
+
+PROPOSTA TÉCNICA,38
+
+4.3.1.13.12  INFORMAÇÕES ESPECÍFICAS – PERMISSIONÁRIO LOTÉRICO,39
+4.3.1.13.13  INFORMAÇÕES ESPECÍFICAS – ATUALIZAÇÃO CONVENÇÃO COLETIVA DE TRABALHO,39
+4.3.1.13.14  INFORMAÇÕES ESPECÍFICAS – CONTRATOS REGIDOS POR LEI ESTRANGEIRA E FORO NO
+
+4.3.1.14
+4.3.1.15
+4.3.2
+4.4
+4.4.1
+4.4.2
+4.5
+4.5.1
+4.5.2
+4.6
+
+4.6.1
+4.6.2
+4.6.3
+4.6.4
+4.6.5
+4.6.6
+5
+
+EXTERIOR,20
+PREENCHIMENTO DO FORMULÁRIO NO SICLG,39
+APRESENTAÇÃO DE PROPOSIÇÃO,39
+GECOT/CECOT,39
+FORMALIZAÇÃO DE CONTRATO,40
+GECOT/CECOT,40
+GESTOR,42
+CONTROLE DA ATA DE REGISTRO DE PREÇOS,42
+GESTOR,42
+CECOT,42
+CONSULTAS DE IMPEDIMENTOS PARA LICITAR E CONTRATAR E DA REGULARIDADE DO
+FORNECEDOR,43
+IMPEDIMENTOS PARA CONTRATAÇÃO,43
+REGULARIDADE FISCAL E TRABALHISTA,45
+TRANSAÇÃO COM PARTES RELACIONADAS,46
+REGULARIDADE CADASTRAL,46
+ATENDIMENTO À CIRCULAR BACEN 3978/2020 – CONHEÇA SEU FORNECEDOR,46
+RISCOS SOCIAIS, AMBIENTAIS, CLIMÁTICOS E RISCO DE TERCEIROS NO CONTRATO ,47
+ANEXOS,47
+
+2 / 47
+
+PREFÁCIO
+
+TÍTULO
+
+CONTRATAÇÕES DE BENS E SERVIÇOS
+
+UNIDADE RESPONSÁVEL
+
+GECOT – GN CONTRATACOES ADMINISTRATIVAS
+
+PÚBLICO ALVO
+
+Todas as Unidades da CAIXA
+
+ALTERAÇÕES EM RELAÇÃO À VERSÃO ANTERIOR
+
+Inclusões:
+
+▪ Item  3.6.2  –  Inclusão  de  item  sobre  disposições  em  relação  a  contratações  diretas  que  prevejam  adoção  de  lei  e
+
+foro estrangeiros.
+
+Alterações
+
+▪ Item  3.3.6.8  e  3.3.6.8.1  –  inclusão  de  itens  referente  à  vedação  de  pagamento  antecipado  e  previsões  para  caso
+
+excepcionais.
+
+▪ Item 3.5.1.1.2 – Inclusão de previsão de prazo mínimo adicional para contratações diretas que  prevejam adoção de
+
+lei e foro estrangeiros.
+
+▪ Item 4.3.1.4.9 – Inclusão de item exigindo justificativas quando da adoção de previsão de pagamento antecipado.
+
+▪ Item  4.3.1.10.6.6  –  Alteração  da  redação  para  esclarecer  que  as  exigências  de  qualificação  técnica  devem  ser
+
+mensuráveis, sendo vedada exigência genéricas ou indeterminadas.
+
+▪ Item  4.3.1.10.6.6.1  e  4.3.1.10.6.6.2  –  Inclusão  de  orientações  sobre  condições  de  exigência  de  comprovação  de
+
+prazos de execução, experiência ou período de prestação dos serviços.
+
+Anexos:
+
+▪ Não houve alterações.
+
+RELAÇÃO COM OUTROS NORMATIVOS
+AD006 PREVENÇÃO À LAVAGEM DE DINHEIRO, AO FINANCIAMENTO DO TERRORISMO E AO FINANCIAMENTO
+DA PROLIFERAÇÃO DE ARMAS DE DESTRUIÇÃO EM MASSA
+AD014 TRANSPORTE DE PESSOAS A SERVIÇO DA CAIXA, BENS, DOCUMENTOS
+AD028 CONTRATAÇÕES DIRETAS
+AD035 SEGURANÇA - VIGILÂNCIA OSTENSIVA
+AD069 LICITAÇÕES NA CAIXA
+AD089 INFRAESTRUTURA - COMODATO E CESSÃO DE IMÓVEIS OU ÁREA DE IMÓVEIS DE USO DA CAIXA
+AD090 SUPRIMENTOS - LOGÍSTICA DE MATERIAL PERMANENTE
+AD103 PAGAMENTOS A FORNECEDORES
+AD143 SUPRIMENTOS - AQUISIÇÃO E MANUTENÇÃO DOS EQUIPAMENTOS DE USO E DE PEQUENA MONTA
+AD200 LOCAÇÃO, CESSÃO OU COMODATO DE IMÓVEL OU ÁREA DE IMÓVEL PARA USO DA CAIXA
+AD233 CONTRATAÇÕES CONCORRENCIAIS
+AD242  GESTÃO  DE  CONTRATOS  ADMINISTRATIVOS,  CONCORRENCIAIS,  SOLUÇÕES
+PATROCÍNIO E ATAS DE REGISTRO DE PREÇOS
+AD244 PRESTAÇÃO DE SERVIÇOS NA CAIXA - ANÁLISE DA SOLICITAÇÃO DE CONTRATAÇÃO
+AD255 PRESTAÇÃO DOS SERVIÇOS DE APOIO ADMINISTRATIVO
+AD264  CONTRATAÇÃO  E  CONFORMIDADE  NA  ANÁLISE  DE  PRESTAÇÃO  DE  CONTAS  E  DESEMBOLSO  DE
+PATROCÍNIOS
+AD288 Licitação e Contratação de Soluções Inovadoras
+AE008 PUBLICIDADE LEGAL
+AE013 MARKETING - PATROCÍNIO
+
+INOVADORAS,
+
+3 / 47
+
+AE079 APURAÇÃO E JULGAMENTO DE RESPONSABILIDADE DISCIPLINAR E CIVIL
+AE124 REQUISITOS SOCIAIS, AMBIENTAIS E CLIMÁTICOS PARA CONCESSÃO DE CRÉDITO
+AE133 ATENDIMENTO AOS ÓRGÃOS REGULADORES, DE SUPERVISÃO, DE CONTROLE E DE FISCALIZAÇÃO E
+À AUDITORIA INDEPENDENTE
+AE137 PROCESSO ADMINISTRATIVO DE RESPONSABILIZAÇÃO DE PESSOA JURÍDICA  - PAR
+AL080  REGIME  DE  ALÇADAS  -  COMPRAR  E  CONTRATAR  BENS  E  SERVIÇOS,  FORMALIZAR  PARCERIA
+VINCULADA À OPORTUNIDADE DE NEGÓCIOS E PATROCÍNIO DE INOVAÇÃO TECNOLÓGICA
+CO038 CONTA DEPÓSITO DE CAUÇÃO
+CR110 GESTÃO ORÇAMENTÁRIA DE DISPÊNDIOS
+CR111 CONTROLE E ACOMPANHAMENTO DA EXECUÇÃO ORÇAMENTÁRIA DE DISPÊNDIOS
+CR117 EXECUÇÃO ORÇAMENTÁRIA DE DISPÊNDIOS
+CR464 TRANSAÇÕES COM PARTES RELACIONADAS - REGRAS GERAIS
+CR512 DUE DILIGENCE DE INTEGRIDADE
+CR553 GERENCIAMENTO DE RISCOS SOCIAIS, AMBIENTAIS E CLIMÁTICOS NA CAIXA
+CR555 GESTÃO DO RISCO DE TERCEIROS
+OR016 TRATAMENTO DA INFORMAÇÃO
+OR048 AFASTAMENTO DO PAÍS
+OR134 GOVERNANÇA CORPORATIVA CAIXA
+OR137 GESTÃO DA POLÍTICA DE RESPONSABILIDADE SOCIAL, AMBIENTAL E CLIMÁTICA
+OR142 PROGRAMA DE INTEGRIDADE DA CAIXA
+OR210 CONTRATAÇÕES SUSTENTÁVEIS E RELACIONAMENTO COM FORNECEDORES
+PO001 POLÍTICA INSTITUCIONAL CAIXA
+PO006  POLÍTICA  DE  PREVENÇÃO  À  LAVAGEM  DE  DINHEIRO,  AO  FINANCIAMENTO  DO  TERRORISMO  E  AO
+FINANCIAMENTO DA PROLIFERAÇÃO DE ARMAS DE DESTRUIÇÃO EM MASSA
+PO007 POLÍTICA DE SEGURANÇA E INFORMAÇÃO
+PO048 POLÍTICA DE TRANSAÇÕES COM PARTES RELACIONADAS
+PO073 POLÍTICA DE COMBATE E PREVENÇÃO AO ASSÉDIO SEXUAL E MORAL E À DISCRIMINAÇÃO
+RH213 MODELO DE ATUAÇÃO DA UNIVERSIDADE CAIXA
+TE165 PLANEJAMENTO DA CONTRATAÇÃO DE BENS E SERVIÇOS DE TI
+TE227 DIRETRIZES PARA UTILIZAÇÃO DE NUVEM PÚBLICA
+
+PRODUTOS RELACIONADOS
+Não se aplica
+
+PROCESSOS RELACIONADOS
+PR.01602 - 4.10.2.4 Contratar bens e serviços, de forma direta, por dispensa de licitação por valor
+PR.01603 - 4.10.2.5 Contratar bens e serviços, de forma direta, por dispensa ou inexigibilidade de licitação
+PR.02139 - 4.10.2.16 Contratar locação de imóvel para uso da CAIXA
+PR.02145  - 4.10.2.17  Contratar bens e/ou serviços para recuperação de imóveis do PAR e do  PMCMV construídos
+com recursos do FAR
+PR.02146 - 4.10.2.18 Contratar bens e serviços via licitação CAIXA
+
+REGULAMENTAÇÃO UTILIZADA
+
+Decreto-lei nº 4.657, de 4/09/1942
+
+Decreto nº 7.203, de 04/06/2010.
+
+Decreto n° 8.538, de 06/10/2015.
+
+Decreto nº 8.945, de 27/12/2016.
+
+Decreto nº 9.507, de 21/09/2018.
+
+Decreto nº 11.462, de 31/03/2023
+
+4 / 47
+
+Instrução Normativa MPDG n° 03, de 26/04/2018.
+
+Instrução Normativa Secretaria da RFB nº 1.244, de 30/01/2012.
+
+Lei nº 8.429, de 02/06/1992.
+
+Lei nº 10.406, de 10/1/2002.
+
+Lei nº 12.813, de 16/05/2013.
+
+Lei nº 12.846, de 01/08/2013.
+
+Lei nº 13.303, de 30/06/2016.
+
+Lei Complementar nº 123, de 14/12/2006.
+
+Portaria CGU nº 516, de 15/03/2010.
+
+Portaria Conjunta RFB/PGFN nº 1.751, de 02/10/2014.
+
+Portaria MF nº 358, de 05/09/2014.
+
+Resolução CGPAR nº 29, de 05/04/2022.
+
+Resolução CGPAR nº 45, de 30/12/2022.
+
+Resolução Conjunta CNJ/TSE nº 6, de 21/05/2020.
+
+SARB nº 027, de 08/12/2023.
+
+DOCUMENTAÇÃO UTILIZADA
+
+Regulamento de Licitações e Contratos da CAIXA 2ª versão, de 29/09/2023.
+
+ROTEIRO PADRÃO
+
+40674
+
+NORMATIVOS REVOGADOS
+
+Não se aplica
+
+ATENDIMENTO DE DÚVIDAS
+
+GECOT – GN CONTRATACOES ADMINISTRATIVAS
+
+5 / 47
+
+CONTRATAÇÕES DE BENS E SERVIÇOS
+
+1
+
+FINALIDADE
+
+1.1 Definir as diretrizes das contratações de bens e serviços da CAIXA, inclusive quanto ao planejamento, solicitação
+e formalização dos contratos.
+
+2
+
+DEFINIÇÕES
+
+2.1 Disponível em https://dados.caixa/portal/glossario?norma=AD020.
+
+3
+
+REGRAS
+
+3.1
+
+DISPOSIÇÕES GERAIS
+
+3.1.1 Este  normativo  dispõe  sobre  as  contratações  de  bens  e  serviços  para  a  CAIXA,  observando  os  princípios  e
+diretrizes estabelecidos no RLCC.
+
+3.1.2 As  contratações  de  bens  e  serviços  são  precedidas  por  fase  de  planejamento,  quando  são  elaborados  os
+estudos  preliminares  e  o  termo  de  referência,  realizada  a  pesquisa  de  preços  e  gerados  os  demais  documentos  e
+informações que subsidiam a solicitação de contratação.
+
+3.1.3 No caso de contratações efetuadas com recursos e em proveito de terceiros, observa -se os termos do acordo
+ou convênio com a entidade externa quanto à autorização para deflagração da licitação/contratação e/ou formalização
+do contrato.
+
+3.1.3.1 O processamento das licitações e contratações é realizado de acordo com as disposições do Regulamento de
+Licitações e Contratos da CAIXA.
+
+3.1.4 Em  todo  o  fluxo  do  processo  licitatório  e  das  contratações  devem  ser  observadas  as  diretrizes  estabelecidas
+nos [MN, PO001], [MN, PO006], [MN, PO007], [MN, PO048], [MN, PO073], [MN, OR137], [MN, OR142] e [MN, OR210].
+
+3.1.5 Constam no Portal GECOT (https://caixa.sharepoint.com/sites/Contratacoes) materiais de apoio para subsidiar
+os Gestores demandantes e os empregados que atuam na área de contratações da  GECOT/CECOT.
+
+3.1.6 Os contratos de Patrocínio, definidos pelo [MN, AE013], são formalizados nos termos do [MN, AD264].
+
+3.1.7 As  Contratações  Concorrenciais,  que  visam  aprimorar  os  mecanismos  de  posicionamento  concorrencia l  da
+CAIXA, e contratações de soluções inovadoras, realizadas por meio de modalidade especial, seguem as disposições
+do [MN, AD233] e [MN, AD288], respectivamente.
+
+3.1.8
+
+LICITAÇÃO
+
+3.1.8.1 As contratações com terceiros destinadas à aquisição e locação de bens e à prestação de serviços, inclusive
+de engenharia e de publicidade, à alienação de bens e ativos, à execução de obras, bem como à implementação de
+ônus real, são precedidas de licitação, ressalvadas as hipóteses legais de dispensa e inexigibilidade.
+
+3.1.8.2 No âmbito da CAIXA é utilizada a modalidade Licitação CAIXA para os procedimentos licitatórios.
+
+3.1.8.2.1 As normas sobre licitação constam no [MN, AD069].
+
+3.1.9
+
+CONTRATAÇÕES DIRETAS
+
+3.1.9.1 Destinam-se  às  contratações  de  bens  e  prestação  de  serviços  sem  a  condução  de  procedimento  licitatório,
+em razão da existência de fatores que tornam a licitação dispensável ou inexigível.
+
+3.1.9.1.1 As  normas  sobre  contratações  diretas  e  suas  hipóteses  de  dispensa  e  inexigibilidade  constam  no  [MN,
+AD028].
+
+3.1.9.1.2 Especificamente para locação de imóveis para uso CAIXA, as normas constam no  [MN, AD200].
+
+3.1.10
+
+CONTRATAÇÃO  COM  RECURSOS  DE  AGÊNCIA  OFICIAL  DE  COOPERAÇÃO  ESTRANGEIRA  OU
+ORGANISMO FINANCEIRO MULTILATERAL DE QUE O BRASIL SEJA PARTE
+
+3.1.10.1 Para  contratações  com  recursos  provenientes  de  financiamento  ou  doação  oriundos  de  agência  oficial  de
+cooperação  estrangeira,  banco  estrangeiro  de  fomento,  organismo  financeiro  multilateral  ou  demais  entidades
+públicas  ou  privadas  de  natureza  de  direito  internacional,  são  admitidas  as  condições  decorrentes  de  acordos,
+protocolos, convenções, tratados e contratos internacionais.
+
+6 / 47
+
+3.1.10.2 São admitidas as normas e procedimentos operacionais dos organismos internacionais, inclusive quanto ao
+critério de seleção da proposta mais vantajosa, o qual  pode contemplar, além do preço, outros fatores de avaliação,
+desde que seja condição para a obtenção do financiamento ou da doação.
+
+3.1.10.2.1 As  normas  e  procedimentos  dos  organismos  internacionais  serão  adotados  em  detrimento  da  legislação
+nacional aplicável, observados os princípios constantes neste normativo e no  [MN, AD069], quando compatível.
+
+3.1.11
+
+VEDAÇÕES E IMPEDIMENTOS
+
+3.1.11.1 É impedida de participar de licitações e de ser contratada pela CAIXA a empresa:
+
+a)  Cujo administrador ou sócio detentor de mais de 5% (cinco por cento) do capital social seja diretor ou empregado
+
+da CAIXA;
+
+b)  Suspensa pela CAIXA ou impedida de contratar no âmbito da União;
+
+c)  Declarada inidônea;
+
+d)  Constituída por sócio de empresa que estiver suspensa, impedida ou declarada inidônea;
+
+e)  Cujo administrador seja sócio de empresa suspensa, impedida ou declarada inidônea;
+
+f)  Constituída por sócio ou cujo administrador tenha sido sócio ou administrador de empresa suspensa, impedida
+
+ou declarada inidônea, no período dos fatos que deram ensejo à sanção;
+
+g)  Que  tiver,  nos  seus  quadros  de  diretoria,  pessoa  que  participou,  em  razão  de  vínculo  de  mesma  natureza,  de
+
+empresa declarada inidônea.
+
+3.1.11.2 Aplica-se a vedação prevista no item [MN, 3.1.11.1]
+
+a)  à  contratação  do  próprio  empregado  ou  dirigente,  como  pessoa  física,  bem  como  à  participação  dele  em
+
+procedimentos licitatórios, na condição de licitante;
+
+b)  a quem tenha relação de parentesco, até o terceiro grau civil, com:
+
+▪ dirigente CAIXA;
+
+▪ empregado  CAIXA  lotado  nas  unidades  responsáveis  pela  instrução  da  demanda,  pela  licitação  ou  pela
+
+contratação ou pela gestão formal, técnica ou operacional do contrato;
+
+▪ autoridade do Ministério da Fazenda.
+
+c)  cujo  proprietário,  mesmo  na  condição  de  sócio,  tenha  terminado  seu  prazo  de  gestão  ou  rompido  seu  vínculo
+
+com a CAIXA há menos de 6 (seis) meses.
+
+d)  Com proibição para contratar com o Setor Público.
+
+e)  Que seja empregador de Trabalho Escravo.
+
+3.1.11.3 É vedada a participação direta ou indireta nas licitações relativas a obras e serviços de engenharia:
+
+a)  de pessoa física ou jurídica que tenha elaborado o anteprojeto ou o projeto básico da licitação;
+
+b)  de pessoa jurídica que participar de consórcio responsável pela elaboração do anteprojeto ou do projeto básico
+
+da licitação;
+
+c)  de  pessoa  jurídica  da  qual  o  autor  do  anteprojeto  ou  do  projeto  básico  da  licitação  seja  administrador,
+controlador,  gerente,  responsável  técnico,  subcontratado  ou  sócio,  neste  último  caso  quando  a  participação
+superar 5% (cinco por cento) do capital votante.
+
+3.1.11.3.1 A vedação do item [MN, 3.1.11.3] não se aplica aos seguintes casos:
+
+a)  Adoção do regime de contratação integrada ou semi-integrada;
+
+b)  Manifestação de interesse privado;
+
+c)  Participação da pessoa física e das pessoas jurídicas de que tratam as alíneas “b” e “c” do item  [MN, 3.1.11.3]
+em licitação ou em execução de contrato, como consultor ou técnico, nas funções de fiscalização, supervisão ou
+gerenciamento, exclusivamente a serviço da CAIXA.
+
+3.1.11.3.2 Considera-se  participação  indireta  a  existência  de  vínculos  de  natureza  técnica,  comercial,  econômica,
+financeira ou trabalhista entre o autor do projeto básico, pessoa física ou jurídica, e o licitante ou responsável pelos
+serviços, fornecimentos e obras, incluindo-se os fornecimentos de bens e serviços a estes necessários, bem como a
+participação de empregados incumbidos de levar a efeito atos e procedimentos realizados pela CAIXA no curso da
+licitação.
+
+3.1.11.4 É impedida de participar de licitações de permissionários lotéricos e de ser contratada pela CAIXA a empresa
+ou pessoa física, titular e seus respectivos sócios, procuradores e administradores:
+
+7 / 47
+
+a)  que tenha permissão revogada compulsoriamente;
+
+b)  que  esteja  descredenciada  das  atividades  de  Correspondente  de  qualquer
+
+instituição
+
+financeira  por
+
+descumprimento contratual.
+
+3.1.11.5 A CAIXA não se relaciona com pessoas físicas ou jurídicas que trazem potencial risco de imagem e reputação
+à Instituição Financeira, conforme [MN, AD006].
+
+3.1.11.6 Em  observância  às  vedações  dispostas  acima,  a  contratada  deve  assinar  Declaração  de  Vedação  ao
+Nepotismo nos termos constantes nos editais e contratos padronizados.
+
+3.1.12
+
+PREVENÇÃO  À  LAVAGEM  DE  DINHEIRO,  AO  FINANCIAMENTO  DO  TERRORISMO  E  AO
+FINANCIAMENTO DA PROLIFERAÇÃO DE ARMAS DE DESTRUIÇÃO EM MASSA
+
+3.1.12.1 Observa as disposições constantes no [MN, PO006] e [MN, AD006], principalmente em relação aos seguintes
+aspectos:
+
+▪ Conheça seu Cliente;
+
+▪ Conheça seu empregado;
+
+▪ Conheça seu Parceiro/Fornecedor/Prestador de Serviços Terceirizados;
+
+▪ Operações ou situações consideradas suspeitas;
+
+▪ Comunicação das situações com indícios de lavagem de dinheiro à unidade de PLD;
+
+▪ Sanções e penalidades;
+
+▪ Sigilo e discrição.
+
+3.1.12.2 É responsabilidade de todo empregado/dirigente conhecer a Política de GEPLD da CAIXA e pautar a atuação
+conforme seus princípios e diretrizes e assinar o Termo de Ciência da [MN, PO006], disponível no portal IntegraMais.
+
+3.1.13
+
+PROGRAMA DE INTEGRIDADE
+
+3.1.13.1 Quando da contratação de bens e serviços, os empregados da CAIXA devem observar as diretrizes do  [MN,
+OR142],  visando  contratar  fornecedores  com  idoneidade  para  o  fornecimento  de  bem  e/ou  prestação  de  serviços
+sustentáveis,  pautados  pela  atuação  ética  e  valores  de  respeito,  honestidade,  compromisso,  transparência  e
+responsabilidade.
+
+3.1.13.2 Em todas as contratações,  precedidas de licitação, é condição obrigatória para formalização do contrato a
+assinatura do Termo de Recebimento, Ciência e Adesão ao Código de Conduta do Fornecedor CAIXA.
+
+3.1.13.2.1 Nas contratações diretas, a assinatura do Termo de Recebimento, Ciência e Adesão ao Código de Conduta
+do Fornecedor CAIXA fica condicionada à aceitação do fornecedor, quando da negociação das condições contratuais.
+
+3.1.13.3 O Fornecedor CAIXA deve seguir as orientações e princípios contidos no Código de Conduta do Fornecedor
+CAIXA,  anexo  obrigatório  dos  instrumentos  contratuais  precedidos  de  licitação,  que  tem  por  objetivo  nortear  o
+comportamento dos Fornecedores na execução dos contratos firmados com CAIXA.
+
+3.1.13.3.1 Conforme  [MN,  AD242],  cabe  ao  gestor  operacional  dos  contratos  de  bens  e  serviços  acompanhar  e
+fiscalizar  a  prestação  dos  serviços/execução  da  obra/fornecimento  dos  bens  e  demandar  à  CEFOR  a  abertura  de
+processo  de  penalidade  na  ocorrência  de  descumprimento  contratual  e/ou  vi olação  ao  Código  de  Conduta  do
+Fornecedor CAIXA.
+
+3.1.14
+
+ATOS LESIVOS À CAIXA OU À ADMINISTRAÇÃO PÚBLICA
+
+3.1.14.1 A CECOT, a unidade gestora operacional, a CEFOR, outras unidades responsáveis por licitações, compras
+diretas e gestão de contratos ou quaisquer empregados que tenham conhecimento da ocorrência devem reportar à
+CORED quando identificados os seguintes atos  lesivos praticados por pessoas jurídicas ou em seu benefício contra
+a CAIXA:
+
+a)  prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a agente público ou a terceira pessoa a
+
+ele relacionada;
+
+b)  comprovadamente  financiar,  custear,  patrocinar  ou  de  qualquer  modo  subvencionar  a  prática  dos  atos  ilícitos
+
+previstos neste item;
+
+c)  comprovadamente  utilizar-se  de  interposta  pessoa  física  ou  jurídica  para  ocultar  ou  dissimular  seus  reais
+
+interesses ou a identidade dos beneficiários dos atos praticados;
+
+d)  frustrar  ou  fraudar,  mediante  ajuste,  combinação  ou  qualquer  outro  expediente,  o  caráter  competitivo  de
+
+procedimento licitatório;
+
+8 / 47
+
+e)  impedir, perturbar ou fraudar a realização de qualquer ato de procedimento licitatório;
+
+f)  afastar ou procurar afastar licitante, por meio de fraude ou oferecimento de vantagem de qualquer tipo;
+
+g)  fraudar licitação ou contrato dela decorrente;
+
+h)  criar,  de  modo  fraudulento  ou  irregular,  pessoa  jurídica  para  participar  de  licitação  ou  celebrar  contrato
+
+administrativo com a CAIXA;
+
+i)  obter  vantagem  ou  benefício  indevido  de  modo  fraudulento,  de  modificações  ou  prorrogações  de  contratos
+celebrados com a CAIXA, sem autorização em lei, em normativo interno, no ato convocatório da licitação pública
+ou nos respectivos instrumentos contratuais;
+
+j)  manipular ou fraudar o equilíbrio econômico-financeiro dos contratos celebrados com a CAIXA;
+
+k)  dificultar  o  desempenho  das  atividades  de
+
+inclusive  as  de
+acompanhamento  e  fiscalização  de  contrato/ata  de  registros  de  preços,  ou  intervir  de  forma  inidônea  nestas
+atividades.
+
+fiscalização  da  CAIXA,
+
+investigação  e
+
+3.1.14.2 A unidade ou empregado responsável pela comunicação segue as orientações contidas no  [MN, AE137].
+
+3.2
+
+RESPONSABILIDADES
+
+3.2.1
+
+GESTOR
+
+3.2.1.1 Identificar a necessidade da CAIXA, realizar planejamento de compras de bens e serviços a serem realizadas
+no  ano  subsequente,  respeitando-se  o  orçamento  disponibilizado  para  cada  rubrica  orçamentária,  incluindo  as
+mesmas no Plano de Aquisições.
+
+3.2.1.2 Definir  a  melhor  solução  para  atendimento  da  necessidade  identificada,  a  partir  da  realização  de  Estudos
+Preliminares.
+
+3.2.1.3 Elaborar  o  Termo  de  Referência  da  contratação  contendo  a  especificação  do  objeto  e  os  elementos
+necessários à sua perfeita contratação e execução.
+
+3.2.1.4 Realizar pesquisas de preços, estabelecendo a estimativa compatível com a prática de mercado, que será o
+preço máximo admitido na licitação/contratação, com vistas à obtenção da melhor proposta para a CAIXA.
+
+3.2.1.5 Solicitar a contratação no SICLG de forma tempestiva, incluindo todos os documentos necessários à instrução
+do processo de licitação/contratação.
+
+3.2.1.5.1 Na hipótese de abertura de pedido de contratação fora dos prazos mínimos  definidos, o gestor não poderá
+questionar  a  formalização  extemporânea  do  contrato,  nem  se  eximir  por  eventuais  responsabilizações,  observadas
+situações excepcionais, devidamente justificadas, essenciais ao funcionamento da CAIXA.
+
+3.2.1.5.1.1 A solicitação de contratação extemporânea não impede o tratamento tempestivo e adequado da demanda
+pela GECOT/CECOT.
+
+3.2.1.6 Confeccionar Proposição, nos termos normatizados pela SEGER, conforme o  [MN, OR134], quando se tratar
+de  demanda  que  esteja  na  alçada  de  autorização  de  contratação/deflagração  do  Comitê  de  Contratações  e
+Sustentabilidade; e Conselho Diretor, conforme  [MN, AL080].
+
+3.2.1.6.1 Apresentar  e  relatar  Proposição  perante  as  devidas  instâncias,  conforme  os  respectivos  normativos  de
+regência.
+
+3.2.1.6.2 Incluir a autorização no SICLG após aprovação da matéria.
+
+3.2.1.7 Participar  da  condução  do  processo  licitatório  como  auxiliar  técnico,  por  intermédio  de  empregado(s)
+indicado(s) para compor a equipe de apoio, providenciando ajustes, respostas e justificativas necessárias para o bom
+andamento do processo.
+
+3.2.1.7.1 Realizar  análise  de  questionamentos,  impugnações  e  habilitações  recebidos  durante  o  processo,  quando
+solicitado pela CECOT, e emitir parecer técnico.
+
+3.2.1.8 Manifestar-se sobre possíveis riscos ambientais, climáticos ou sociais apresentados pelo objeto do contrato
+ou pelo fornecedor a ser contratado, conforme [MN, CR553], mediante solicitação da CECOT/GECOT.
+
+3.2.1.9 Responder perante os órgãos de controle internos e externos pelo modelo adotado para a contratação do bem
+e/ou serviço sob sua gestão, incluindo a identificação e delineamento da necessidade, bem como quando comprovado
+sobrepreço ou superfaturamento.
+
+3.2.1.10 Dar  conhecimento  tempestivo  à  GEOCF  dos  serviços  em  contratação  com  empresas  Big4  (PwC,  KPMG,
+Deloitte e EY).
+
+3.2.1.11 Aos  contratos  administrados  pela  GEGAT,  as  atribuições  e  os  responsáveis  constam  dispostos  no  [MN,
+TE165].
+
+9 / 47
+
+3.2.1.12 Compete  ao  gestor  demandante  informar  à  CECOT,  de  forma  tempestiva  e  formal,  sempre  que  houver
+atualização  da  Convenção  Coletiva  de  Trabalho  -  CCT  aplicável  à  categoria  profissional  relacionada  à  contratação
+até a data da publicação do edital, especialmente quando implicar atualização dos valores de salários normativos ou
+benefícios utilizados para estimar a contratação de serviços com mão de obra.
+
+3.2.2
+
+GECOT/CECOT
+
+3.2.2.1 Prestar consultoria ao Gestor acerca das exigências previstas neste normativo e da elaboração da demanda
+para solicitação de contratação e de demais aspectos formais das contratações ao longo do processo da contratação,
+inclusive durante a etapa de planejamento.
+
+3.2.2.2 Instruir  o  processo  de  contratação  de  bens  e  serviços,  conforme  o  caso,  obedecidos  os  preceitos  legais  e
+normativos, para a realização de licitação ou para a formalização de contratação direta.
+
+3.2.2.3 Elaborar  edital  de  licitação  e/ou  minuta  de  contrato,  em  conformidade  com  os  modelos  padronizados  pela
+GECOT, com observância às especificidades da demanda.
+
+3.2.2.3.1 Submeter  à  análise  da  GECOT  as  minutas  de  editais  e/ou  contratos  que  tiverem  alterações  de  cláusulas
+que conflitem com as normas vigentes de licitações e contratos.
+
+3.2.2.3.2 Submeter  à  análise  da  unidade  jurídica  as  minutas  de  editais  e/ou  contratos  que  tiverem  alterações  nas
+cláusulas de natureza legal pré-aprovadas pela GEAJU nos modelos padronizados.
+
+3.2.2.4 Cabe à CECOT elaborar e  submeter às autoridades competentes Proposição quando a demanda estiver na
+alçada  do  Comitê  de  Compras  e  Contratações  das  Centralizadoras  Nacionais  Contratações  e  Gestão  Formal  de
+Contratos.
+
+3.2.2.5 Cabe à GECOT emitir Parecer relativo à conformidade da solicitação de contratação demandada pelo Gestor,
+restringindo-se  às  informações  necessárias  para  autorização  pelos  Comitês  Estatutários,  no  âmbito  de  sua
+competência  ,  quando  o  valor  da  contratação  estiver  na  alçada  do  Comitê  de  Contratações  e  Sustentabilidade;  e
+Conselho Diretor, a depender da alçada disposta no  [MN, AL080].
+
+3.3
+
+PLANEJAMENTO DA CONTRATAÇÃO
+
+3.3.1 As contratações e os procedimentos de licitação são antecedidos por planejamento detalhado, elaborado pelo
+gestor operacional do produto ou serviço, com a finalidade de otimizar o desempenho da CAIXA, proteger o interesse
+público envolvido, com transparência e equidade, com vistas a maximizar seus resultados econômicos e finalidades
+estatutárias.
+
+3.3.2 O planejamento constitui a fase de preparação da contratação pretendida e contempla a  realização de estudos
+preliminares, o gerenciamento de riscos e a elaboração do termo de referência ou projeto básico.
+
+3.3.2.1 O  nível  de  detalhamento  de  informações  necessárias  para  instruir  cada  etapa  do  planejamento  deve
+considerar a análise de risco do objeto a ser contratado.
+
+3.3.3
+
+PLANO DE AQUISIÇÕES CAIXA
+
+3.3.3.1 O Plano de Aquisições CAIXA é a ferramenta utilizada para apresentar o planejamento anual das contratações
+e  prorrogações  de  contratos  que  serão  realizadas  na  CAIXA,  para  suprir  as  necessidades  de  bens  e  serviços
+necessários à execução das atividades da empresa.
+
+3.3.3.1.1 O Plano é aberto anualmente para registro das necessidades de aquisição referentes ao ano seguinte , ou
+seja, é preenchido no ano corrente para contemplar as contratações e prorrogações que ocorrerão no próximo ano.
+
+3.3.3.1.2 O gestor deve incluir no Plano de Aquisições as demandas de bens e serviços referentes à :
+
+a)  Bens e serviços, inclusive de engenharia;
+
+b)  Contratações por inexigibilidade de licitação;
+
+c)  Locações de imóveis;
+
+d)  Seleção de permissionários lotéricos;
+
+e)  Procedimentos de Credenciamento;
+
+f)  Prorrogações de contratos.
+
+3.3.3.1.3 Não  devem  ser  incluídas  no  Plano  de  Aquisições  para  o  exercício  seguinte  as  necessidades  de  bens  e
+serviços referentes a:
+
+a)  Serviços  de  engenharia  para  adequações  de  imóveis  do  Programa  Minha  Casa,  Minha  Vida  (MCMCV)  e
+
+Programa de Arrendamento Residencial – PAR, construídos com recursos do FAR (Lei 10.188/01);
+
+b)  Contratações diretas por dispensa de licitação, enquadradas nas seguintes hipóteses:
+
+10 / 47
+
+▪ Dispensa por valor, conforme valores atualizados publicados no [MN,  AD028];
+
+▪ Contratações decorrentes de licitação deserta e de contratação de remanescente.
+
+▪ Concessionárias de Energia Elétrica;
+
+▪ Emergenciais;
+
+▪ Cessão (onerosa ou gratuita) de uso de imóvel ou área de imóvel para CAIXA;
+
+▪ Comodato.
+
+c)  Bens/serviços para as empresas que compõem o Conglomerado CAIXA;
+
+d)  Com recursos extraorçamentários (quando não há dispêndio da CAIXA);
+
+3.3.3.2 As demandas de aquisição deverão observar o valor total do orçamento disponibilizado para cada rubrica no
+exercício de sua contratação.
+
+3.3.3.3 Será  realizado  acompanhamento  da  execução  do  Plano  de  Aquisições,  sendo  sua  acurácia  reportada  ao
+Comitê de Compras e Sustentabilidade, como parte do monitoramento da eficiência das contratações.
+
+3.3.3.4 Ao  final  de  cada  exercício  os  Gestores  Demandantes  devem,  obrigatoriamente,  apresentar  as  justificativas
+para as necessidades de contratações previstas no Plano de Aquisições que não tenham sido demandadas.
+
+3.3.3.4.1 Caso  a  licitação/contratação  não  tenha  sido  demandada  até  o  fim  do  exercício  previsto  e  ainda  houver
+necessidade, a previsão de contratação deve ser cadastrada no Plano de Aquisições para o próximo exercício.
+
+3.3.3.5 Não  será  aceita  solicitação  de  contratação  para  demandas  com  IDs  de  Plano  de  Aquisições  de  anos
+anteriores.
+
+3.3.3.6 A  solicitação  de  contratação  não  prevista  no  Plano  de  Aquisições  deve  ser  precedida  da  concordância  da
+Diretoria vinculada à área demandante.
+
+3.3.3.6.1 A concordância da Diretoria não é necessária para casos em que a solicitação de contratação é derivada
+de  uma  prorrogação  que  não  pôde  ser  assinada  devido  à  fato  superveniente,  como  a  recusa  ou  impedimento  do
+fornecedor  para  assinar  a  prorrogação,  devendo  o  Gestor  informar  o  ocorrido  e  informar  a  ID  de  prorrogação  do
+contrato em questão.
+
+3.3.3.7 As demais informações necessárias para preenchimento do Plano de Aquisições estão disponíveis na Cartilha
+endereço
+da
+do
+https://caixa.sharepoint.com/sites/Contratacoes, aba “Plano de Aquisições”.
+
+Aquisições,
+
+Sharepoint,
+
+GECOT
+
+Portal
+
+Plano
+
+no
+
+de
+
+no
+
+no
+
+3.3.4
+
+ESTUDOS PRELIMINARES
+
+3.3.4.1 Os estudos preliminares têm por objetivo identificar e analisar os cenários para o atendimento da necessidade,
+bem  como  demonstrar  a  adequação  das  soluções  identificadas,  contemplando  as  informações  necessárias  para
+subsidiar a elaboração do Termo de Referência e o respectivo processo de contratação.
+
+3.3.4.2 São  necessários  estudos  preliminares  para  verificação  da  viabilidade  da  padronização  de  bens  e  serviços,
+recomendando-se sua revisão periódica para reavaliação da solução, considerando o mercado e suas inovações.
+
+3.3.4.3 Para  elaboração  dos  estudos  devem  ser  considerados,  sempre  que  possível,  o  histórico  das  licitações
+anteriores com objeto semelhante, objetivando a melhoria contínua do processo.
+
+3.3.4.4 Considerando  que  a  atuação  da  CAIXA  deve  ser  voltada  para  a  implementação  de  ações  em  consonância
+com as diretrizes socioambientais e climáticas dispostas no [MN, PO001] e [MN, OR210] com vistas a sua efetividade
+e adequadas à dimensão e à relevância da exposição aos riscos social, ambiental e climático, conforme [MN, CR553],
+os  estudos  preliminares  devem  considerar  os  possíveis  impactos  ambientais  e  avaliar  inclusões  de  condições
+contratuais que visem contribuir para promoção do desenvolvimento nacional sustentável.
+
+3.3.4.5 A  elaboração  dos  estudos  preliminares  é  facultada  para  contratações  que  se  enquadrem  nas  hipóteses
+contratação  direta  por  dispensa  de  licitação,  na  contratação  de  inscrições  em  Evento  Externo  de  T&D  por
+inexigibilidade enquadrados no item [MN, 4.3.1.13.6.4] e na seleção de permissionários lotéricos.
+
+3.3.4.6 A documentação que compõe os estudos preliminares deve conter, quando couber, as seguintes informações:
+
+a)  descrição da necessidade que caracterize o interesse público envolvido;
+
+b)  descrição  dos  requisitos  necessários  e  suficientes  à  escolha  do  objeto,  demonstrando  a  conveniência  e  a
+
+oportunidade da futura contratação e prevendo critérios e práticas de sustentabilidade, tais como:
+
+▪ descrição de possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo
+consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens
+e refugos, quando aplicável;
+
+▪ inserção de critérios de responsabilidade social, ambiental e/ou climática na especificação técnica do objeto;
+
+11 / 47
+
+c)  levantamento de mercado, que consiste na prospecção e análise das alternativas de soluções, podendo, entre
+
+outras opções:
+
+▪ considerar contratações similares feitas por outros órgãos e entidades, com objetivo de identificar a existência
+
+de novas metodologias, tecnologias ou inovações que melhor atendam às necessidades; e
+
+▪ realizar consulta ou reunião públicas com potenciais fornecedores para coleta de contribuições;
+
+d)  definição do modelo de contratação do objeto, alinhado à estratégia corporativa;
+
+e)  demonstração da relação custo/benefício;
+
+f)  estimativa  preliminar  das  quantidades  a  serem  contratadas,  acompanhadas  das  memórias  de  cálculo  e  dos
+documentos  que  lhe  dão  suporte,  considerando  a  interdependência  com  outras  contratações,  de  modo  a
+possibilitar economia de escala;
+
+g)  estimativa preliminar do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de
+
+cálculo e dos documentos que lhe dão suporte;
+
+h)  contratações correlatas e/ou interdependentes;
+
+i)  demonstração do alinhamento entre a contratação e o planejamento da CAIXA, identificando a previsão no Plano
+
+de Aquisições;
+
+j)
+
+justificativas  para  as  exigências  de  qualificação  técnica,  qualificação  econômico -financeira,  participação  de
+empresas em consórcio, cooperativa, não parcelamento do objeto e subcontratação;
+
+k)  descrição da solução que atende à necessidade da CAIXA;
+
+l)  posicionamento  conclusivo  sobre  a  adequação  da  contratação  para  o  atendimento  da  necessidade  a  que  se
+
+destina;
+
+m) requisitos da contratação;
+
+n)  forma e critérios de seleção do fornecedor.
+
+3.3.4.6.1 Nos casos em que um estudo preliminar sirva para o mesmo objeto em regiões ou momentos de contratação
+diferentes,  é  possível  padronizar  o  documento  naquilo  que  as  demandas  possuem  em  comum  e  apresentar  as
+informações específicas em documento apartado.
+
+3.3.4.7 O documento que consolida os estudos preliminares realizados é público e deve ser anexado no momento da
+formalização da solicitação de contratação no SICLG, devidamente assinado pelos responsáveis pela elaboração.
+
+3.3.4.8 No  Anexo  IV  consta  um  roteiro  para  os  estudos  preliminares  com  orientações  para  sua  elaboração  e  um
+modelo do documento está disponibilizado no Portal GECOT no SharePoint.
+
+3.3.5
+
+GERENCIAMENTO DE RISCOS
+
+3.3.5.1 O gerenciamento de risco deve permear todos os processos de contratação, desde as fases de preparação,
+seleção do fornecedor e sua contratação até a gestão do contrato, e contempla as seguintes etapas:
+
+a)  identificação dos riscos que possam comprometer a efetividade do planejamento da contratação, da seleção do
+fornecedor e da gestão contratual e/ou que impeçam o alcance dos resultados que atendam às necessidades da
+contratação;
+
+b)  avaliação  dos  riscos  identificados,  consistindo  na  mensuração  da  probabilidade  de  ocorrência,  criticidade  e
+
+impacto;
+
+c)  definição de ações para eliminar, mitigar ou aceitar a ocorrência dos eventos e suas consequências;
+
+d)  definição dos responsáveis pelas ações de tratamento dos riscos;
+
+e)  monitoramento das ações estabelecidas.
+
+3.3.5.2 Durante o planejamento da contratação o documento  de instrumentalização  do gerenciamento é o Mapa de
+Riscos, que contempla as etapas referidas nas alíneas  ‘a’ até ‘d’ do item [MN, 3.3.5.1].
+
+3.3.5.2.1 O  documento  elaborado  deve  guardar  pertinência  com  as  especificidades  da  pretensão  de  contratação,
+evitando-se indicações genéricas.
+
+3.3.5.2.2 O Mapa de Riscos produzido durante o planejamento deve ser disponibilizado na formalização da solicitação
+de contratação no SICLG.
+
+3.3.5.3 É facultada a apresentação do Mapa de Riscos na etapa de planejamento para as contratações enquadradas
+como dispensa de licitação, na contratação de inscrições em Evento Externo de T&D por inexigibilidade enquadrad as
+no item [MN, 4.3.1.13.6.4] e para a seleção de permissionários lotéricos.
+
+12 / 47
+
+3.3.6
+
+TERMO DE REFERÊNCIA
+
+3.3.6.1 O Termo de Referência deverá ser elaborado a partir dos estudos preliminares e do gerenciamento de riscos.
+
+3.3.6.1.1 Para fins desse normativo o Projeto Básico, utilizado em caso de obras e serviços de engenharia, também
+é denominado Termo de Referência.
+
+3.3.6.2 No Termo de Referência devem ser contempladas as seguintes informações:
+
+a)  descrição detalhada do objeto, inclusive quantidade, quando for o caso;
+
+b)  justificativa para o não parcelamento do objeto, quando for o caso;
+
+c)  itens que compõem o objeto a ser contratado;
+
+d)  condições de fornecimento e/ou execução do objeto;
+
+e)  prazos de entrega e/ou execução do objeto;
+
+f)
+
+informações técnicas que possibilitem a correta precificação por parte do fornecedor relacionados aos métodos
+e prazos de execução do objeto;
+
+g)  critérios de medição e de pagamento, quando for o caso;
+
+h)  obrigações da contratada específicas ao objeto da contratação;
+
+i)  cláusulas  de  segurança  da  informação  de  acordo  com  o  Grau  de  Criticidade  em  Segurança  da  Informação
+
+definido para o objeto;
+
+j)  cláusulas de privacidade para o objeto que prevê tratamento de dados pessoais;
+
+k)  Matriz de Risco, no caso de contratações de obras e serviços comuns de engenharia;
+
+l)  demais  elementos  que  o  Gestor  entenda  necessário  para  a  perfeita  contratação  e  execução  dos  serviços  ou
+
+fornecimento.
+
+3.3.6.3 As  orientações  para  definição  do  grau  de  criticidade  e  das  cláusulas  de  segurança  da  informação  e
+privacidade, referida nas alíneas  “i” e “j” do item [MN, 3.3.6.2], estão dispostas no Guia CAIXA de Diretrizes Gerais
+de Segurança da Informação e Privacidade – Fornecedores, disponível no SICLG, aba “Documentação”.
+
+3.3.6.3.1 O Termo de Referência deve contemplar as cláusulas recomendadas no referido Guia de acordo com o grau
+definido.
+
+3.3.6.3.1.1 No caso de contratações diretas ou contratos de adesão nos quais as diretrizes não podem ser atendidas,
+cabe  ao  Gestor  avaliar  a  necessidade  da  contratação  e  promover  os  ajustes  necessários,  justificados  mediante
+parecer técnico, na forma exigida pelo Guia.
+
+3.3.6.3.1.2 Em  relação  às  cláusulas  de  privacidade  e  proteção  de  dados  pessoais,  exceções  devem  ser  objeto  de
+análise jurídica.
+
+3.3.6.3.2 Não se aplicam às demandas para seleção de permissionários lotéricos e locação de imóveis, uma vez que
+os(as) contratados(as) não são enquadrados como fornecedores/prestadores de serviços CAIXA.
+
+3.3.6.3.3 Nos  casos  de  contratação  que  não  tenha  disponibilização  de  Termo  de  Referência,  o  gestor  demandante
+deve  enviar  as  cláusulas  de  segurança  da  informação  e  de  privacidade  em  anexo  específico,  juntamente  às
+especificações do objeto, que fará parte do contrato.
+
+3.3.6.4 Na contratação de qualquer fornecedor que trate dados da CAIXA fora do ambiente da CAIXA, que não estejam
+classificados como #PUBLICO, incluindo requisitos específicos para contratações de serviços em nuvem, o Termo de
+Referência  deve  contemplar  as  cláusulas  mínimas  definidas  no  Guia  CAIXA  de  Diretrizes  Gerais  de  Segurança
+Cibernética para fornecedores, como forma de atender aos requisitos de segurança cibernética
+
+3.3.6.4.1 Nos  casos  de  contratação  que  não  tenha  disponibilização  de  Termo  de  Referência,  o  gestor  demandante
+deve enviar as cláusulas mínimas definidas no guia, juntamente às especificações do objeto para compor o contrato,
+para atendimento aos requisitos de segurança cibernética.
+
+3.3.6.5 Para  contratação  de  obras  e  serviços  comuns  de  engenharia  devem  ser  anexados  os  projetos  executivos,
+exceto  se  demonstrada  nos  estudos  preliminares  a  inexistência  de  prejuízo  para  a  aferição  dos  padrões  de
+desempenho e qualidade almejados.
+
+3.3.6.6 A Matriz de Risco, alínea “k” do item [MN, 3.3.6.2], opcionalmente poderá ser definida para os demais objetos
+quando compatível com suas características.
+
+3.3.6.6.1 Nas contratações de obras e serviços de engenharia por dispensa de valor é dispensada a Matriz de Risco,
+podendo o gestor solicitar a inclusão se houver necessidade.
+
+3.3.6.7 A contratação que possa causar impacto negativo sobre bens do patrimônio cultural, histórico, arqueológico
+e imaterial tombados deve obter autorização da esfera de governo encarregada da proteção do respectivo patrimônio ,
+
+13 / 47
+
+e  as  medidas  de  compensação  dos  impactos  devem  ser  determinadas  pelas  instâncias  competentes  da  CAIXA,  na
+forma da legislação aplicável.
+
+3.3.6.7.1.1 Quando  se  tratar  de  prestação  de  serviços  contínuos  de  caráter  acessório,  o  gestor  deverá  adequar  o
+Termo  de  Referência  às  definições  e  critérios  do  [MN,  AD244],  observando  em  especial  a  vedação  de  contratação
+por postos, exceto àqueles autorizados na referida norma ou em parecer da GETEM.
+
+3.3.6.7.2 Deverão  estar  descritos  no  Termo  de  Referência,  na  especificação  e/ou  nas  obrigações  da  contratada
+específicas ao objeto, critério e/ou práticas de sustentabilidade social, ambiental e/ou climática e demais condições
+contratuais para promoção do desenvolvimento nacional  sustentável, conforme os estudos preliminares realizados.
+
+3.3.6.8 Em relação a critérios e cronograma de pagamentos não é permitido previsão de pagamento antecipado, total
+ou parcial em relação ao objeto da contratação.
+
+3.3.6.8.1 Apenas em caso excepcional, devidamente justificado, em que a antecipação propicie economia significativa
+ou que  seja condição indispensável para a contratação, será permitido o pagamento antecipado,  podendo  o  gestor
+prever  exigências  de  garantias  adicionais  para  permitir  a  antecipação  do  valor,  além  da  devolução  dos  valores  em
+caso de não execução dentro do prazo.
+
+3.4
+
+PESQUISA DE PREÇOS
+
+3.4.1 Cabe ao gestor, detentor do conhecimento técnico sobre o objeto, realizar pesquisa de mercado para obtenção
+do  preço  estimado  da  licitação  ou  do  preço  proposto  para  a  contratação  direta,  conforme  orientações  abaixo,  e
+demonstrar que o valor orçado está de acordo com o praticado no mercado.
+
+3.4.2 Realizado o planejamento da contratação conforme indicado no item [MN,  3.3], com os estudos preliminares e
+a  definição  do  objeto  da  contratação  e  suas  especificações,  o  gestor  efetua  a  pesquisa  de  preços,  prospectando   o
+mercado a fim de averiguar o preço de comercialização do bem ou serviço e documenta a pesquisa.
+
+3.4.3 A estimativa de preço com a demonstração da pesquisa efetuada é requisito de aceitabilidade da solicitação de
+contratação, em razão de ser informação essencial para avaliação da compatibilidade das propostas ofertadas com
+os  preços  praticados  no  mercado,  bem  como  para  balizar  a  aplicação  eficaz  dos  recursos  públicos,  consoante  aos
+princípios da economicidade e da eficiência.
+
+3.4.4 A  pesquisa  de  preços  deve  ser  ampla  com  o  objetivo  de  alcançar  a  melhor  proposta  à  CAIXA,  devendo  ser
+auferido o maior número possível de orçamentos com fornecedores do ramo e demais fontes.
+
+3.4.5 Para  obtenção  dos  dados  e  referências  de  preço  no  mercado  poderão  ser  utilizadas  as  seguintes  fontes  de
+pesquisa, dentre outras, observados os prazos de validade para cada uma:
+
+▪ Pesquisa  direta  ao  maior  número  possível  de  fornecedores  do  ramo  mediante  solicitação  formal  de  cotação,  por
+meio  de  ofício  ou  e-mail,  desde  que  não  tenham  sido  obtidos  os  orçamentos  com  mais  de  6  (seis)  meses  de
+antecedência da data de cadastramento da demanda no SICLG;
+
+▪ Contratações similares feitas pela CAIXA ou pela Administração Pública, em execução ou concluídas no período de
+1  (um)  ano  anterior  à  data  de  cadastramento  da  demanda  no  SICLG,  inclusive  mediante  sistema  de  registro  de
+preços, observado o índice de atualização de preços correspondente;
+
+▪ Consulta  pública  no  Portal  de  Compras  CAIXA,  desde  que  as  propostas  de  preços  estejam  compreendidas  no
+
+período de 6 (seis) meses anterior à data de cadastramento da demanda no SICLG;
+
+▪ Banco  de  dados  da  Administração  Pública  ou  cadastros  de  preços  mantidos  pelo  Poder  Público,  a  exemplo  do
+SIASG-SICAF/MPOG e SINAPI/CEF, considerando a validade de 1 (um) ano anterior à data de cadastramento da
+demanda no SICLG;
+
+▪ Cadastros  ou  banco  de  preço  de  fornecedores  internos  ou  externos  ou  mantidos  por  entidades  de  pesquisa,  a
+exemplo da Catho e FGV,  válidos por 6 (seis) meses anteriores à data de cadastramento da demanda no SICLG,
+contendo a data e a hora de acesso;
+
+▪ Listas de preços oficiais ou veiculadas por publicações especializadas válidas por 6 (seis) meses anteriores à data
+
+de cadastramento da demanda no SICLG, contendo a data e a hora de acesso.
+
+▪ Painel  de  Preços  de  domínio  público  no  link  http://paineldeprecos.planejamento.gov.br/  válido  por  até  1  (um)  ano
+
+anterior à data de cadastramento da demanda no SICLG.
+
+3.4.5.1 Quando a pesquisa de preços for realizada diretamente com os fornecedores, nos termos do  1º marcador do
+item [MN, 3.4.5], deverá ser observado:
+
+▪ Prazo de resposta conferido ao fornecedor compatível com a complexidade do objeto a ser licitado;
+
+▪ Obtenção de propostas formais contendo, no mínimo:
+
+m) Descrição do objeto, valor unitário e total;
+
+n)  Número  do  Cadastro  de  Pessoa  Física  –  CPF,  ou  do  Cadastro  Nacional  de  Pessoa  Jurídica  –  CNPJ  do
+
+proponente;
+
+14 / 47
+
+o)  Endereço físico, eletrônico e telefone de contato; e
+
+p)  Data de emissão da proposta.
+
+q)  Nome completo e identificação do responsável.
+
+▪ Registro nos autos de contratação da relação de fornecedores que foram consultados e não enviaram propostas;
+
+3.4.6 Quando tratar de contratação direta por inexigibilidade com fornecedor único/exclusivo, deve ser comprovado
+o  preço  praticado  pelo  fornecedor  ou  profissional  com  outros  clientes,  considerada  a  complexidade  e  natureza  do
+serviço  ou  do  bem  a  ser  fornecido,  apresentando  cópias  de  contratos,  notas  fiscais  e/ou  outros  documentos
+comprobatórios.
+
+3.4.7 Para obras e serviços de engenharia pode ser adotada planilha orçamentárias elaborada por engenheiros e/ou
+arquitetos  CAIXA  ou  Escritório  de  Engenharia  e  Arquitetura  Terceirizada  (EEAT)  com  indicação  das  fontes  de
+pesquisa utilizadas, devidamente assinada pelo responsável técnico e com identificação da empresa contratada.
+
+3.4.8 O orçamento de referência do custo global de obras e serviços de engenharia deve ser obtido a partir de custos
+unitários  de  insumos  ou  serviços  menores  ou  iguais  à  mediana  de  seus  correspondentes  no  Sistema  Nacional  de
+Pesquisa de Custos e Índices da Construção Civil (SINAPI), no caso de construção civil em geral, ou no Sistema de
+Custos  Referenciais  de  Obras  (SICRO),  no  caso  de  obras  e  serviços  rodoviários,  devendo  ser  observadas  as
+peculiaridades geográficas.
+
+3.4.8.1 No caso de inviabilidade da definição dos custos conforme item [MN, 3.4.8] acima, a estimativa de custo global
+poderá  ser  apurada  por  meio  da  utilização  de  dados  contidos  em  tabela  de  referência  formalmente  aprovada  por
+órgãos ou entidades da administração pública federal, em publicações técnicas especializadas, em banco de dado s
+e sistema específico instituído para o setor ou em pesquisa de mercado.
+
+3.4.8.1.1 Podem  ser  utilizados  valores  de  referência  usualmente  aplicados  pelo  mercado  e/ou  constantes  de
+publicações técnicas de Órgãos ou Instituições especializadas, desde que observada a atualidade, compatibilidade e
+aplicação ao objeto orçado, admitindo-se a utilização de parâmetros de custos adotados pela PINI (TCPO) ou outras
+fontes de referência.
+
+3.4.9 Na pesquisa deverão ser considerados, conforme a necessidade, as seguintes características do objeto:
+
+▪ Quantidade do objeto pretendido necessário para atender a CAIXA;
+
+▪ Qualidade do objeto pretendido;
+
+▪ Existência de objetos similares capazes de atender às necessidades da CAIXA;
+
+▪ Local e forma da entrega e/ou execução do objeto;
+
+▪ Período de vigência contratual;
+
+▪ Outras peculiaridades especificas do objeto.
+
+3.4.9.1 Em  relação  à  quantidade  do  objeto  pretendido  e  o  período  de  vigência  contratual,  elencados  no  item  [MN,
+3.4.9], e considerando a estrita necessidade da CAIXA, cabe ao gestor avaliar, mediante análise de cenários e quando
+for o caso, possíveis redução de custos em vista das seguintes variáveis:
+
+▪ Economia de escala, ao ter em conta que o aumento de quantitativos tende à redução dos preços;
+
+▪ Projeção de prazos, considerando a diluição dos custos empresariais frente ao período de vigência contratual.
+
+3.4.10 A  pesquisa  deve  ser  formal  com  documentação  comprobatória  e  deve  observar  os  prazos  de  validade  dos
+preços, conforme item [MN, 3.4.5].
+
+3.4.11 O gestor pode realizar consulta pública no Portal de Compras CAIXA.
+
+3.4.11.1 As  respostas  à  consulta  pública,  refletindo  a  prática  de  comercialização  do  bem  ou  serviço,  serve  para
+embasar as decisões e especificações técnicas delineadas pelo gestor quanto ao objeto pretendido.
+
+3.4.11.2 A consulta pública constitui apenas uma das fontes de pesquisa de preços, não sendo, portanto, prioritária,
+uma  vez  que  devem  ser  esgotados  todos  os  outros  meios  de  coleta  de  preços,  de  modo  a  refletir  os  valores
+efetivamente praticados no mercado.
+
+3.4.12 Os orçamentos obtidos na pesquisa que embasam a estimativa de preço devem compor, obrigatoriamente, a
+demanda de solicitação de contratação.
+
+3.4.13 Não sendo possível realizar pesquisa de preço para a contratação ou obter os orçamentos, o Gestor apresenta
+as justificativas acerca da inviabilidade e apresenta outras informações que evidencie a compatibilidade dos preços
+com  o  praticado  no  mercado  para  subsidiar  eventuais  respostas  a  questionamentos  dos  órgãos  de  controle  e
+fiscalização.
+
+3.4.14 Após  análise  crítica  do  conjunto  de  dados  obtidos  na  pesquisa  de  preços,  o  gestor  deverá  definir  o  método
+para obtenção da estimativa do valor da contratação que melhor atenda à modelagem da contratação e que melhor
+resguarde os interesses da CAIXA.
+
+15 / 47
+
+3.4.14.1 O  método  escolhido  deverá  ser  justificado  independente  da  metodologia  utilizada,  seja  ela  média,  média
+saneada, mediana, menor preço, aplicação de percentual ou qualquer outra.
+
+3.4.14.2 Caso  haja  tratamento  de  dados  com  desconsideração  de  valores  inexequíveis,  inconsistentes  ou
+excessivamente elevados deverá ser apresentada a fundamentação e os critérios para o tratamento conferido.
+
+3.4.14.3 Deverá  ser  apresentada  memória  de  cálculo  que  permita,  de  modo  claro,  a  identificação  dos  dados,  dos
+parâmetros e da metodologia utilizada para estimativa de preços.
+
+3.4.15 O resultado da pesquisa de preço deve ser utilizado para a elaboração da  Planilha de Quantitativos e Preços
+Estimados contendo os preços unitários do objeto, a quantidade do bem ou serviço e o valor global para amparar o
+julgamento da melhor proposta.
+
+3.4.15.1 As Planilhas de Quantitativos e Preços Estimados figuram como obrigatórias em todas as contratações.
+
+3.4.15.2 Nas contratações de obras e serviços de engenharia, devem ser elaboradas a Planilha Sintética e a Planilha
+Analítica.
+
+3.4.15.3 A Planilha de Composição de Preços deve ser apresentada nos casos de serviços que apresentem mão de
+obra dedicada, mão de obra preponderante e/ou que tenham possibilidade de atingir a anualidade.
+
+3.4.15.3.1 A Planilha de Composição de Preços deve ser apresentada pelo gestor, disponibilizada no edital e exigida
+do licitante vencedor, sendo obrigatória para os serviços com  prevalência de mão de obra dedicada ou serviços com
+mão de obra preponderante.
+
+3.4.15.3.2 Para  serviço  com  mão  de  obra  dedicada  ou  preponderante  também  devem  ser  informados  o  sindicato  e
+CCT que serviram de referência para a elaboração da planilha de custos e estimativa de preços.
+
+3.4.15.4 A  Planilha  de  Composição  de  Preços  pode  ser  dispensada  apenas  em  situação  excepcional,  devidamente
+motivada no processo administrativo, desde que para objetos complexos, com alto grau de incerteza em sua definição
+e/ou  características  muito  peculiares  de  mercado  que  justifiquem  a  medida,   considerando  os  riscos  e  benefícios
+esperados para a CAIXA no caso concreto.
+
+3.4.15.4.1 A hipótese de dispensa de Planilha de Composição de Preços prevista no item [MN, 3.4.15.4] não se aplica
+para contratos de serviços com mão de obra dedicada.
+
+3.4.16 Deve ser estabelecido o critério de revisão de preços a ser utilizado no contrato, caso atingida a anualidade,
+de acordo com o tipo de contrato, conforme tabela abaixo:
+
+Tipo de contrato
+Contratos  de  serviço  com  prevalência  de  mão  de  obra
+dedicada
+Contratos de serviços com mão de obra preponderante
+Contratos  de  serviços  sem  preponderância  de  mão  de
+obra
+Contratos  de  serviço  sem  planilha  de  composição  de
+custos
+Contratos
+serviços
+preestabelecidos,  desde  o  contrato  original,  para
+execução após anualidade
+Contratos  de  escopo  em  que  não  haja  serviços
+preestabelecidos,  desde  o  contrato  original,  para
+execução após anualidade
+
+escopo
+
+haja
+
+que
+
+em
+
+de
+
+Critério de Revisão de Preços
+
+Cesta de índices
+
+Cesta de índices
+
+Um ou mais índices, ou cesta de índices
+
+Um ou mais índices
+
+Um ou mais índices, ou cesta de índices
+
+Um ou mais índices
+
+3.4.16.1 Na  indicação  do  critério  a  ser  utilizado  o  gestor  deve  apresentar  a  fórmula  para  a  cesta  de  índices,  ou
+detalhar os índices definidos, de acordo com o tipo de contrato.
+
+3.4.16.1.1 Em caso de uso da cesta de índices, ela deve ser apresentada na planilha de custos elaborada , trazendo
+também redação exata da fórmula paramétrica representativa da cesta  a ser definida no contrato.
+
+3.4.16.2 Sempre que for prevista Planilha de Composição de Custos , ela deve ser obrigatoriamente apresentada pelo
+gestor,  quando  da  demanda  de  contratação,  e  pela  licitante  vencedora,  durante  o  certame,  devidamente  adequada
+ao preço final ofertado, sendo a planilha condição indispensável para futuras revisões de preço.
+
+3.4.17 O gestor deve informar os critérios de aceitabilidade da proposta, estabelecendo os preços máximos unitários
+e global admitidos na licitação, levando em conta os preços obtidos na estimativa de preços e na planilha de custos
+e formação de preços.
+
+3.4.17.1 Admite-se exceção à regra do item [MN, 3.4.17] quando houver justificativa plausível para o ato, salvo para
+obras e serviços de engenharia.
+
+3.4.18 No  caso  de  credenciamento  pode  não  haver  estimativa  de  custos,  considerando  a  imprevisibilidade  de
+demandas, devendo constar justificativa quanto a impossibilidade de mensuração da despesa.
+
+16 / 47
+
+3.4.19 Em relação a divulgação ou sigilo da estimativa de preço, o gestor deve observar as regras abaixo:
+
+3.4.19.1 O  valor  estimado  será  sigiloso  na  Licitação  CAIXA,  sem  prejuízo  da  divulgação  do  detalhamento  dos
+quantitativos  e  das  demais  informações  necessárias  à  elaboração  das  propostas,  facultando -se  sua  publicidade,
+quando justificado.
+
+3.4.19.2 Nas hipóteses em que forem adotados os critérios de julgamento por maior desconto ou por melhor técnica,
+a estimativa de preço deverá constar no edital.
+
+3.4.19.3 No caso de julgamento por melhor técnica, o valor do prêmio ou da remuneração será incluído no edital.
+
+3.4.20 Nas contratações integradas, os orçamentos devem seguir as seguintes diretrizes:
+
+▪ sempre  que  o  anteprojeto  da  licitação  permitir,  considerando  seus  elementos  mínimos,  as  estimativas  de  preço
+devem se basear em orçamento tão detalhado quanto possível, devendo a utilização de estimativas paramétricas e
+a avaliação aproximada baseada em outras obras similares ser realizadas somente nas frações do empreendimento
+não suficientemente detalhadas no anteprojeto da licitação, exigindo -se das contratadas, no mínimo, o mesmo nível
+de detalhamento em seus demonstrativos de formação de preços;
+
+▪ quando utilizada metodologia expedita ou paramétrica para abalizar o valor do empreendimento ou de fração dele,
+entre  2  (duas)  ou  mais  técnicas  estimativas  possíveis,  deve  ser  utilizada  nas  estimativas  de  preço -base  a  que
+viabilize a maior precisão orçamentária, exigindo-se das licitantes, no mínimo, o mesmo nível de detalhamento na
+motivação dos respectivos preços ofertados.
+
+3.4.21 Na contratação de obras e  serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável
+vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios de sustentabilidade e
+prazos de entrega definidos no instrumento convocatório e no contrato.
+
+3.4.22 A utilização da remuneração variável respeitará o limite orçamentário fixado para a respectiva contratação.
+
+3.4.23 A remuneração variável está condicionada à demonstração de eficiência e vantagem para a CAIXA e respeitará
+o limite orçamentário fixado para a respectiva contratação, contemplando:
+
+▪ Os parâmetros escolhidos para aferir o desempenho do contratado; e
+
+▪ As faixas de remuneração.
+
+3.4.24 As informações e documentos atinentes à estimativa  de preço que devem compor a demanda de solicitação
+de contratação, observando a necessidade do caso concreto, são as seguintes:
+
+▪ Orçamentos atualizados obtidos na pesquisa de preços e justificativa quanto a impossibilidade de apresentação, se
+
+for o caso;
+
+▪ Informação sobre a metodologia utilizada para a definição do preço estimado ou proposto acompanhada da memória
+
+de cálculo, bem como as fontes pesquisadas;
+
+▪ Planilha  de  Quantitativos  e  Preços  Estimados,  Planilha  de  Composição  de  Preços,  Planilha  Sintética  e  Planilha
+
+Analítica, conforme o caso.
+
+▪ Declaração de que a estimativa elaborada reflete o preço atual praticado no mercado, conforme pesquisa realizada.
+
+3.5
+
+SOLICITAÇÃO DE CONTRATAÇÃO
+
+3.5.1
+
+PRAZO PARA SOLICITAÇÃO DE CONTRATAÇÃO
+
+3.5.1.1 O  Gestor  deve  instruir  a  solicitação  de  contratação  por  meio  do  SICLG  com  antecedência  mínima  à
+necessidade de entrega do bem e/ou execução da obra/serviço de acordo com as modalidades abaixo:
+
+a)  Licitação CAIXA, critério de julgamento por menor preço: 90 (noventa) dias de antecedência, inclusive no caso
+de contratos vincendos em que haja interesse de nova contratação, considerando as condições de mercado.
+
+b)  Dispensa de licitação por limite de valor: 15 dias de antecedência;
+
+c)  Dispensa ou inexigibilidade de licitação e locações, exceto contratações emergenciais:
+
+▪ 30  (trinta)  dias  de  antecedência  para  contratações  com  alçada  de  autorização  pelo  Comitê  de  Compras  e
+
+Contratações das Centralizadoras Nacionais de Contratação e Gestão Formal de Contratos;
+
+▪ 60 (sessenta) dias de antecedência para os demais Comitês estatutários.
+
+3.5.1.1.1 Caso  o  objeto  exija  períodos  de  transição  dos  serviços,  recebimento  e  análise  de  amostras,  prazos  para
+obtenção  de  licenças,  autorizações,  alvarás  ou  compra  de  equipamentos,  dentre  outros  procedimentos  adicionais,
+tais prazos deverão ser acrescidos aos prazos mínimos para cada modalidade.
+
+17 / 47
+
+3.5.1.1.2 As contratações diretas indicadas no item [MN, 3.5.1.1], alínea ‘c’ que ocorram com empresas estrangeiras
+e que exijam adoção de lei e foro estrangeiro devem acrescer 35 dias ao prazo mínimo indicado para permitir avaliação
+jurídica indicada no item [MN, 3.6.2.3].
+
+3.5.1.2 A solicitação de contratação fora do prazo disposto no Item [MN, 3.5.1.1], alíneas ‘a’ e ‘c’, deve ser justificada
+e deverá vir acompanhada da concordância da Diretoria da área demandante.
+
+3.5.1.2.1 Não é necessária apresentação de concordância da Diretoria para demandas de locação.
+
+3.5.1.2.2 A concordância da Diretoria não é necessária quando a extrapolação do prazo ocorrer por condições alheias
+à vontade da CAIXA, como por exemplo, por decisão judicial ou dos Órgãos de Controle e, até mesmo, em decorrência
+de certames fracassados ou desertos, devendo a situação ser claramente justificada.
+
+3.5.1.3 Na hipótese de contratação fora do prazo, o gestor não poderá questionar a formalização extemporânea do
+contrato, nem se eximir por eventuais responsabilizações.
+
+3.5.1.4 Entende-se  que  a  demanda  está  instruída  no  SICLG  quando  ela  contém  todos  os  requisitos  necessários  à
+análise formal.
+
+3.5.1.4.1 A  inclusão  de  demanda  sem  as  informações  mínimas  requeridas  nesta  norma  para  análise  poderá  ser
+cancelada pela CECOT/GECOT.
+
+3.5.2
+
+NÍVEL DE CLASSIFICAÇÃO DOS DOCUMENTOS DE CONTRATAÇÃO
+
+3.5.2.1 A  documentação  que  compõe  a  solicitação  de  contratação  deve  possuir  nível  de  classificação  pública
+(#PÚBLICO),  na  forma  do  [MN,  OR016],  tendo  em  vista  que  os  documentos  compõem  processo  de  contratação
+pública.
+
+3.5.2.1.1 Os  documentos  com  classificação  sigilosa,  isto  é,  com  informação  sensível,  segundo  a  definição  do  [MN,
+OR016],  não  devem  compor  os  autos  do  processo  administrativo  da  contratação,  desde  que  não  prejudique  a
+instrução da demanda.
+
+3.5.2.1.1.1 Cabe ao Gestor manter sob sua guarda as informações que não podem ter sua divulgação autorizada por
+comprometer planos, operações ou objetivos estratégicos da CAIXA, uma vez que são revestidas de sigilo  bancário,
+estratégico, comercial ou industrial, exceção à obrigação legal de publicidade dos atos.
+
+3.5.2.1.1.2 Caso  as  informações  de  cunho  sigiloso  sejam  requeridas  para  instrução  e  autuação  no  processo
+administrativo,  o  Gestor  deve  disponibilizá-las  no  SICLG,  ajustando  a  classificação  do  grau  de  sigilo  no  próprio
+sistema.
+
+3.5.2.1.2 As  informações  encaminhadas  com  nível  de  classificação  diferente  de  #PÚBLICO,  não  enquadradas  na
+forma do item [MN, 3.5.2.1.1], ou sem atribuição de nível de classificação serão devolvidas para adequação.
+
+3.5.3
+
+SOLICITAÇÃO NO SICLG
+
+3.5.3.1 A  solicitação  de  contratação  é  feita  pelo  Gestor  do  bem/serviço  através  do  sistema  SICLG  no  endereço
+eletrônico http://siclg.caixa, na Intranet.
+
+3.5.3.1.1 Para  utilização  do  SICLG  o  usuário  consulta  o  manual  disponível  no  endereço  eletrônico  indicado  acima,
+aba “Documentação”.
+
+3.5.3.1.2 O acesso ao SICLG é autorizado a todos empregados CAIXA, observados os perfis adequados, à exceção
+dos empregados lotados na Rede.
+
+3.5.3.1.3 O Gerente responsável pela unidade gestora operacional tem cadastro automático no SICLG, com o perfil
+“demandante gerente” e deve providenciar o cadastro de sua equipe no sistema com o perfil “demandante”.
+
+3.5.3.1.4 Para  incluir  a  solicitação  de  contratação  no  SICLG  é  necessário  acessar  o  sistema,  selecionar  a  opção
+“Solicitar  Demandas” na aba “Demandas” e prosseguir conforme orientação constante no  Guia para cadastramento
+de  demandas  de  contratação,  acesso  pelo  link:  http://www.gecot.mz.caixa/novoportal/upload/GUIA_GESTOR_
+SICLG.pdf .
+
+3.5.3.1.5 Os  documentos  elaborados  pelo  Gestor,  anexos  à  CI  de  solicitação,  a  exemplo  do  estudo  preliminar,  do
+Termo  de  Referência,  Projeto  Básico  e  pareceres  técnicos,  bem  como  demais  documentações  como  pesquisa  de
+preços, manuais, folders, devem ser anexados ao SI CLG para a adequada instrução do processo.
+
+3.6
+
+FORMALIZAÇÃO DE CONTRATOS
+
+3.6.1
+
+DISPOSIÇÕES GERAIS
+
+3.6.1.1 A  contratação  é  formalizada  mediante  instrumento  contratual ,  sendo  o  contrato  obrigatório  no  caso  de
+contratações de valor acima de R$ 5.000,00 (cinco mil reais).
+
+18 / 47
+
+3.6.1.1.1 O contrato deve conter, no mínimo, as seguintes cláusulas:
+
+a)  O objeto e seus elementos característicos;
+
+b)  O regime de execução ou a forma de fornecimento;
+
+c)  O preço, as condições de pagamento e os critérios do reajustamento de preços;
+
+d)  O cronograma de execução, com as respectivas entregas;
+
+e)  A indicação dos recursos orçamentários que assegurem o pagamento das obrigações, quando cabível;
+
+f)  As garantias oferecidas para assegurar a plena execução do objeto contratual, quando exigidas;
+
+g)  Os  direitos  e  as  responsabilidades  das  partes,  as  tipificações  das  infrações  e  as  respectivas  penalidades  e
+
+valores das multas;
+
+h)  Os casos de rescisão do contrato e os mecanismos para alteração de seus termos;
+
+i)  A  vinculação  ao  instrumento  convocatório  da  respectiva  licitação  ou  ao  termo  que  instruiu  a  contratação,  bem
+
+como ao lance ou proposta do licitante vencedor ou do proponente, no caso de contratação direta;
+
+j)  A obrigação de o contratado manter, durante a execução do contrato, em compatibilidade com as obrigações por
+
+ele assumidas, as condições de habilitação e qualificação exigidas no curso do procedimento licitatório;
+
+k)  Matriz de Riscos, quando cabível.
+
+3.6.1.1.2 Ainda deve conter, no mínimo, as seguintes informações:
+
+a)  nome da empresa;
+
+b)  endereço completo;
+
+c)  CNPJ/CPF da contratada;
+
+d)  número do processo (quando for o caso);
+
+e)  número do protocolo SICLG (quando for o caso);
+
+f)  prazo de entrega/execução;
+
+g)  local de entrega/execução;
+
+3.6.1.1.3 A data de pagamento deve ser programada conforme regra que consta do edital ou do modelo padronizado
+de contrato disponibilizado no SICLG.
+
+3.6.1.1.4 Para contratações até R$ 100.000,00 (cem mil reais) e com prazo de vigência limitada a 12 (doze) meses,
+sem possibilidade de prorrogação, deve ser utilizado o modelo de contrato simplificado disponível no SICLG, na aba
+“documentação”, no item “modelos de contratos”.
+
+3.6.1.1.5 A  redução  a  termo  do  contrato  pode  ser  dispensada  no  caso  de  pequenas  despesas  de  pronta  entrega  e
+pagamento das quais não resultem obrigações futuras por parte da CAIXA e cujo valor não ultrapasse R$ 5.000,00.
+
+3.6.1.1.6 A formalização de inscrições em Eventos Externos de Treinamento e Desenvolvimento (T&D) por dispensa
+de  valor  é  realizada  pelo  próprio  gestor  demandante  da  contratação  utilizando  a  plataforma  de  Pequenas
+Contratações, conforme estabelecido no [MN,  AD028], através da qual é emitida automaticamente uma “Autorização
+para participação”.
+
+3.6.1.1.7 A  formalização  de  inscrições  em  Eventos  Externos  de  T&D  enquadradas  como  contratação  direta  por
+inexigibilidade, dentro do valor unitário de inscrição  de até R$ 7.300,00, na hipótese do item [MN,  4.3.1.13.6.4] são
+realizadas  pela  CECOT  pelo  uso  do  modelo  de  “Autorização  para  participação  em  evento  externo”  disponível  no
+SICLG.
+
+3.6.1.2 Todo contrato de valor acima de R$ 5.000,00 deve ser cadastrado no SICLG e no ERP/SAP cabendo à CECOT
+manter atualizados os dados pertinentes aos contratos formalizados.
+
+3.6.1.2.1 Quando se tratar de aquisição de material permanente, assim definido no [MN,  AD090], independentemente
+do valor, é obrigatório o cadastramento do contrato no SICLG e no ERP/SAP.
+
+3.6.1.3 A assinatura de contratos compete a quem foi delegada essa atribuição por meio de procuração constituída ,
+independentemente do valor.
+
+3.6.1.4 A  assinatura  digital  pode  ser  aceita  nos  contratos,  em  substituição  à  assinatura  em  meio  físico,  sendo
+necessária a verificação da sua autenticidade pelos meios legais.
+
+3.6.1.4.1 No  caso  de  contratação  de  pessoa  jurídica,  o  contrato  deve  ser  assinado  por  pessoa  física  que  detém
+poderes legais para representar/responder pela empresa contratada.
+
+3.6.1.5 O contrato só se concretiza quando a CAIXA e a empresa contratada manifestam sua vontade, isto é, com as
+assinaturas de ambas as partes, seja em meio físico ou em meio eletrônico.
+
+19 / 47
+
+3.6.1.5.1 No caso de contrato com vigência a partir de sua assinatura, a contratação torna -se perfeita e concretizada
+após a assinatura da última parte.
+
+3.6.1.5.2 A  assinatura  do  contrato  pela  empresa  contratada  deve,  preferencialmente,  preceder  à  assinatura  pela
+CAIXA.
+
+3.6.1.5.2.1 Caso o contrato seja assinado de forma eletrônica:
+
+▪ considera-se como data de assinatura do instrumento contratual a data  de assinatura do último signatário;
+
+▪ no caso de data preestabelecida para o seu início ambas as partes devem assinar o instrumento contratual antes
+
+da data inicial de vigência.
+
+3.6.1.5.2.2 A vigência do contrato inicia-se somente após a assinatura pela última parte.
+
+3.6.1.6 Em  contratações  provenientes  de  licitação,  é  condição  para  assinatura  do  contrato  que  a  empresa  esteja
+cadastrada e habilitada no SICAF, conforme os níveis exigidos no edital.
+
+3.6.1.7 No  caso  de  contratação  direta,  o  cadastramento  no  SICAF  pode  ser  exigido,  cabendo  ao  Gestor  avaliar  a
+pertinência da exigência, conforme necessidade da contratação.
+
+3.6.1.7.1 Não sendo o caso de exigência de SICAF na contratação direta, a regularidade do fornecedor é verificada
+mediante consulta aos documentos indicados no item [MN, 3.6.3.3.3.2].
+
+3.6.1.8 Os  modelos  de  contrato/ARP  do  SICLG  possuem  cláusulas  gerais,  de  natureza  legal,  que  são  adotadas
+conforme as exigências da legislação, as orientações da área jurídica e as recomendações e/ou determinações dos
+órgãos de controle e fiscalização.
+
+3.6.1.8.1 Os modelos padronizados  de minutas de contratos,  Ata de  RP ou ajustes, disponíveis no  SICLG são pré -
+aprovados pela GEAJU e a simples autuação no processo do modelo e do Parecer da GEAJU disponíveis no SICLG
+já cumpre a exigência legal de visto de advogado da Caixa.
+
+3.6.1.8.2 O  ajuste  de  cláusulas,  para  adequação  da  minuta  de  contrato/Ata  de  RP  às  especificidades  do  caso
+concreto, dispensa nova análise jurídica ou da GECOT quando não conflitarem com aspectos legais e/ou normativos.
+
+3.6.1.8.2.1 A CECOT submete à análise da GECOT, via LICO como demanda de Normas e Modelos Padronizados –
+GECOT02,  as  minutas  de  editais  e/ou  contratos  que  tiverem  alterações  de  cláusulas  que  conflitem  com  as  normas
+vigentes de licitações e contratos.
+
+3.6.1.8.2.2 Nas  solicitações  de  análise,  a  CECOT  deve  evidenciar  a  alteração  realizada  no  modelo  padrão  e  o
+eventual conflito com os normativos vigentes de licitações e contratos.
+
+3.6.1.8.3 A  CECOT/GECOT  submete  à  análise  da  unidade  jurídica  as  minutas  de  contratos/ARP  que  foram
+previamente aprovadas pela GEAJU e sofreram alterações nas cláusulas de natureza legal.
+
+3.6.1.8.3.1 Na  hipótese  do  item  anterior,  se  o  contrato/ARP  for  replicado  no  âmbito  CECOT/GECOT,  para  outras
+contratações, não haverá necessidade de nova submissão do documento à avaliação jurídica.
+
+3.6.1.8.4 Em  caso  de  dúvidas  específicas  relacionadas  aos  aspectos  legais  da  demanda,  notadamente  quanto  aos
+requisitos ou justificativas apresentados pelo Gestor (tais como parcelamento do objeto, exigências de qualificação
+técnica,  prazos  contratuais  superiores  a  12  meses  etc.),  a  CECOT  deve  encaminhar  o  assunto  à  unidade  jurídica
+competente, indicando pontualmente a questão que se pretende esclarecer, com as respectivas razões motivadoras.
+
+3.6.1.9 Para locação,  comodato  e  cessão  de  uso  de  imóveis  ou  áreas  de  imóveis  são  observadas  as  regras
+específicas do [MN, AD200], inclusive quanto à formalidade contratual.
+
+3.6.1.10 A  formalização  da  contratação,  com  empresas  estrangeiras  que  não  possuem  representação  no  Brasil,  é
+feita utilizando-se modelo de registro de formalização  de contrato, disponibilizado no SICLG (aba  “Documentação”,
+“Modelos de Contratos”.
+
+3.6.1.10.1 Quando pela especificidade da contratação, a formalização do contrato se der por inscrições em site, com
+criação  de  login  e  senha,  ou  por  simples  adesão  a  ferramentas  ou  portais  de  serviço,  o  procedimento  deverá  ser
+realizado pelo gestor operacional.
+
+3.6.1.10.2 Nesses casos, o Gestor operacional deve disponibilizar evidência da formalização à CECOT, para inclusão
+como anexo do instrumento contratual no SICLG.
+
+3.6.1.10.3 A CECOT deve utilizar o registro de formalização de contrato.
+
+3.6.1.10.4 No caso de consórcio, as pesquisas indicadas no item  [MN,  4.6] são realizadas para todas as empresas
+integrantes do consórcio.
+
+3.6.1.11 É necessário atestar a autenticidade dos documentos assinados ou autenticados de forma digital e anexar
+ao processo evidência da consulta.
+
+3.6.2
+
+CONTRATOS REGIDOS POR LEI ESTRANGEIRA E FORO NO EXTERIOR
+
+20 / 47
+
+3.6.2.1 Nas contratações diretas, a adoção de lei estrangeira e de foro no exterior deverá ser submetida a avaliação
+específica  uma  vez  que  constitui  risco  jurídico  e  pode  representar  ônus  financeiro  para  a  CAIXA ,  por  exigir
+representação por advogados estrangeiros e custas judiciais diversas  em caso de discussão judicial, que podem ser
+desproporcionais ao objeto da contratação.
+
+3.6.2.2 Quando  a parte a ser contratada  exigir a utilização de modelo próprio  de contrato  que preveja aplicação de
+lei  estrangeira  e  eleição  de  foro  no  exterior,  o  gestor  operacional  deverá  negociar  a  regência  do  contrato  por  lei
+brasileira e foro no Brasil.
+
+3.6.2.2.1 A negociação deverá ser formalizada e constar da solicitação de contratação, de modo a demonstrar que a
+adoção de lei e foro estrangeiro  constituem exigência da parte a ser contratada e apresentada como condição para
+realização do negócio.
+
+3.6.2.3 Sendo  indispensável  a  adoção  de  lei  e  foro  estrangeiro  para  realização  do  negócio,  a  GEAJU  deverá  ser
+acionada  para  fins  da  análise  da  contratação  pretendida  e  para  solicitar  avaliação  do  contrato  por  escritório
+especializado em direito estrangeiro.
+
+3.6.2.3.1 A  GEAJU  deverá  ser  acionada,  preferencialmente,  60  (sessenta)  dias  de  antecedência  à  data  pretendida
+para contratação.
+
+3.6.2.3.2 No  caso  excepcional  de  acionamento  da  GEAJU  com  30  (trinta)  dias  ou  menos,  incorrerá  em  risco  a
+contratação  caso  não  haja  tempo  e  condições  hábeis  à  obtenção  de  parecer  jurídico  satisfatório  sobre  a  lei
+estrangeira.
+
+3.6.3
+
+VERIFICAÇÃO DE IMPEDIMENTOS PARA CONTRATAR E DE REGULARIDADE DO FORNECEDOR
+
+3.6.3.1
+
+IMPEDIMENTOS PARA CONTRATAÇÃO
+
+3.6.3.1.1 São observados os impedimentos e vedações dispostos no item [MN, 3.1.11].
+
+3.6.3.1.2 Caso o fornecedor esteja suspenso de licitar e contratar com a CAIXA, impedido de licitar ou contratar com
+a União ou declarado inidôneo ou enquadrado no item [MN, 3.1.11.5], é convocado o próximo licitante, observada a
+ordem de classificação na licitação ou na cotação da contratação direta, para negociação e celebração do contrato,
+observadas as regras do ato convocatório.
+
+3.6.3.2
+
+REGULARIDADE DO FORNECEDOR
+
+3.6.3.2.1 Na data de convocação da empresa para formalização da contratação, bem como na data de assinatura do
+contrato, independentemente do valor do instrumento contratual, é necessário verificar a regularidade do fornecedor.
+
+3.6.3.2.1.1 No  caso  de  contratos  derivados  de  ARP  a  consulta  será  realizada  apenas  na  data  de  assinatura  do
+contrato.
+
+3.6.3.2.2 Considera-se  como  data  de  assinatura  do  contrato,  a  data  em  que  ocorrer  a  aposição  de  assinatura  pela
+última parte.
+
+3.6.3.2.3 Se o fornecedor apresentar situação irregular no âmbito fiscal, trabalhista ou cadastral, [MN, 3.6.3.3] e [MN,
+3.6.3.5], é estipulado prazo para regularização de acordo com o prazo de convocação, determinado no edital ou no
+contrato, que pode ser prorrogado uma vez por igual período.
+
+3.6.3.2.4 Caso o fornecedor não regularize  sua situação dentro do prazo estipulado na convocação para assinatura
+do  contrato  ou  se  recuse  a  assinar  o  contrato,  injustificadamente,  é  convocado  o  próximo  fornecedor,  observada  a
+ordem de classificação na licitação ou na cotação da contratação direta, para negociação e celebração do contrato,
+e assim sucessivamente, observadas as regras do ato convocatório.
+
+3.6.3.2.4.1 Na contratação direta, desde que não esteja no cadastro de reserva do Registro de Preços, o fornecedor
+não está obrigado a ofertar o mesmo preço do primeiro classificado, desde que a proposta atenda às exigências  do
+ato  convocatório  e  o  preço  esteja  compatível  com  o  praticado  no  mercado,  podendo  a  CECOT  negociar  para  obter
+melhor proposta.
+
+3.6.3.2.5 No  caso  do  item  [MN,  3.6.3.2.4],  em  se  tratando  de  licitação,  o  processo  retorna  à  CECOT  para  os
+procedimentos de retomada do certame, e se for o caso, solicitação à CEFOR para abertura de processo de aplicação
+de penalidade ao licitante que se recusar a assinar o contrato ou a Ata inj ustificadamente, nos termos previstos no
+edital.
+
+3.6.3.3
+
+REGULARIDADE FISCAL E TRABALHISTA
+
+3.6.3.3.1 Para  todas  as  contratações,  é  necessária  a  comprovação  de  regularidade  fiscal,  na  esfera  federal,  que
+poderá ser realizada mediante consulta ao SICAF.
+
+21 / 47
+
+3.6.3.3.2 É  obrigatória  a  regularidade  trabalhista  para  a  contratação  de  prestação  de  serviços  com  mão  de  obra
+dedicada, para os demais objetos fica a critério do Gestor, conforme definido na solicitação de contratação.
+
+3.6.3.3.2.1 A  CNDT  tem  prazo  de  validade  de  180  dias  e  certificará  a  empresa  em  relação  a  todos  os  seus
+estabelecimentos, agências e filiais.
+
+3.6.3.3.3 Na  impossibilidade  de  consulta  ao  SICAF,  a  regularidade  fiscal  e  trabalhista,  se  for  o  caso,  poderá  ser
+comprovada  mediante  consulta  aos  sítios  oficiais  de  órgãos  e  entidades  emissores  das  certidões  ou,  ainda,  aos
+documentos correspondentes, que devem ser apresentados pelo fornecedor e validado no sítio oficial.
+
+3.6.3.3.3.1 No  caso  de  contratação  oriunda  de  licitação,  exceto  para  permissionários  lotéricos,  é  condição  para
+assinatura do contrato que a empresa esteja cadastrada e habilitada no SICAF, nos níveis I, II, III e VI.
+
+3.6.3.3.3.2 Na contratação direta, por dispensa ou inexigibilidade de licitação, caso o fornecedor não seja cadastrado
+no  SICAF,  antes  da  formalização  do  contrato,  a  regularidade  fiscal  e  trabalhista  é  verificada  mediante  consulta  às
+certidões indicadas abaixo:
+
+a)  Para Pessoa Jurídica:
+
+▪ Certidão Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União ou Certidão
+Positiva com Efeitos de Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União;
+
+▪ Certificado de Regularidade do FGTS;
+
+▪ Certidão  Negativa  de  Débitos  Trabalhistas,  obrigatória  somente  para  a  contratação  de  serviços  com  mão  de
+
+obra dedicada; para os demais serviços, a verificação dessa regularidade é dispensável.
+
+b)  Para Pessoa Física:
+
+▪ Certidão Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União ou Certidão
+Positiva com Efeitos de Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União;
+
+▪ Comprovante de inscrição no INSS ou PIS/PASEP, exceto para locação de imóveis.
+
+3.6.3.4
+
+TRANSAÇÃO COM PARTES RELACIONADAS
+
+3.6.3.4.1 Deve  ser  realizada  consulta  para  verificação  e  monitoramento  das  contratações  envolvendo  Partes
+Relacionadas, conforme [MN, CR464].
+
+3.6.3.4.1.1 Deve ser consultado o CPF do contratado, se pessoa física, ou CNPJ e CPF/CNPJ de todos os sócios, se
+pessoa jurídica, com vistas a identificar fornecedores que se enquadrem na definição de Partes Relacionadas do [MN,
+CR464].
+
+3.6.3.4.1.1.1 No  caso  de  contratação  de  Pessoa  Jurídica  constituída  como  MEI,  a  consulta  deve  ser  realizada  pelo
+CPF do microempreendedor individual.
+
+3.6.3.4.1.1.2 Para o caso em que o CNPJ/CPF figurar como Parte Relacionada, a área gestora deverá ser comunicada
+para que adote os procedimentos previstos no [MN, CR464].
+
+3.6.3.5
+
+REGULARIDADE CADASTRAL
+
+3.6.3.5.1 Antes da assinatura do contrato é necessária a consulta da situação do fornecedor no CADIN , e o registro
+de ocorrências no CADIN é impeditivo para a contratação , devendo o comprovante da consulta constar no processo .
+
+3.6.4
+
+GARANTIA CONTRATUAL
+
+3.6.4.1 Na contratação de obras, compras e serviços, inclusive de engenharia, exceto para contratos celebrados com
+entidades  integrantes  do  Poder  Público,  pode  ser  exigida  do  fornecedor  garantia  contratual,  que  tem  por  objetivo
+minimizar prejuízos advindos de eventual inadimplemento na execução do objeto.
+
+3.6.4.2 Cabe  ao  gestor  avaliar  a  necessidade  e  decidir  sobre  a  exigência  ou  não  da  garantia  contratual,  devendo
+prestar as informações requeridas quando da solicitação de contratação, na forma do  item [MN, 4.3.1.8].
+
+3.6.4.3 A garantia está limitada a 5% do valor global do contrato e terá seu valor atualizado nas mesmas condições
+do valor do contrato.
+
+3.6.4.3.1 O  limite  previsto  no  item  [MN,  3.6.4.3]  pode  ser  ampliado  para  até  10%  quando  se  tratar  de  serviço  ou
+fornecimento  de  grande  vulto  envolvendo  alta  complexidade  técnica  e  riscos  financeiros  elevados,  desde  que
+demonstrados em parecer técnico emitido pelo gestor.
+
+3.6.4.3.2 Quando se tratar da modalidade seguro-garantia emitido em mais de um documento  – garantia principal e
+acessória  –  o  valor  segurado  para  todos  e  quaisquer  dos  riscos  cobertos  deve  ser  exatamente  o  montante
+representado pelo percentual exigido no edital/cont rato.
+
+22 / 47
+
+3.6.4.4 Para  a  elaboração  da  cláusula  de  exigência  de  garantia,  quando  houver,  tanto  na  licitação  quanto  na
+contratação direta são observadas as exigências previstas nos modelos de editais e contratos disponíveis no SICLG.
+
+3.6.4.5 A  garantia  é  prestada  em  uma  das  seguintes  modalidades:  caução  em  dinheiro,  seguro -garantia  e  fiança
+bancária, devendo ser exigida a via original ou a via autenticada em cartório ou  cópia acompanhada do original para
+conferência do comprovante, como condição para assinatura do contrato.
+
+3.6.4.5.1 A  caução  em  dinheiro  consiste  em  depósito  em  conta  bancária  específica,  nos  termos  do  [MN,  CO038],
+devendo  ser  efetuada  em  uma  Agência  da  CAIXA,  utilizando -se  a  operação  008  ou  1477,  tendo  como  favorecida  a
+CAIXA.
+
+3.6.4.5.1.1 Sobre  a  caução  prestada  em  dinheiro  incide,  tão  somente,  a  atualização  correspondente  ao  índice  de
+variação  do  rendimento  da  caderneta  de  poupança  para  o  1º  dia  de  cada  mês,  excluídos  os  juros,  calculada
+proporcionalmente, quando for o caso, a contar da da ta do depósito, até o seu efetivo levantamento.
+
+3.6.4.5.2 O  Seguro-garantia  é  um  tipo  de  seguro  com  o  objetivo  de  garantir  o  fiel  cumprimento  das  obrigações
+contratuais estipuladas, conforme descrito na apólice.
+
+3.6.4.5.2.1 A  apólice  do  seguro-garantia  deve  conter  prazo  de  validade  correspondente  ao  período  de  vigência  do
+contrato acrescido de mais 30 dias, devendo ser tempestivamente renovado, se estendida  ou prorrogada a vigência
+do contrato, sempre se mantendo os 30 dias após a última data de vencimento do contrato .
+
+3.6.4.5.2.1.1 No caso de prestação de serviço com mão de obra dedicada, a apólice deve conter prazo de validade
+correspondente  ao  período  de  vigência  do  contrato  acrescido  de  mais  90  dias,  devendo  ser  tempestivamente
+renovado, se estendida ou prorrogada a vigência do co ntrato, sempre se mantendo os 90 dias, após a última data de
+vencimento do contrato.
+
+3.6.4.5.2.2 O  seguro  deve  contemplar  a  cobertura,  até  o  limite  da  garantia,  de  quaisquer  prejuízos  sofridos  pela
+CAIXA  em  decorrência  de
+trabalhistas  e
+previdenciárias, ao ressarcimento de multa, bem como pre juízos advindos de atos, fatos ou indícios de violação pela
+Contratada das normas anticorrupção.
+
+inclusive  quanto  aos  encargos
+
+inadimplemento  da  contratada,
+
+3.6.4.5.2.3 Pode  ser  aceita  a  ressalva  na  apólice  de  seguro-garantia  nas  situações  relacionadas  nos  itens   [MN,
+3.6.4.5.2.4] e [MN, 3.6.4.5.2.5].
+
+3.6.4.5.2.4 É admitida a exclusão de cobertura de encargos fiscais e tributários (exceto previdenciários), não havendo
+necessidade de manifestação do Gestor para essa situação;
+
+3.6.4.5.2.5 No tocante aos encargos trabalhistas e previdenciários, é permitida a ressalva que condiciona o reembolso
+de  prejuízos  ao  trânsito  em  julgado  de  sentença  condenatória,  desde  que  seja  identificada  uma  das  seguintes
+situações:
+
+a)  Contrato de fornecimento de bens e produtos;
+
+b)  Contrato de prestação de serviços que não exige a dedicação exclusiva de prestador do serviço à CAIXA;
+
+c)  Prestação de serviços de vigilância armada, serviços de apoio, limpeza ou tele sserviço, cujo contrato prevê regra
+
+de contingenciamento de verbas trabalhistas;
+
+d)  Quando  o  Gestor  confirma  que  efetua  a  fiscalização  integral  quanto  ao  adimplemento  pela  contratada  das
+obrigações trabalhistas de todos os prestadores alocados exclusivamente para a CAIXA na execução do objeto
+contratual.
+
+3.6.4.5.2.5.1 Para  que  a  GECOT/CECOT  possa  avaliar  a  possibilidade  de  aceitação  da  apólice  de  seguro -garantia
+com  a  ressalva  mencionada  no  item  [MN,  3.6.4.5.2.5],  o  Gestor  deve  se  manifestar  sobre  a  existência  de  situação
+que se enquadre em uma das alíneas do referido item.
+
+3.6.4.5.2.5.2 Quando se tratar de contrato que exige a dedicação exclusiva de prestador do serviço à CAIXA e não
+se enquadre em uma das situações indicadas no item [MN, 3.6.4.5.2.5] não é admitida ressalva na apólice.
+
+3.6.4.5.2.6 Não  é  admitida  ressalva  que  exclua  a  cobertura  de  prejuízos  decorrentes  de  atos,  fatos  ou  indícios  de
+violação de normas anticorrupção praticados pela contratada.
+
+3.6.4.5.2.7 A  apólice  de  seguro  deve  vir  acompanhada  de  cópia  das  condições  gerais,  particulares  e/ou  especiais
+convencionais e demais documentos que a integram.
+
+3.6.4.5.2.8 Na contratação de consórcios, a apólice de seguro poderá ser emitida pela Empresa Líder.
+
+3.6.4.5.2.9 A  validade  do  seguro-garantia  deve  ser  confirmada  por  consulta  ao  endereço  eletrônico  da  própria
+Seguradora,  ou  da  SUSEP  no  endereço  eletrônico  http://www.susep.gov.br/,  opção  Atendimento  ao  Público,  ou  em
+contato formal com a Seguradora solicitando a confirmação.
+
+3.6.4.5.2.10 A Seguradora, ao emitir a apólice, obriga-se a arcar com eventuais prejuízos que possam ser impostos
+à CAIXA em decorrência da má execução do contrato.
+
+23 / 47
+
+3.6.4.5.2.11 Consta  do  Anexo  V  uma  Lista  de  Verificação  com  o  objetivo  de  facilitar  e  nortear  o  trabalho  da
+GECOT/CECOT  na  análise  da  apólice  do  seguro  garantia,  devendo  as  situações  específicas  serem  avaliadas  e
+tratadas no âmbito de cada unidade, de acordo com as condições apresentadas no  caso concreto.
+
+3.6.4.5.3 A Fiança bancária consiste na prestação de garantia, mediante a expedição da respectiva carta, emitida por
+instituição financeira idônea, devidamente autorizada a funcionar no Brasil, que, em nome da contratada, garante a
+plena  execução  do  contrato  e  responde  diretamente  por  eventuais  danos  que  possam  ser  causados  na  execução
+contratual.
+
+3.6.4.5.3.1 Somente  é  aceita  Fiança  Bancária  apresentada  em  papel  timbrado  da  instituição  financeira  emissora  e
+que possua todas os requisitos a seguir:
+
+a)  Registro  no  Cartório  de  Títulos  e  Documentos,  conforme  exigido  no  art.129  da  Lei  6.015/73  (Lei  de  Registros
+Públicos),  caso  o  registro  seja  feito  pela  via  eletrônica,  deve -se  verificar  a  autenticidade  do  documento  pela
+chave de acesso apresentada.
+
+b)  Cláusula estabelecendo prazo de validade, que deve corresponder ao período de vigência do contrato, acrescido
+
+de mais 30 dias, ou de 90 dias, no caso de prestação de serviço com mão de obra dedicada.
+
+c)  Expressa afirmação do fiador de que, como  devedor  solidário,  fará  o  pagamento  à  CAIXA,  independentemente
+
+de interpelação judicial, caso o afiançado não cumpra suas obrigações.
+
+d)  Cláusula de renúncia expressa do fiador ao benefício de ordem e aos direitos previstos nos artigos 827, 835 e
+
+838 da Lei nº 10.406/2002 – Novo Código Civil.
+
+e)  Cláusula  que  assegure  a  atualização  do  valor  afiançado,  de  acordo  com  a  atualização  do  valor  contratual,
+
+previsto no Edital, independente de notificação à Instituição emitente.
+
+f)  Cláusula  com  a  eleição  de  foro  da  Justiça  Federal,  para  dirimir  questões  entre  fiadora  e  credora  referentes  à
+
+fiança bancária.
+
+g)  Declaração da instituição financeira de que a carta fiança é concedida em conformidade com o disposto no art.
+34 da Lei nº 4.595, de 31 de dezembro de 1964, nos termos do art. 2º da Resolução CMN nº 2.325, de 1996, do
+Conselho Monetário Nacional.
+
+h)  O subscritor da carta de fiança bancária deve comprovar poderes para atendimento às exigências contidas nas
+
+alíneas “c”, “d”, “f” e “g” acima.
+
+3.6.4.5.3.1.1 É obrigação da empresa contratada providenciar a renovação ou prorrogação da fiança bancária sempre
+que a vigência do contrato for estendida ou prorrogada, mantendo -se o atendimento ao prazo de validade exigido na
+alínea “b” acima.
+
+3.6.4.6 Somente  pode  ser  aceita  a  garantia  contratual  que  atenda  a  todas  as  exigências  da  CAIXA  relativas  à
+modalidade  apresentada,  conforme  item  [MN,  3.6.4.5]  e  seus  subitens,  sendo  apresentada  em  instrumento  único,
+exceto  no  caso  da  modalidade  seguro-garantia,  que  pode  ser  aceito  em  mais  de  um  documento,  observando -se  o
+disposto no item [MN, 3.6.4.3] e subitens.
+
+3.6.4.7 A garantia contratual é apresentada no prazo:
+
+a)  estipulado no edital, nas contratações decorrentes de licitação; ou
+
+b)  indicado nos modelos padronizados de contrato; ou
+
+c)  em  outro  prazo  ajustado  em  vista  das  necessidades  no  caso  concreto,  nas  contratações  diretas,  mediante
+
+solicitação formal do Gestor demandante.
+
+3.6.4.7.1 A vigência da garantia deve atender os requisitos do contrato, independentemente do prazo de sua entrega.
+
+3.6.4.7.2 Se  for  estipulada  a  apresentação  da  garantia  para  a  assinatura  do  contrato,  a  não  apresentação  do  seu
+comprovante configura a recusa em assinar o contrato, caracterizando descumprimento total da obrigação assumida,
+sujeitando a licitante às sanções administrativas cabíveis, previstas no ato convocatório.
+
+3.6.4.8 Para integralização, substituição, liberação e perda da garantia observar o disposto no  [MN, AD242].
+
+3.6.5
+
+PUBLICAÇÃO
+
+3.6.5.1 A  publicação  resumida  do  contrato  e  da  ARP  na  imprensa  oficial,  como  condição  indispensável  para  sua
+eficácia, será providenciada conforme [MN, AE008], até o mês subsequente ao da assinatura do contrato.
+
+3.6.5.2 A publicação do extrato do contrato deve conter as seguintes informações:
+
+▪ número do contrato;
+
+▪ número do Processo;
+
+▪ objeto;
+
+24 / 47
+
+▪ nome das partes:
+
+▪ empresa contratada (nome e CNPJ/CPF);
+
+▪ Indicação da contratante, CAIXA ou pertencente ao Conglomerado CAIXA (nome e CNPJ);
+
+▪ Valor;
+
+▪ identificação do procedimento licitatório (modalidade e nº da licitação) ou do dispositivo legal de enquadramento de
+
+direta que deu origem à contratação;
+
+▪ enquadramento legal, no caso de dispensa/inexigibilidade de licitação;
+
+▪ Prazo de vigência; e
+
+▪ Data de assinatura.
+
+3.6.5.2.1 A  publicação  de  extrato  do  contrato  também  deve  ser  providenciada  nas  contratações  relativas  aos
+permissionários lotéricos e Credenciamento, nesse caso, independentemente de existir ou não informação do valor
+da contratação.
+
+3.6.5.3 A publicação da Ata de RP deve conter as seguintes informações:
+
+▪ número da Ata de RP;
+
+▪ número do Processo;
+
+▪ objeto;
+
+▪ nome das partes:
+
+▪ identificação da empresa detentora do preço registrado (nome e CNPJ/CPF);
+
+▪ indicação da contratante, CAIXA ou pertencente ao Conglomerado CAIXA (nome e CNPJ);
+
+▪ empresa(s) registrada(s) em caráter reserva;
+
+▪ valor;
+
+▪ identificação do procedimento licitatório (modalidade e nº da licitação);
+
+▪ Prazo de vigência; e
+
+▪ Data de assinatura.
+
+3.6.5.3.1.1 Fica dispensada a publicação do extrato do contrato das contratações originadas por dispensa de valor ,
+conforme valores dispostos no [MN, AD028].
+
+3.6.5.4 Fica dispensada a publicação dos extratos dos contratos derivados de Ata de RP na imprensa oficial, tendo
+em vista a publicidade do extrato da Ata de RP, bem como dos contratos derivados de ARP no Portal da Transparência
+CAIXA.
+
+3.6.5.5 A  GECOT/CECOT,  relativo  ao  procedimento  de  publicação  dos  extratos  de  contrato,  deve  envidar  esforços
+para buscar a maior economia possível para a CAIXA.
+
+3.6.6
+
+DADOS ORÇAMENTÁRIOS
+
+3.6.6.1 A indicação de previsão de recursos orçamentários que assegurem o pagamento  das obrigações, conforme
+[MN, CR110], deve ser realizada no ERP/SAP e disponibilizada no SICLG, no momento da solicitação de contratação.
+
+3.6.6.2 Não é exigido pré-comprometimento de recursos para:
+
+a)  licitação  de  Registro  de  Preços  ou  no  processo  de  Credenciamento,  sendo  necessária  a  comprovação  da
+
+existência dos recursos apenas para a emissão dos correspondentes contratos;
+
+b)  eventos extraorçamentários, conforme [MN, CR117].
+
+3.6.6.3 Para a formalização do contrato, a GECOT/CECOT deve solicitar ao gestor demandante:
+
+▪ O(s) códigos(s) do(s) material(is) e respectivo(s) valor(es);
+
+▪ Código  da  Unidade  do  gestor  operacional  responsável  pelo  contrato,  na  hipótese  de  unidade  distinta  da  que
+
+demandou a contratação no SICLG.
+
+4
+
+PROCEDIMENTOS
+
+4.1
+
+AUTUAÇÃO DE PROCESSOS
+
+25 / 47
+
+4.1.1 Compete  à  GECOT  ou  à  CECOT  a  autuação  dos  processos  relativos  às  licitações  e  contratações  de  bens  e
+serviços e à pré-qualificação.
+
+4.1.2 O processo é dividido em dois tipos, em que:
+
+▪ 01 é o processo que contém toda a documentação relativa à fase interna e externa da licitação e da contratação,
+
+sob responsabilidade da GECOT ou CECOT, e à fase de gestão formal, sob responsabilidade da CEFOR;
+
+▪ 02 é o processo que contém a documentação relativa à gestão operacional e está sob a responsabilidade do
+
+Gestor;
+
+4.1.3 A numeração do processo é sequencial, sendo gerada de forma centralizada pelo sistema para cada protocolo
+de demanda já aceita e é composta de quatro algarismos, juntamente com o ano de autuação do processo.
+
+▪ Exemplo: 1234/2024.
+
+4.1.4 Os  documentos  inseridos  no  SICLG  desde  a  inclusão  da  demanda  e  os  procedimentos  de  contratação  até  a
+gestão formal do contrato são automaticamente autuados no sistema e formam o processo tipo 01.
+
+4.1.4.1 A  exclusão  de  documentos  é  feita  mediante  justificativa,  sendo  registrado  no  SICLG  a  data,  horário  e
+responsável pela exclusão.
+
+4.1.4.2 O processo fica disponível para consulta a partir da pesquisa ao número e ano do processo na aba “Processo
+Digital” do SICLG.
+
+4.1.5 A  autuação  do  processo  que  contém  documentação  relativa  à  gestão  operacional,  incluindo  a  documentação
+relativa  ao  processo  de  pagamento,  conforme  [MN,  AD103]  e  [MN,  AD242],  é  de  responsabilidade  do  Gestor
+Operacional.
+
+4.1.5.1 Admite-se o uso do SIGOC como substituto ao processo tipo 02 na forma física.
+
+4.1.6 Todos os documentos pertinentes às etapas interna e externa da contratação devem ser juntados ao processo
+em ordem, sendo autuados, dentre outros:
+
+▪ documentação do planejamento e instrução da contratação apresentados pelo gestor operacional, incluindo estudos
+preliminares, mapa de risco, termo de referência, pesquisas de preço, documento de solicitação da contratação e
+seus anexos, conforme o caso;
+
+▪ atos  e  decisões  relacionados  à  licitação/contratação,  tais  como  mensagens,  atas,  publicações,  extratos  de
+
+contratos, pareceres, autorizações, relatórios, julgamentos, conforme o caso;
+
+▪ documentação  da  fase  externa  da  licitação  incluindo  editais,  propostas,  documentação  das  licitantes,  bem  como
+
+questionamentos, impugnações e recursos, quando for o caso;
+
+▪ o  contrato  e  seus  anexos,  atas  de  registro  de  preços,  consultas  de  regularidade  e  verificação  de  impedimentos  e
+
+garantias contratuais.
+
+4.1.6.1 A documentação mínima que deve compor cada processo de contratação está listada no Anexo I II.
+
+4.1.6.2 Toda a documentação é juntada, preferencialmente, em formato PDF/A.
+
+4.1.6.2.1 Planilhas podem ser inseridas em extensão .xls, .xlsx e similares para auxiliar na análise e tratamento das
+informações, por exemplo, planilhas com as fórmulas e memórias de cálculo para definição das estimativas e planilhas
+de composição de custos.
+
+4.1.6.2.2 Cadernos de especificações técnicas e projetos de arquitetura/engenharia podem ser anexados em formato
+compactado (.zip), para que possam ser disponibilizados como complemento ao edital, mantendo -se a disposição dos
+arquivos e os formatos utilizados para projetos (.dwg).
+
+4.1.7 Os documentos juntados ao processo devem ser apresentados em bom estado, sem rasuras e/ou incorreções,
+legíveis, com consistência técnica, de forma a garantir a sua validade e autenticidade.
+
+4.1.7.1 Serão aceitos como autênticos os documentos dos licitantes enviados pelo Portal Licitações CAIXA ou via e -
+mail, conforme disposições do edital.
+
+4.1.7.2 O condutor da licitação/processo de contratação poderá exigir para conferência a apresentação do documento
+em  cópia  autenticada,  ou  publicação  em  órgão  da  imprensa  oficial,  ou  cópia  acompanhada  do  original,  caso  exista
+dúvida a respeito da autenticidade do documento.
+
+4.1.7.3 Os  documentos  que  exigem  assinatura  podem  ser  assinados  na  forma  física  ou  na  forma  eletrônica
+qualificada,  utilizando  Certificado  Digital  no  padrão  da  Infraestrutura  de  Chaves  Públicas  Brasileira  –ICP  Brasil,  ou
+avançada, por Sistemas eletrônicos com senha pessoal e intransferível capaz de comprovar a autoria e a integridade
+dos documentos, a exemplo da assinatura Gov.br.
+
+4.1.7.3.1 Em  caso  de  dúvidas  quanto  à  autenticidade/autoria  dos  documentos  com  assinatura  física,  o  condutor  da
+licitação/ processo de contratação também poderá exigir a sua apresentação com firma reconhecida em cartório.
+
+4.1.7.3.2 A assinatura digital deve ser verificada para garantir a autoria e integridade do documento.
+
+26 / 47
+
+4.1.7.3.3 Para  certificado  digital  no  padrão  ICP  Brasil,  as  verificações  podem  utilizar  os  serviços  do  Verificador
+SERPRO e Verificador ITI, disponível no site do Instituto Nacional de Tecnologia da Informação.
+
+4.1.7.3.4 A verificação de conformidade das assinaturas digitais deve compor o processo administrativo.
+
+4.1.8 Deve  ser  priorizado  o  recebimento  de  documentos  digitais,  e,  caso  necessário,  documentos  na  forma  física
+devem ser endereçados à CECOT responsável pela licitação ou contratação .
+
+4.1.8.1 No  caso  de  recebimento  de  documentos  na  forma  física,  a  CECOT  os  digitaliza,  assina  digitalmente  com
+certificação digital no padrão ICP-Brasil, de modo a garantir a autoria da digitalização e a integridade do documento,
+incluir no SICLG para que componham o processo digital, e descarta o original.
+
+4.1.8.2 A digitalização dos documentos recebidos em forma física deve seguir os padrões técnicos mínimos previstos
+no Anexo II.
+
+4.1.9 Os documentos sigilosos, necessários à instrução do processo, incluídos os anexos, são autuados no processo,
+observando as regras para o tratamento de informação sigilosa, segundo o  [MN, OR016], devendo selecionar o grau
+de sigilo correspondente no SICLG.
+
+4.1.9.1 Os  documentos  inseridos  no  SICLG  com  o  grau  de  sigilo  “PÚBLICO”  serão  disponibilizados  como  parte
+integrante do respectivo processo de contratação para acesso público no Portal  Transparência CAIXA.
+
+4.1.9.2 Documentos inseridos com grau de sigilo diferente de “PÚBLICO” integram a lista de documentos do processo,
+sem  sua  disponibilização  no  Portal  Transparência  CAIXA,  e  ficam  à  disposição  dos  órgãos  de  controle  internos  e
+externos.
+
+4.1.10 Compete  à  GECOT/CECOT  disponibilizar  no  SICLG  os  documentos  pertinentes  a  cada  fase,  tais  como
+instrumentos  contratuais,  proposta,  planilhas  de  custos  e  formação  de  preços,  garantia  contratual,  e  à  CEFOR,
+aditamentos  e  demais  documentos  previstos  no  [MN,  AD242],  uma  vez  que  esses  documentos  não  devem  constar
+nos processos de gestão operacional e serão consultados pelo Gestor.
+
+4.1.11 O processo digital se inicia em 01/10/2024, e todos os processos que tiverem seus contratos assinados a partir
+dessa data devem ser autuados de forma digital.
+
+4.2
+
+PLANEJAMENTO DA CONTRATAÇÃO
+
+4.2.1
+
+GESTOR
+
+4.2.1.1
+
+PLANO DE AQUISIÇÕES
+
+4.2.1.1.1 Inclui a pretensão de contratação no Plano de Aquisições, conforme cronograma estabelecido e divulgado
+pela GECOT, com as informações exigidas no sistema.
+
+4.2.1.1.2 As  necessidades  de  contratações  ou  prorrogações  de  bens  e  serviços  são  cadastradas  no  Plano  de
+Aquisições  CAIXA  pelo  gestor  operacional,  por  meio  do  SILIC,  no  endereço  https://silic.caixa/planoaquisicoes,  no
+período divulgado pela SUCOT.
+
+4.2.1.1.3 Para cadastramento são exigidas as seguintes informações:
+
+a)  Descrição do objeto;
+
+b)  Justificativa da contratação;
+
+c)  Tipo de demanda;
+
+d)  Valor global do contrato, e valor estimado do exercício;
+
+e)  Rubrica orçamentária;
+
+f)  Previsão de inclusão no SICLG;
+
+g)  Previsão de finalização da demanda;
+
+h)  Grau de prioridade da contratação;
+
+i)  Prazo de vigência do contrato;
+
+j)  Objetivo estratégico que demonstre alinhamento da contratação com o planejamento estratégico da CAIXA;
+
+4.2.1.1.4 Todas as necessidades de  contratações e prorrogações cadastradas no Plano de  Aquisições deverão ser
+previamente  aprovadas  pela  unidade  hierarquicamente  superior,  respeitando -se  o  orçamento  disponibilizado  pela
+GEORC para cada rubrica orçamentária.
+
+4.2.1.1.4.1 O número de identificação ID da demanda é válido apenas para as demandas aprovadas.
+
+4.2.1.1.4.2 Uma vez que a demanda foi aprovada, ela não poderá ser mais alterada, cancelada e/ou excluída.
+
+27 / 47
+
+4.2.1.1.5 Apenas os Dirigentes CAIXA, a Auditoria e a área de Contratações possuem acesso a todas as necessidades
+de contratações cadastradas e aprovadas no Plano de Aquisições.
+
+4.2.1.1.6 As  necessidades  cadastradas  por  cada  área  da  CAIXA  estarão  disponíveis  no  sistema  para  a  própria
+unidade cadastradora, bem como para suas unidades hierarquicamente superiores.
+
+4.2.1.1.7 Registra  no  sistema  as  justificativas  em  caso  de  contratações  previstas  no  Plano  de  Aquisições  que  não
+tenham sido demandadas dentro do exercício do plano.
+
+4.2.1.2
+
+ESTUDO PRELIMINAR
+
+4.2.1.2.1 Inicia o planejamento da contratação com a realização do estudo preliminar a fim de levantar as informações
+essenciais para caracterização da demanda e as especificações da solução definida.
+
+4.2.1.2.2 Documenta  a  realização  dos  estudos  de  acordo  com  as  informações  requeridas,  aprofundando  o
+detalhamento conforme avaliação dos riscos.
+
+4.2.1.2.2.1 As  justificativas  apresentadas  ao  longo  do  estudo  devem  ser  acompanhadas  de  devida  fundamentação,
+observando critérios de congruência, exatidão, coerência, suficiência e clareza.
+
+4.2.1.2.3 Solicita  consultoria  à  área  de  contratações  para  orientação  sobre  definição  pontos  formais  quanto  a
+definição de modalidade, critério de julgamento, qualificação técnica e econômico -financeira, caso necessário.
+
+4.2.1.2.4 Solicita consultoria à área de gestão formal para orientações sobre planilha de composição de preços, caso
+necessário.
+
+4.2.1.2.5 Quando  do  levantamento  de  mercado,  poderá  ser  utilizada  a  ferramenta  de  consulta  pública,  através  do
+Portal Licitações CAIXA
+
+4.2.1.2.5.1 A  publicação  e  gestão  de  Consulta  Pública  é  de  responsabilidade  do  Gestor  Operacional,  realizada  no
+Portal Licitações CAIXA, sistema SICVE, por empregado autenticado no sistema.
+
+4.2.1.2.5.2 O acesso a empregados CAIXA ao SICVE, deve ser solicitado na ferramenta de Acesso Lógico, disponível
+no  endereço  eletrônico  da  intranet  https://novoacessologico.caixa,  por  empregado  com  função  gerencial  de
+vinculação, com perfil de acesso GESTOROP. Escolha o perfil de sistema “SICVE-INTR_GESTOROP”.
+
+4.2.1.2.5.3 O manual do sistema SICVE fica disponível na área logada, acessado pelo ícone “Tutorial”, com o nome
+TUTORIAL_CONSULTA_PUBLICA.
+
+4.2.1.2.5.4 O  Gestor  Operacional  deve  incluir  a  descrição  do  objeto,  o  objetivo  da  consulta  pública  e  os
+questionamentos  que  serão  efetuados  ao  mercado,  além  das  informações  dispostas  nos  campos  do  SICVE.  Como
+anexo deve constar, no mínimo, o documento contendo as inf ormações específicas da pretensão de contratação.
+
+4.2.1.2.6 A documentação produzida durante o levantamento de mercado irá compor o estudo preliminar na forma de
+anexos, tais como, convocações, consultorias, pareceres, propostas, orçamentos, ofertas, atas de reunião, evidências
+ou  quaisquer  outros  elementos  comprobatórios  que  atestem  a  veracidade  e  a  transparência  dos  referidos
+procedimentos.
+
+4.2.1.2.6.1 Quando for o caso excepcional de tratativas com fornecedores no âmbito interno da CAIXA, com vistas a
+avaliações mercadológicas, tais procedimentos devem ocorrer de modo transparente e objetivo, com o devido registro
+dos  atos  em  documentos  formais,  a  exemplo  de  correspondências,  inclusive  eletrônicas,  convocações,  atas  de
+reuniões, entre outros expedientes afins que comprovem a veracidade dos fatos.
+
+4.2.1.3
+
+GERENCIAMENTO DE RISCOS
+
+4.2.1.3.1 Elabora o Mapa de Gerenciamento de Riscos, detalhando e avaliando os riscos identificados em todas as
+etapas  da  contratação,  definindo  o  plano  de  ações,  os  responsáveis  pelo  tratamento  de  risco  e  a  forma  de
+monitoramento das ações.
+
+4.2.1.3.2 Independente da apresentação ou não do Mapa de  Gerenciamento de Risco na etapa de planejamento, o
+gerenciamento de riscos deverá ser realizado durante a gestão do contrato.
+
+4.2.1.4
+
+TERMO DE REFERÊNCIA
+
+4.2.1.4.1 Elabora o Termo de Referência após conclusão dos estudos preliminares, caso determinada a viabilidade
+da contratação, contendo as informações exigidas no item  [MN, 3.3.6.2].
+
+4.2.1.4.2 Quando  da  contratação  de  serviços  contínuos  de  caráter  acessório,  encaminha  o  Termo  de  Referência  e
+demais informações exigidas naquele normativo à GETEM para emissão de parecer.
+
+4.2.1.4.2.1 Apenas as prestações de serviço listadas no Anexo  II do [MN, AD244] não necessitam ser submetidas à
+GETEM.
+
+28 / 47
+
+4.3
+
+SOLICITAÇÃO DE CONTRATAÇÃO
+
+4.3.1
+
+GESTOR
+
+4.3.1.1 Elabora documento contendo o detalhamento da solicitação de contratação com as informações indicadas a
+seguir.
+
+4.3.1.1.1 O documento de solicitação poderá fazer referência ao estudo preliminar elaborado, devendo indicar a seção
+e/ou  itens  correspondentes  nos  quais  poderão  ser  encontradas  as  informações  exigidas  para  instrução  da
+contratação.
+
+4.3.1.1.2 Providencia  os  ajustes  na  demanda  solicitados  pela  GECOT/CECOT,  atentando -se  ao  prazo  de  5  (cinco)
+dias úteis, disposto no item [MN, 4.3.2.4.2].
+
+4.3.1.2
+
+OBJETO DA CONTRATAÇÃO
+
+4.3.1.2.1 Descreve de forma sucinta o objeto da contratação indicando a região de abrangência e outras informações
+consideradas  essenciais  à  sua  identificação,  possibilitando  o  fácil  entendimento  quanto  ao  bem  ou  serviço  a  ser
+contratado  e  priorizando  o  uso  de  terminologias  consagradas  e  amplamente  reconhecidas  no  mercado ,  na  forma
+indicada a seguir:
+
+4.3.1.2.1.1 Para o fornecimento de bens: “Fornecimento de (…) para a região ( …)”.
+
+4.3.1.2.1.2 Para a prestação de serviços: “Prestação de serviços de (...), a serem executados no município (...)”.
+
+4.3.1.2.1.3 Indicar claramente quando  se tratar de contratação utilizando Sistema de  Registro de  Preços: “Registro
+de preços para fornecimento de (...)” ou “Registro de preços para serviços de (...)”.
+
+4.3.1.2.2 Informa a ID do Plano de Aquisições CAIXA para a contratação, conforme o caso.
+
+4.3.1.3
+
+JUSTIFICATIVA DA CONTRATAÇÃO
+
+4.3.1.3.1 Informa o motivo pelo qual o bem ou serviço será adquirido, demonstrando qual necessidade da CAIXA será
+suprida com a contratação, inclusive quanto à quantidade.
+
+4.3.1.3.2 Informa  se  a  solicitação  de  contratação  é  decorrente  de  MIP  e  apresenta  justificativas  para  a  escolha  do
+modelo da contratação definido, tanto para o procedimento licitatório como para a contratação direta.
+
+4.3.1.3.3 Em  caso  de  contratação  emergencial  por  dispensa  de  licitação,  deve -se  apresentar  e  justificar  a  situação
+emergencial ou calamitosa que motiva a contratação direta.
+
+4.3.1.3.3.1 Quando constatado que a situação emergencial se originou da falta de ação, planejamento ou omissão, o
+responsável que der causa a essa situação responderá perante os órgãos de controle interno/externo , inclusive no
+tocante a improbidade administrativa.
+
+4.3.1.3.3.2 Quando identificada a situação do subitem [MN, 4.3.1.3.3.1], cabe ao gestor chefe da unidade demandante
+da contratação, observar o [MN, AE079] para comunicação dos fatos irregulares à Corregedoria.
+
+4.3.1.4
+
+DETALHAMENTO DA CONTRATAÇÃO
+
+4.3.1.4.1 Descreve de forma clara e precisa o objeto da contratação, não deixando dúvidas e delimitando exatamente
+a necessidade da CAIXA, excluindo o que for excessivo, irrelevante, imprevisível ou desnecessário .
+
+4.3.1.4.1.1 As informações do objeto da contratação de forma pormenorizada devem constar do Termo de Referência,
+ou de documento que contenha as especificações do objeto.
+
+4.3.1.4.2 Informa  os  critérios  e/ou  práticas  de  sustentabilidade  que  foram  observados  na  especificação  ou  nas
+obrigações específicas do objeto, caso haja, ou apresenta justificativa de impossibilidade de inclusão.
+
+4.3.1.4.3 Informa se será utilizado  Sistema de Registro de  Preços, correlacionando na solicitação de contratação a
+hipótese  de  enquadramento  para  do  SRP,  informa  o  prazo  de  vigência  da  Ata,  se  será  prevista  sua  prorrogação  e
+revisão de valores registrados.
+
+4.3.1.4.4 Informa o prazo de vigência da contratação, que contemple o prazo de entrega/execução e demais etapas
+para cumprimento integral das obrigações e o pagamento.
+
+4.3.1.4.4.1 No  caso  excepcional  de  vigência  superior  à  5  (cinco)  anos,  deverá  ser  apresentada  a  justificativa  que
+caracterize a exceção, como projetos contemplados no plano de negócios e investimentos ou no caso em que prazo
+superior  seja  rotineiro  no  mercado  e  que  a  definição  por  prazo  inferior  inviabilize  ou  onere  excessivamente  a
+realização do negócio.
+
+4.3.1.4.5 Indica o prazo e as condições da garantia do bem ou serviço e o período da manutenção preventiva a ser
+prestada pela contratada, caso haja.
+
+29 / 47
+
+4.3.1.4.6 De acordo com a complexidade, preço e durabilidade  pode ser estabelecido prazo de garantia do produto
+ou  serviço  superior  aos  prazos  de  vigência  e/ou  da  garantia  contratual,  e,  sendo  o  caso,  será  firmado  Termo  de
+Garantia apartado contemplando o prazo total da garantia do bem ou serviço.
+
+4.3.1.4.7 No contexto da prestação de serviço pretendida na contratação, informar se poderá haver relacionamento
+direto com consumidores considerados potencialmente vulneráveis.
+
+4.3.1.4.8 Informa  se  na  prestação  de  serviços  a  contratada  utilizará  o  espaço  CAIXA  para  inclusão  de  cláusula
+contratual que assegure o uso de espaço nas dependências da CAIXA, durante a vigência do contrato, para execução
+das atividades contratadas, de forma que atenda ao [MN, AD089].
+
+4.3.1.4.9 No  caso  excepcional  de  previsão  de  pagamento  antecipado,   apresenta  justificativa  para  a  sua  adoção,  e
+informa  se  serão  exigidas  garantias  adicionais  ou  adoção  de  outras  medidas  para  mitigação  dos  riscos  da
+antecipação.
+
+4.3.1.5
+
+VOLUMETRIA E ESTIMATIVA DE PREÇOS
+
+4.3.1.5.1 Demonstra as quantidades  ou volumetrias do objeto a ser contratado, considerando a estrita necessidade
+da  CAIXA,  devendo  juntar  o  desenvolvimento  da  memória  de  cálculo  e  racional  do  quantitativo  dimensionado,  bem
+como  outros  documentos  que  fundamentem  a  precisão  da  contratação,  conf orme  estudos  técnicos,  de  modo  a
+comprovar as informações carreadas ao respectivo processo administrativo.
+
+4.3.1.5.2 Apresenta a metodologia utilizada para obter o preço estimado, de acordo com as orientações previstas no
+item  [MN,  3.4],  demonstrando  que  o  valor  orçado  está  de  acordo  com  o  praticado  no  mercado  e  anexando  os
+documentos comprobatórios à demanda.
+
+4.3.1.5.3 No caso de fornecedor ou profissional único/exclusivo, informa a metodologia e demonstra que o preço está
+compatível  com  o  praticado  junto  a  outros  clientes,  a  exemplo  de  cópias  de  contratos  ou  notas  fiscais  emitidas  a
+outros compradores.
+
+4.3.1.5.4 Informa  se  o  valor  estimado  será  sigiloso  ou  publicado,  observando  as  regras  das  modalidades  Licitação
+CAIXA apresentando as justificativas devidas para os casos em que o preço for público.
+
+4.3.1.5.4.1 Quando  o  valor  estimado  for  sigiloso  deve  ser  divulgado  o  detalhamento  dos  quantitativos  e  demais
+informações necessárias à elaboração das propostas.
+
+4.3.1.5.5 Deve ser estabelecida uma ferramenta de revisão de preços a ser utilizada para manutenção do equilíbrio
+econômico-financeiro inicial, de forma a compensar os efeitos das flutuações decorrentes da majoração dos custos
+para execução do objeto caso seja atingida a anualidade, dentre os critérios estabelecidos no item [MN, 3.4.16] para
+cada tipo de contrato:
+
+4.3.1.6
+
+INFORMAÇÕES ACERCA DO CONTRATO VIGENTE, SE HOUVER
+
+4.3.1.6.1 Informa se há contrato(s) vigente(s) ou encerrado(s) para o objeto da demanda de solicitação, na localidade
+de  abrangência  do  fornecimento  ou  serviço  ou  em  outras  regiões,  bem  como  apresenta  as  seguintes  informações
+acerca do(s) contrato(s) anteriormente pactuado(s): preços (unitários, totais, mensais e global), vigência, número do
+contrato no SICLG.
+
+4.3.1.6.2 Não sendo possível incluir as referidas informações, apresenta justificativa que evidencie a impossibilidade.
+
+4.3.1.7
+
+DADOS ORÇAMENTÁRIOS
+
+4.3.1.7.1 Apresenta informações referentes à reserva orçamentária no seguinte formato:
+
+▪ Item(ns) Orçamentário(s);
+
+▪ Dotação orçamentária registrada no ERP/SAP, na forma do pré -comprometimento de recursos;
+
+4.3.1.7.2 Os  itens  orçamentários  indicados  devem  estar  adequados  à  natureza  do  dispêndio,  se  de  capital
+(Investimento)  ou  corrente  (despesas),  de  forma  que  a  classificação  do  recurso  alocado  seja  consoante  com  os
+eventos da área contábil, observados os [MN, CR110], [MN, CR111] e [MN, CR117].
+
+4.3.1.7.3 Os itens orçamentários são incluídos no contrato com a definição das parcelas a que se referem o serviço,
+fornecimento  e  mão  de  obra,  conforme  o  caso,  para  fins  de  discriminação  no  documento  fiscal  e  as  retenções
+tributárias pertinentes.
+
+4.3.1.7.4 Não é exigida reserva orçamentária no ERP/SAP para:
+
+a)  licitação  de  Registro  de  Preços  ou  no  processo  de  Credenciamento,  sendo  necessária  a  comprovação  da
+
+existência dos recursos apenas para a emissão dos correspondentes contratos;
+
+b)  eventos extraorçamentários, conforme [MN, CR117].
+
+30 / 47
+
+c)  contratações  efetuadas  com  recursos  do  FAR  cuja  comprovação  de  existência  da  dotação  é  atendida  pela
+
+autorização de liberação do recurso do Fundo.
+
+4.3.1.7.4.1 No  caso  de  contratação  de  bens  ou  serviços  de  responsabilidade  da  CAIXA  que  utilizem  de  recursos
+extraorçamentários deverá ser informado se os recursos constam ou não do sistema ERP/SAP.
+
+4.3.1.7.5 Indica  o  código  e  o  nome  da  unidade  responsável  pela  gestão  operacional  do  contrato  e  pelo  ateste  do
+documento fiscal quando do recebimento do objeto contratado.
+
+4.3.1.7.6 Para licitações, a dotação  orçamentária pode ser apresentada posteriormente, sendo requisito obrigatório
+para a publicação do edital.
+
+4.3.1.8
+
+GARANTIA CONTRATUAL
+
+4.3.1.8.1 Informa  se  será  exigida  garantia  contratual,  indicando  os  motivos  que  levaram  à  inclusão  ou  exclusão  da
+exigência.
+
+4.3.1.8.1.1 A  garantia  contratual  deve  ser  solicitada  somente  nos  casos  em  que  exista  efetivo  risco  de  prejuízo  ao
+interesse público, uma vez que essa exigência representa encargo financeiro a ser suportado pela contratada e que
+repercute no custo da proposta apresentada.
+
+4.3.1.8.2 Estabelece  o  percentual  de  garantia  contratual  a  ser  solicitado,  limitado  a  5%  sobre  o  valor  global
+contratado,  podendo  ser  ampliado  para  10%,  para  obras,  serviços  e  fornecimentos  de  grande  vulto,  envolvendo
+complexidade  técnica  e  riscos  financeiros,  desde  que  tenha  manifestação  técnica  objetiva  que  fundamente  a
+necessidade.
+
+4.3.1.8.2.1 Para os serviços terceirizados com mão de obra dedicada, a garantia deve ser correspondente a 5% (cinco
+por cento) do valor do contrato, com prazo de validade de até 90 (noventa) dias, contado da data de encerramento
+do contrato.
+
+4.3.1.8.3 Informa se no objeto é identificada uma das situações elencadas abaixo, para fins de aceitação de ressalva
+que  condiciona  o  pagamento  dos  encargos  trabalhistas  e  previdenciários  ao  trânsito  em  julgado  na  sentença
+condenatória na modalidade Seguro Garantia:
+
+▪ Fornecimento de bens;
+
+▪ Prestação de serviços que não exige a dedicação exclusiva de prestador à CAIXA;
+
+▪ Prestação de serviços de vigilância armada, serviços de apoio, limpeza ou telesserviço, cujo contrato prevê regra
+
+de contingenciamento de verbas trabalhistas;
+
+▪ É  efetuada  a  fiscalização  integral  do  adimplemento,  pela  contratada,  das  obrigações  trabalhistas  de  todos  os
+
+prestadores alocados exclusivamente na execução do contrato da CAIXA.
+
+4.3.1.8.3.1 Não  é  admitida  ressalva  na  apólice  quando  se  tratar  de  contrato  que  exige  a  dedicação  exclusiva  de
+prestador de serviço à CAIXA e não se enquadre em uma das situações indicadas nas ressalvas acima.
+
+4.3.1.9
+
+SELEÇÃO DO FORNECEDOR –CONTRATAÇÃO DIRETA
+
+4.3.1.9.1 Apresenta as justificativas para a contratação direta, por inexigibilidade ou dispensa de licitação.
+
+4.3.1.9.2 Nos  casos  de  inexigibilidade  de  licitação,  especificados  no  [MN,  AD028],  apresenta  justificativas  e
+documentos  que  evidenciem  a  inviabilidade  de  competição  ou  notória  especialização,  suficientes  para  sustentar  a
+escolha apresentada.
+
+4.3.1.9.3 Quando existir no mercado mais de um produto/software com funcionalidades similares, entretanto, houver
+a opção por uma solução técnica especifica:
+
+▪ Elabora parecer técnico demonstrando os elementos que tornam o produto/software único a atender a necessidade
+da  CAIXA  e  que  não  estão  presentes  nos  similares,  ressaltando  a  inviabilidade  de  competição  de  forma
+fundamentada; e
+
+▪ Justifica a escolha do fornecedor e demonstra que preços estão condizentes com os praticados no mercado.
+
+4.3.1.9.4 A  comprovação  de  exclusividade  será  feita  por  meio  de  documento  fornecido  por  órgão  ou  entidade
+responsável,  quando  houver,  ou  por  outro  emissor  competente  ou,  ainda,  por  outro  documento  que  comprove  a
+condição de exclusividade.
+
+4.3.1.9.5 No caso de contratação direta, por dispensa ou inexigibilidade de licitação, submetida às alçadas do Comitê
+de  Compras  e  Contratações  das  Centralizadoras  Nacionais  de  Contratação  e  Gestão  Formal  de  Contratos  e  do
+Coordenador  da  CECOT,  deve  ser  informado  na   CI  de  solicitação  de  contratação  se  o  processo  de  contratação
+envolve Parte Relacionada, conforme definido no [MN, CR464].
+
+4.3.1.9.5.1 As  contratações  que  envolvem  Partes  Relacionadas  devem  conter  argumentos  de  observância  às
+diretrizes do [MN, PO048].
+
+31 / 47
+
+4.3.1.9.6 Para contratações diretas por dispensa ou inexigibilidade de licitação com valores acima de R$ 2.000.000,00
+(dois  milhões  de  reais),  deve  ser  apresentada  a  due  diligence  dos  fornecedores  na  forma  da  disponibilização  do
+Relatório de Verificação de Antecedentes – RVA, conforme disposições do [MN, CR512].
+
+4.3.1.10
+
+SELEÇÃO DO FORNECEDOR – LICITAÇÃO
+
+4.3.1.10.1 Descreve os requisitos necessários para a fase de seleção do fornecedor na licitação.
+
+4.3.1.10.2 Informa  e  justifica  a  permissão  ou  a  vedação  de  participação  de  consórcio  na  licitação  e  os  limites  e  as
+condições da subcontratação, quando admitida, sendo vedado subcontratar a parte de maior relevância do objeto.
+
+4.3.1.10.3 Comunica a necessidade de solicitação de amostra para avaliação do bem no procedimento de licitação e
+apresenta as condições de apresentação e os critérios para avaliação para que sejam divulgados no Edital.
+
+4.3.1.10.3.1 Justifica, também, caso existir situação que impeça o acompanhamento da análise da amostra realizada
+pela CAIXA por interessados.
+
+4.3.1.10.3.2 Justifica a necessidade de sigilo de documentos pertinentes à fase de amostra em caso de necessidade
+de proteção de segredo comercial ou institucional do licitante ou  para segurança operacional da CAIXA.
+
+4.3.1.10.4 Indica,  se  for  o  caso,  os  documentos  que  devem  ser  solicitados  para  comprovação  das  exigências  de
+sustentabilidade,  a  exemplo  de  certificação  emitida  por  instituição  oficial  ou  outro  meio  hábil  de  comprovação,
+podendo ser solicitados antes da adjudicação do objeto à contratada.
+
+4.3.1.10.4.1 Em ambos os casos, se o bem ou serviço for considerado inadequado, devem ser apresentadas as razões
+técnicas para a decisão, assegurado o direito de manifestação do licitante.
+
+4.3.1.10.5 Caso haja outros requisitos a serem cumpridos para seleção do fornecedor durante o processo de licitação
+até  a  assinatura  do  contrato,  conforme  estudos  preliminares  realizados,  informa  as  exigências  de  forma  clara  e
+objetiva para inclusão no Edital.
+
+4.3.1.10.6   QUALIFICAÇÃO TÉCNICA
+
+4.3.1.10.6.1 Indica  as  exigências  que  deverão  ser  estabelecidas  para  fins  de  comprovação  de  qualificação  técnica
+pelo licitante, relacionando as atividades consideradas compatíveis em características, quantidades e prazos com o
+objeto  da  licitação,  considerando  as  parcelas  técnica  ou  economicamente  relevantes,  observadas  as  orientações  a
+seguir.
+
+4.3.1.10.6.2 São admitidas na licitação a exigência de dois tipos de qualificação técnica:
+
+▪ Capacitação  Técnico-Operacional  -  comprova,  mediante  apresentação  de  atestado  de  aptidão,  que  o  licitante
+
+executou, de modo satisfatório, atividade pertinente e compatível com o objeto da licitação.
+
+▪ Capacidade Técnico-Profissional – comprova a qualificação dos profissionais que integram os quadros da sociedade
+empresarial que executará o objeto licitado, vedado o estabelecimento de quantidades mínimas ou prazos máximos
+de experiência.
+
+4.3.1.10.6.3 Na Capacitação Técnico-Operacional é legal a exigência de comprovação da execução de quantitativos
+mínimos em obras ou serviços com características semelhantes, desde que a exigência seja limitada às parcelas de
+maior relevância, ao valor significativo do objeto e que guarde proporção com a dimensão e a complexidade do objeto.
+
+4.3.1.10.6.4 Deverá ser informado caso haja exigência legal de registro do licitante ou do profissional em órgão de
+classe/conselho profissional para a execução do objeto e/ou sobre a emissão de atestado por conselho profissional.
+
+4.3.1.10.6.5 É  vedado  exigir  registro  de  licitante  ou  profissional  ou  emissão  de  atestado,  por  qualquer  conselho
+profissional, quando não houver regulamentação legal.
+
+4.3.1.10.6.6 A qualificação técnica deve ser informada de forma objetiva e clara  e mensurável; deverá especificar o
+percentual  e  quantitativo  mínimo  a  que  a  parcela  de  maior  relevância  se  refere ,  vedadas  exigências  genéricas  ou
+indeterminadas.  Por  exemplo:  25%  do  objeto  solicitado,  equivalente  a  XX  unidades  ou  10%  do  total  estimado  da
+contratação, que equivale a XX unidades.
+
+4.3.1.10.6.6.1 Quando houver exigência de comprovação de prazos de execução, duração da experiência ou período
+de  prestação  de  serviços  nos  atestados  de  capacidade  técnica,  deve  ser  informado,  de  forma  expressa,  o  prazo
+mínimo exigido, ou os critérios objetivos e verificáveis para me nsuração temporal da experiência, tais como período
+contínuo  de  execução,  volume  de  horas  efetivamente  prestadas,  vigência  contratual  mínima  ou  outros  parâmetros
+equivalentes adequados à natureza do objeto.
+
+4.3.1.10.6.6.2 É  vedada  exigência  genérica  de  indicação  de  prazos  ou  períodos  de  execução  em  atestados  de
+capacidade técnica sem a definição prévia de prazo mínimo ou sem critérios objetivos de mensuração.
+
+4.3.1.10.7   QUALIFICAÇÃO ECONÔMICO-FINANCEIRA
+
+32 / 47
+
+4.3.1.10.7.1 É formada por requisitos objetivos e condizentes com a natureza e as características/especificidades do
+objeto, capazes de aferir a capacidade financeira da licitante com referência aos compromissos que terá de assumir,
+e tem por finalidade avaliar a real capacidade da empresa de cumprir satisfatoriamente o objeto licitado.
+
+4.3.1.10.7.2 Indica  a  qualificação  econômico-financeira  a  ser  exigida  para  a  contratação,  de  acordo  com  as
+características e especificidades do objeto da contratação ou seleciona alguma das opções presentes nos modelos
+padronizados:
+
+a)  A  comprovação  da  boa  situação  financeira  da  empresa  é  baseada  na  obtenção  de  índices  de  Liquidez  Geral
+(LG),  Solvência  Geral  (SG)  e  Liquidez  Corrente  (LC)  maiores  que  1  (um),  ou,  na  impossibilidade  destes,  da
+comprovação do patrimônio líquido não superior a 10% (dez por cento) do valor estimado da contratação.
+
+▪ Informa  o  patrimônio  líquido  mínimo,  necessários  à  execução  do  objeto,  para  fins  da  comprovação  da
+
+qualificação econômico-financeira do licitante, limitado a 10% do valor estimado da contratação.
+
+b)  Cumulação  da  exigência  dos  índices  de  Liquidez  Geral  (LG),  Solvência  Geral  (SG)  e  Liquidez  Corrente  (LC)
+maiores  que  1(um)  com  o  patrimônio  líquido  de  até  10%  do  valor  estimado  para  os  casos  de  contratação  de
+objetos  complexos,  que  possuem  histórico  de  inadimplência  e  descontinuidade  dos  contratos,  desde  que
+devidamente  justificada  a  necessidade  de  cumulação  e  observando  a  premissa  da  não  adoção  de  critérios
+excessivamente restritivos de seleção.
+
+c)  Cumulação  da  exigência  dos  índices  de  Liquidez  Geral  (LG),  Solvência  Geral  (SG)  e  Liquidez  Corrente  (LC)
+maiores  que  1  (um)  com  patrimônio  líquido  de  10%  do  valor  estimado,  e  a  exigência  adicional  de  Capital
+Circulante  Líquido  ou  Capital  de  Giro  (Ativo  Circulante  –  Passivo  Circulante)  de,  no  mínimo,  16,66%  do  valor
+estimado para 12 meses, recomendada para serviços terceirizados com mão de obra dedicada;
+
+4.3.1.10.7.3 A  qualificação  econômico-financeira  não  é  restrita  à  utilização  de  índices  de  Liquidez  Geral  (LG),
+Solvência Geral (SG) e Liquidez Corrente (LC)  e Balanço Patrimonial, sendo permitido ao Gestor, em decorrência da
+especificidade do objeto e/ou mercado, indicar outros parâmetros para a aferição da capacidade econômico -financeira
+do licitante, desde que apresente a justificativa e que os parâmetros selecionados não restrinjam a competitividade.
+
+4.3.1.11
+
+DEFINIÇÃO DE MULTAS, DEMAIS SANÇÕES E RESCISÃO CONTRATUAL
+
+4.3.1.11.1 Define  objetivamente  as  situações  que  ensejam  a  aplicação  de  sanções  administrativas  à  contratada  no
+caso  de  descumprimento  contratual,  estabelecendo  critérios  de  acordo  com  a  necessidade  e  as  características  do
+objeto.
+
+4.3.1.11.2 As  sanções  administrativas  previstas  em  lei  a  serem  inseridas  no  contrato  para  sanar  situações  de
+descumprimento total ou parcial do contrato são:
+
+a)  multa;
+
+b)  suspensão temporária de participação em licitação e contratação com a CAIXA pelo prazo de até 2 anos quando
+
+utilizada as modalidades Licitação Caixa, Dispensa e Inexigibilidade.
+
+4.3.1.11.2.1 A sanção prevista na alínea b pode ser aplicada juntamente com a sanção de multa.
+
+4.3.1.11.3 As  penalidades  devem  ser  estabelecidas  de  forma  objetiva  e  compatível  com  a  gravidade  do
+descumprimento contratual, vedada sanção desproporcional ao ato praticado e descrições genéricas.
+
+4.3.1.11.4 Os percentuais e a base de cálculo das multas devem ser estabelecidos com razoabilidade, de forma que
+os  valores  cobrados  pelo  descumprimento  de  obrigações  contratuais  desestimulem  a  inadimplência  por  parte  da
+contratada, sem possuir caráter confiscatório.
+
+4.3.1.11.5 As  penalidades  podem  ser  aplicadas  tanto  aos  atos  dolosos  como  aos  culposos  quando  a  imprudência,
+negligência ou imperícia prejudica a execução do contrato, ainda que não tenha prejuízos à CAIXA.
+
+4.3.1.11.6 A seguir constam sugestões de texto de multa, meramente exemplificativas:
+
+a) Contratos por escopo:
+
+▪ Atraso na execução do objeto – Pelo atraso na entrega do bem ou execução do serviço a Contratada sujeitar -se-á
+a  multa  de  xx  %  (....  por  cento)  ao  dia  sobre  o  valor  do  bem/serviço  objeto  da  ocorrência,  limitada  a  xx  dias  de
+atraso. Após o xº dia de atraso, a Contratada sujeita -se às demais sanções cabíveis e rescisão contratual;
+
+▪ Descumprimento contratual - Pelo descumprimento das cláusulas xxx ou itens xxx do TR a Contratada sujeitar -se-
+
+á a multa de xx % (.... por cento) sobre o valor do objeto da ocorrência, limitada a 10% do valor do contrato.
+
+b) Contratos por serviços contínuos:
+
+▪ Atraso na execução do objeto - Pelo atraso na execução do serviço, a Contratada sujeitar-se-á à multa de xx % (....
+por  cento)  ao  dia  sobre  a  fatura  do  mês  da  ocorrência,  limitada  a  xx  dias  de  atraso.  Após  o  xº  dia  de  atraso,  a
+contratada sujeita-se às demais sanções cabíveis e rescisão contratual;
+
+33 / 47
+
+▪ Descumprimento contratual - Pelo descumprimento das cláusulas xxx ou itens xxx do TR, a Contratada sujeitar -se-
+á  à  multa  de  xx  %  (....  por  cento)  sobre  o  valor  da  parcela  do  objeto  inadimplida  referente  à  fatura  do  mês  da
+ocorrência, limitada a 10% do valor do contrato.
+
+4.3.1.11.7 No caso de SRP, também deve ser definido o percentual de multa sobre o valor do fornecimento/serviço
+sem atendimento em caso de não atendimento à convocação para assinatura do contrato.
+
+4.3.1.11.8 Define  as  condutas  que  podem  dar  causa  à  rescisão  unilateral  do  contrato  por  descumprimento  de
+cláusulas, especificações, projetos ou prazos, assegurada prévia defesa da contratada.
+
+4.3.1.12
+
+PARECERES EXIGIDOS
+
+4.3.1.12.1 Apresenta os pareceres relacionados a seguir, a depender do tipo de objeto a ser contratado, anexando -
+os à solicitação de contratação no SICLG:
+
+a)  GEADS -  Nas aquisições de equipamento de uso, que não constem no Caderno de Diretrizes de Equipamento
+de Uso (CDE) do [MN, AD143], cuja gestão é de responsabilidade da GEASD/CESUP, deve ser solicitado parecer
+prévio  à  GEADS  acerca  da  necessidade  de  contratação  dos  suprimentos.  O  objetivo  é  evitar  aquisições
+desnecessárias, assegurando a racionalidade e economicidade da contratação.  Deve ser informado que se trata
+de  aquisição  de  novo  equipamento,  ainda  não  existente  na  CAIXA  ou  na  região  ou  se  é  substituição  de
+equipamento em uso;
+
+b)  GETEM – Para as contratações de serviços contínuos de caráter acessório na CAIXA que não constem do Anexo
+
+II do [MN, AD244].
+
+c)  GELOG – nas situações abaixo relacionadas:
+
+▪ Nos  contratos  de  prestação  de  serviço  em  que  a  contratada  exerça  suas  atividades  em  ambiente  CAIXA,
+solicitar  parecer  acerca  da  viabilidade  da  disponibilização  do  espaço  físico  e  dos  custos  envolvidos,  exceto
+para os casos de treinamento em ambientes da CAIXA (Universidade CAIXA e Salas de Treinamento).
+
+▪ Nas  contratações  que  necessitem  de  adequação  de  infraestrutura  para  a  instalação  de  itens/soluções
+
+adquiridas, solicitar parecer acerca da viabilidade de atendimento  e os custos envolvidos.
+
+d)  GECOT – nas contratações no âmbito de autorização do Comitê de Contratações e Sustentabilidade; e Conselho
+Diretor, avalia previamente os aspectos formais da solicitação para contratação, restringindo -se às informações
+necessárias para autorização pelos referidos Comitês Estatutários.
+
+e)  GEORC – nas solicitações de contratações acima de R$ 3.000.000,00 (três milhões de reais) apresenta Ateste
+
+de Reserva Orçamentária, conforme disposto no [MN, CR117, 3.8].
+
+▪ No  caso  de  licitação,  pode  ser  apresentado  em  momento  posterior,  junto  a  dotação  orçamentária,  conforme
+
+item [MN, 4.3.1.7.6].
+
+▪ No caso de locação o valor de referência corresponde ao valor anual.
+
+▪ Não se aplica à licitação para ARP, credenciamento, evento extraorçamentário e contratações efetuadas com
+
+recursos do FAR.
+
+f)  GEAUS  –  Para  as  contratações  de  prestação  de  serviços  que  necessitem  de  fornecimento  e  utilização  de
+equipamentos de TI (estação de trabalho/notebook) e software de propriedade da CAIXA, para uso pela empresa
+contratada, solicitar parecer acerca da viabilidade de atendimento e custos envolvidos;
+
+4.3.1.12.2 Não há necessidade de solicitação de parecer GELOG para os serviços dispostos no  [MN, AD014], [MN,
+AD035] e [MN, AD255].
+
+4.3.1.12.3 Nos  casos  de  demandas  instruídas  mediante  Proposição,  observa  e  solicita  os  Pareceres  Sínteses,
+conforme disposto no [MN, OR134], a depender da alçada correspondente no [MN, AL080] ao:
+
+a)  Comitê de Contratações e Sustentabilidade;
+
+b)  Conselho Diretor.
+
+4.3.1.12.3.1 Cabe ao proponente da matéria identificar  a necessidade de emissão de Pareceres Síntese por outras
+áreas, devendo apresentá-los no momento da pauta da Proposição.
+
+4.3.1.12.3.2 A DELOS e/ou SUCOT são dispensadas da emissão de Parecer Síntese, uma vez que a GECOT já emite
+parecer técnico relativo aos aspectos de conformidade da contratação objeto da Proposição.
+
+4.3.1.12.3.3 Nos  casos  de  pareceres  solicitados  via  SIATD,  o  gestor  fica  dispensado  de  anexar  o  documento  à
+solicitação de contratação no SICLG.
+
+4.3.1.13
+
+OUTRAS INFORMAÇÕES
+
+4.3.1.13.1 Indica os empregados que irão compor a equipe de apoio para auxílio técnico, no caso de licitação.
+
+34 / 47
+
+4.3.1.13.2 Inclui demais informações consideradas importantes para a complementação da demanda.
+
+4.3.1.13.3 No contrato, a cláusula padrão para resolução de conflitos indica o foro da Justiça Federal competente.
+
+4.3.1.13.3.1 Caso observe necessidade, considerando as particularidades do caso concreto, o gestor pode solicitar
+alteração  da  cláusula  para  prever  a  resolução  de  disputas  via  arbitragem,  indicando  a  câmara  de  arbitragem  que
+deverá constar da cláusula.
+
+4.3.1.13.4 Apresenta  maiores  informações  de  acordo  com  características  da  demanda,  listadas  abaixo,  conforme
+detalhamento para cada item:
+
+a)  Bens e serviços de Tecnologia da Informação;
+
+b)  Eventos de Treinamento e Desenvolvimento;
+
+c)  Contratação de remanescente;
+
+d)  Serviços de Consultoria;
+
+e)  Obras e serviços de engenharia;
+
+f)  Serviços de transporte de pessoas e pequenos volumes;
+
+g)  Critérios de julgamento que exijam proposta técnica;
+
+4.3.1.13.5
+
+INFORMAÇÕES ESPECÍFICAS - BENS E SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+
+4.3.1.13.5.1 No  caso  de  contratação  para  aquisição  ou  locação  de  hardware  e/ou  software,  bem  como  nas
+contratações de serviços de TI, observa os procedimentos do [MN,  TE165] e informa:
+
+▪ nome do produto, quando for o caso;
+
+▪ nome do fabricante, quando for o caso;
+
+▪ finalidade do “software”;
+
+▪ existência ou não de similar e, se afirmativo, razão da escolha;
+
+▪ existência ou não do produto em uso na CAIXA;
+
+▪ alternativa à aquisição do produto, se for o caso;
+
+▪ existência ou não de software livre ou público, e
+
+▪ se  a  contratação  se  encontra  em  harmonia  com  o  PDTI,  PDSI  e  sua  contribuição  para  a  execução  do  Plano
+
+Estratégico do conglomerado CAIXA.
+
+4.3.1.13.5.2 Nos casos de contratação de prestação de serviços que ocorram por meio digital, em nuvem, submete a
+demanda à SUART a fim de avaliar a aplicabilidade do [MN,  TE227] e, se for o caso, garantir sua aplicação.
+
+4.3.1.13.5.3 É  vedado  fazer  referências,  no  Termo  de  Referência  ou  no  contrato,  a  regras  externas  de  fabricantes,
+fornecedores  ou  prestadores  de  serviços,  que  possam  acarretar  a  alteração  unilateral  do  contrato  por  parte  da
+contratada.
+
+4.3.1.13.5.4 Deve  compatibilizar  os  prazos  e  os  níveis  de  serviços  constantes  das  cláusulas  contratuais  com  as
+condições oferecidas pelos fabricantes dos produtos, inclusive nos casos de contratação de revendedores.
+
+4.3.1.13.5.5 É vedada a inclusão, no Termo de Referência ou no contrato, de cláusulas que permitam a:
+
+a)  contratação  conjunta  de  serviços  de  suporte  técnico  e  de  atualização  de  versões  quando  não  houver  a
+
+necessidade de ambos;
+
+b)  cobrança retroativa de valores referentes a serviços de suporte técnico e de atualização de versões relativos ao
+
+período em que a empresa tenha ficado sem cobertura contratual;
+
+c)  cobrança de valores para o restabelecimento de serviços agregados; e
+
+d)  cobrança de valores relativos a serviço de correção de erros, inclusive retroativos.
+
+4.3.1.13.5.5.1 A  ocorrência  da  situação  indicada  na  alínea  a,  do  item  [MN,  4.3.1.13.5.5],  deve  ser  justificada  pelo
+gestor demandante.
+
+4.3.1.13.5.6 Deve  ser  exigida  das  empresas  licitantes  declaração  que  ateste  a  não  ocorrência  do  registro  de
+oportunidade, de modo a garantir o princípio constitucional da isonomia e a seleção da proposta mais vantajosa.
+
+4.3.1.13.5.6.1 A declaração deverá ser apresentada na proposta comercial para participação na licitação.
+
+4.3.1.13.5.7 É vedado aceitar carta de exclusividade emitida pelos próprios fabricantes, fornecedores ou prestadores
+de  serviços,  para  aquisição  de  bens  e  serviços  de  TI  que  só  possam  ser  fornecidos  por  produtor,  empresa  ou
+representante comercial exclusivo.
+
+35 / 47
+
+4.3.1.13.5.8 Para  a  comprovação  de  exclusividade,  exigir  atestado  fornecido  por  órgão  de  registro  do  comércio  do
+local em que se realiza a licitação ou a obra ou o serviço, por sindicato, federação ou confederação patronal, ou por
+entidades imparciais equivalentes.
+
+4.3.1.13.5.9 Para  a  aquisição  de  licenças  de  programas  de  computador  e  de  serviços  agregados,  atender  as
+disposições a seguir, estabelecendo no Termo de Referência:
+
+a)  adquirir a quantidade de licenças e de serviços estritamente compatível com a necessidade da CAIXA;
+
+b)  demandar  a  quantidade  de  licenças  e  de  serviços  de  forma  gradual,  seguindo  um  cronograma  de  execução
+previamente  estabelecido,  e  informar  que  os  pagamentos  serão  efetuados  apenas  sobre  as  quantidades
+demandadas, fornecidas e efetivamente implantadas que se rão utilizadas;
+
+c)  não  realizar  o  pagamento  antecipado  de  licenças  e  de  serviços  que  ainda  não  tiverem  sido  fornecidos  e
+
+efetivamente implantados; e
+
+d)  vincular o pagamento dos serviços agregados às licenças que forem efetivamente utilizadas, principalmente em
+projetos considerados de alto risco ou de longo prazo, nos quais a quantidade demandada deve ser atrelada à
+evolução do projeto e devidamente documentada em estudos técnicos preliminares à contratação.
+
+4.3.1.13.5.10 Para aquisição de licenças ou subscrição de software:
+
+4.3.1.13.5.10.1 O Termo de Referência deve contemplar procedimentos detalhados e específicos, abarcando lista de
+verificação, para avaliar a autenticidade, a aderência ao que foi contratado e o quantitativo de licenças.
+
+4.3.1.13.5.10.2 O  gestor  deve  solicitar,  no  modelo  de  proposta  comercial  a  disponibilização  de  informações
+necessárias à identificação dos softwares, como nome específico e código de identificação unívoca (dos softwares).
+
+4.3.1.13.5.11 No  caso  de  aquisição  de  equipamentos  ou  componentes  de  informática  para  “ upgrade”,  informa,  se
+houver,  o  número  de  patrimônio  do(s)  equipamento(s)  que  receberá(ão )  a  adição  de  melhorias,  e  demonstra
+expressamente  que  a  aquisição  de  aperfeiçoamento  é  mais  econômica  para  a  CAIXA  do  que  a  contratação  de  um
+novo produto.
+
+4.3.1.13.6
+
+INFORMAÇÕES ESPECÍFICAS – EVENTOS DE T&D
+
+4.3.1.13.6.1 Observa  o  disposto  no  [MN,  RH213]  e  solicita  a  contratação  para  evento  de  Treinamento  e/ou
+Desenvolvimento observando o prazo mínimo para a solicitação dos procedimentos de contratação.
+
+4.3.1.13.6.1.1 Deve  ser  contemplado  neste  prazo  o  tempo  necessário  para  a  realização  das  providências  de
+responsabilidade do Gestor imediato/concessor após a formalização da contratação pela CECOT.
+
+4.3.1.13.6.1.2 No caso de envio de demanda com prazo inferior ao previsto no item [MN,  4.3.1.13.6.1], a solicitação
+de contratação deve ser encaminhada com as justificativas quanto ao não cumprimento do prazo.
+
+4.3.1.13.6.1.3 Mesmo  após  envio  da  justificativa  para  a  contratação  intempestiva  de  que  trata  o  item  [MN,
+4.3.1.13.6.2],  o  gestor  responde  por  eventual  falta  de  vagas  no  evento/curso  ou  por  aumento  dos  valores  de
+participação.
+
+4.3.1.13.6.2 As contratações de T&D cujas regras sejam estabelecidas pelo fornecedor e tão somente aderidas pela
+CAIXA,  abertas  para  o  público  em  geral,  são  denominadas  Evento  Externo  de  T&D,  sendo  alguns  exemplos  as
+inscrições em cursos disponíveis no mercado e participações em congressos ou seminários.
+
+4.3.1.13.6.2.1 Não  se  enquadram  na  definição  acima  as  palestras,  cursos  ou  eventos  que  envolvam  condições  e
+exigências específicas para atendimento à CAIXA, com customização de conteúdo ou exigência de turmas exclusivas,
+como exemplo as capacitações in company.
+
+4.3.1.13.6.3 Contratações de participação em Eventos Externos de T&D, definidas no item [MN, 4.3.13.6.2], que sejam
+enquadradas  nos  valores  totais  para  contratação  direta  por  dispensa  de  valor  são  realizadas  pelo  próprio  gestor
+demandante da contratação no fluxo de Pequenas Contratações estabelecido no [MN, AD028].
+
+4.3.1.13.6.3.1 A  “Autorização  para  participação  em  evento  externo”  é  emitida  automaticamente  pelo  sistema  de
+Pequenas  Contratações,  sendo  responsabilidade  do  Gestor  a  inscrição  do  empregado  no  evento  externo,  não
+cabendo ação da CECOT.
+
+4.3.1.13.6.4 As  contratações  para  participação  em  Evento  Externo,  definidas  no  item  [MN,  4.3.13.6.2],  quando
+enquadradas como contratação direta por inexigibilidade  e que tenham valor unitário da inscrição de até R$ 7.300,00
+se aplicam regras de simplificação de processo, listadas abaixo :
+
+a)  Apresentação opcional de estudos preliminares e mapa de riscos, conforme itens [MN, 3.3.4.5] e [MN, 3.3.5.3];
+
+b)  Os  valores  públicos  e  tabelados  no  site  oficial  do  curso/evento  podem  ser  considerados  como  referencial  de
+
+valor de mercado para fins de pesquisa de preços;
+
+c)  A  formalização  por  instrumento  contratual  é  substituída  pela  emissão  da  “Autorização  para  participação  em
+
+evento externo” pela CECOT.
+
+36 / 47
+
+4.3.1.13.6.5 Demais contratações de Eventos de T&D não enquadradas nos itens [MN, 4.3.13.6.3] e [MN, 4.3.13.6.4]
+são solicitadas à CECOT, via SICLG, e são formalizadas mediante instrumento contratual.
+
+4.3.1.13.6.6 As Contratações para T&D no exterior com utilização de recursos do Fundo para Desenvolvimento das
+Loterias  (FDL),  conforme  [MN,  OR048]  e  [MN,  RH213]  seguirão  regras  próprias  quanto  à  composição  do  processo
+administrativo e formalização da contratação.
+
+4.3.1.13.7
+
+INFORMAÇÕES ESPECÍFICAS – CONTRATAÇÃO DE REMANESCENTE
+
+4.3.1.13.7.1 Solicita contratação de remanescente no SICLG, em consequência de rescisão de contrato, ainda que a
+execução não tenha sido iniciada, conforme [MN, AD028] e contendo as seguintes informações:
+
+4.3.1.13.7.1.1 Pesquisa de preços demonstrando a compatibilidade do valor com o praticado no mercado.
+
+4.3.1.13.7.1.2 Justifica a necessidade e a vantagem da manutenção do objeto com a contratação remanescente.
+
+4.3.1.13.7.1.3 Informa a situação atual do contrato remanescente e os valores do contrato rescindido.
+
+4.3.1.13.7.1.4 Adequa o pré-comprometimento de recursos, nos termos do item [MN, 4.3.1.7].
+
+4.3.1.13.7.2 Realiza procedimento de negociação com o licitante subsequente, obedecendo a ordem de classificação
+da licitação anterior, quanto a aceitação das mesmas condições do contrato encerrado, inclusive em relação ao preço
+atualizado.
+
+4.3.1.13.7.3 Na hipótese de nenhum dos licitantes aceitar a contratação nos termos inicialmente pactuados, poderá
+ocorrer  a  convocação  dos  licitantes  remanescentes,  na  ordem  de  classificação,  para  a  celebração  do  contrato  nas
+condições ofertadas por estes, no limite do valor estimado, inclusive quanto aos preços atualizados.
+
+4.3.1.13.7.3.1 Na  hipótese  do  item  [MN,  4.3.1.13.7.3],  todo  o  procedimento  de  negociação  e  convocação  deve  ser
+efetuado pela CECOT/GECOT.
+
+4.3.1.13.8
+
+INFORMAÇÕES ESPECÍFICAS - SERVIÇOS DE CONSULTORIA E AUDITORIA
+
+4.3.1.13.8.1 Nas  contratações  de  serviços  de  consultoria,  apresenta  informações  sobre  como  será  realizada  a
+transferência de conhecimento em relação ao serviço de consultoria prestado pela contratada, quando houver.
+
+4.3.1.13.8.2 Observa as diretrizes a seguir quando da elaboração do contrato:
+
+4.3.1.13.8.3 É vedada a inclusão de “Cláusula de Êxito” em instrumento contratual da CAIXA e de suas subsidiárias
+que possa influenciar as conclusões da contratada, com eventual prejuízo da isenção técnica.
+
+4.3.1.13.8.3.1 A  Cláusula  de  Êxito  ocorre  quando  o  pagamento  à  Contratada,  pela  prestação  dos  serviços  de
+consultoria  e/ou  assessoramento,  fica  condicionado  à  efetiva  concretização  de  um  negócio,  sem  prejuízo  aos
+princípios da eficiência, da economicidade e a neutralidade dos serviços prestados. Por exemplo, contratar consultoria
+com a finalidade de avaliar dados do mercado para que a CAIXA realize determinado investimento e condicionando
+o pagamento à concretização do pretendido negócio, considerando que essa condição po de afetar a imparcialidade
+das  informações  prestadas  haja  vista  a  possibilidade  de  a  Contratada  ter  prejudicado  no  seu  próprio  interesse  de
+remuneração.
+
+4.3.1.13.8.4 Se  tratando  de  consultoria  técnica  especializada  em  processos  de  desinvestimentos,  essa  informação
+deverá ser trazida de forma clara e precisa no objeto da contratação.
+
+4.3.1.13.8.4.1 Deverá ser apresentada a Resolução do CD com a homologação dos critérios utilizados e do processo
+de prospecção e seleção da consultoria técnica especializada em processos de desinvestimento.
+
+4.3.1.13.8.5 Observa  as  orientações  dispostas  no  [MN,  AE133]  para  a  contratação  de  serviços  de  auditoria  e
+consultoria  quando  houver  a  possibilidade  de  contratação  da  mesma  empresa  que  realiza  os  serviços  de  auditoria
+independente sobre as Demonstrações Financeiras da CAIXA.
+
+4.3.1.13.9
+
+INFORMAÇÕES ESPECÍFICAS - OBRAS E SERVIÇOS DE ENGENHARIA
+
+4.3.1.13.9.1 Define Matriz de Riscos nas contratações de obras e serviços de engenharia, informando de forma clara
+e objetiva os riscos assumidos na execução dos serviços, ou seja, quais os riscos atribuídos à CAIXA e quais serão
+de responsabilidade da contratada.
+
+4.3.1.13.9.1.1 Nas contratações diretas por dispensa de valor é dispensada a cláusula de Matriz de risco, podendo o
+gestor solicitar a inclusão se houver necessidade.
+
+4.3.1.13.9.2 A  Matriz  de  Riscos  consiste  em  cláusula  contratual  definidora  de  riscos  e  responsabilidades  entre  as
+partes  e  caracterizadora  do  equilíbrio  econômico-financeiro  inicial  do  contrato,  em  termos  de  ônus  financeiro
+decorrente de eventos supervenientes à contratação, contendo, no mínimo, as seguintes informações:
+
+▪ Listagem  de  possíveis  eventos  supervenientes  à  assinatura  do  contrato,  impactantes  no  equilíbrio  econômico -
+financeiro da avença, e previsão de eventual necessidade de prolação de termo aditivo quando de sua ocorrência.
+
+37 / 47
+
+▪ Estabelecimento preciso das frações do objeto em que haverá liberdade das contratadas para inovar em soluções
+metodológicas ou tecnológicas, em obrigações de resultado, em termos de modificação das soluções previamente
+delineadas no anteprojeto ou no projeto básico da licitação;
+
+▪ Estabelecimento  preciso  das  frações  do  objeto  em  que  não  haverá  liberdade  das  contratadas  para  inovar  em
+soluções metodológicas ou tecnológicas, em obrigações de meio, devendo haver obrigação de identidade entre a
+execução e a solução pré-definida no anteprojeto ou no projeto básico da licitação;
+
+4.3.1.13.9.3 Os riscos decorrentes de fatos supervenientes à contratação associados à escolha da solução de projeto
+básico pela contratante deverão ser alocados como de sua responsabilidade na matriz de riscos.
+
+4.3.1.13.9.4 Nas  contratações  integradas  ou  semi-integradas,  os  riscos  decorrentes  de  fatos  supervenientes  à
+contratação associados à escolha da solução de projeto básico pela contratante deverão ser alocados como de sua
+responsabilidade na matriz de riscos.
+
+4.3.1.13.9.5 É vedada a celebração de aditivos decorrentes de eventos supervenientes alocados, na matriz de riscos,
+como de responsabilidade da contratada.
+
+4.3.1.13.9.6 A  Matriz  de  Risco  poderá  ser  estabelecida  para  outros  objetos  quando  compatível  com  suas
+características.
+
+4.3.1.13.10   INFORMAÇÕES  ESPECÍFICAS  -  SERVIÇOS  DE  TRANSPORTE  DE  PESSOAS  E  PEQUENOS
+
+VOLUMES
+
+4.3.1.13.10.1 Nas  contratações  cujo  objeto  seja  o  transporte  de  pessoas  e  objetos,  tendo  em  vista  a  seleção  da
+proposta  mais  vantajosa,  a  mitigação  do  risco  de  sobrepreço  ou  superfaturamento  e  os  princípios  de  eficiência  e
+economicidade, o gestor deverá:
+
+a)  Adotar como referência de preços o veículo médio ou mediano, entre aqueles que atendam às especificações;
+
+b)  Utilizar  como  referência  de  consumo  de  combustível  o  consumo  médio  ou  mediano  dos  veículos  que  atendam
+
+às especificações;
+
+c)  Avaliar, quando da negociação com a empresa que apresentar a melhor proposta, a compatibilidade do consumo
+
+de combustível indicado na proposta de preços com os dados de consumo divulgados pelo fabricante;
+
+d)  Contemplar regra de depreciação compatível com a realidade de mercado;
+
+e)  Empregar regra de precificação do valor do combustível que aproxime os pagamentos dos valores praticados no
+mercado,  tendo  como  referência  os  valores  divulgados  pela  Agência  Nacional  do  Petróleo,  Gás  Natural  e
+Biocombustíveis; e
+
+f)  Realizar estudos para avaliar a demanda real da franquia mensal dos veículos, tendo por base o histórico recente
+
+e as projeções de uso.
+
+4.3.1.13.10.2 No caso de não observância às disposições do item  [MN, 4.3.1.13.10.1], o gestor demandante deverá
+apresentar as justificativas e conveniência e oportunidade verificadas para o não atendimento.
+
+4.3.1.13.11   INFORMAÇÕES  ESPECÍFICAS  -  CRITÉRIOS  DE  JULGAMENTO  COM  APRESENTAÇÃO  DE
+
+PROPOSTA TÉCNICA
+
+4.3.1.13.11.1 No  caso  de  uso  de  algum  critério  de  julgamento  listado  abaixo,  deverá  ser  definido  e  justificado  os
+critérios de avaliação das propostas técnicas:
+
+▪ Melhor combinação de técnica e preço;
+
+▪ Melhor técnica ou melhor conteúdo artístico;
+
+▪ Maior retorno econômico;
+
+▪ Melhor destinação de bens alienados.
+
+4.3.1.13.11.2 Em  qualquer  dos  critérios,  deverão  ser  estabelecidos  fatores  objetivos  e  pontuáveis,  tais  como
+capacitação, experiência dos proponentes, qualidade técnica das propostas (metodologia, organização, tecnologias
+e  recursos  materiais  a  serem  utilizados)  qualificação  das  equipes  técnicas  envolvidas  na  execução,  bem  como  os
+critérios pelos quais esses fatores serão avaliados (ponderação de pesos matemáticos).
+
+4.3.1.13.11.3 Na Melhor Combinação de Técnica e Preço, o fator de ponderação mais relevante será limitado a 70%
+(setenta por cento).
+
+4.3.1.13.11.4 Na Melhor Técnica ou Melhor Conteúdo Artístico, a estimativa de preço deve constar no edital.
+
+4.3.1.13.11.5 Nos  critérios  de  julgamento  “Melhor  combinação  de  técnica  e  preço”  e  “Melhor  técnica  ou  melhor
+conteúdo  artístico”,  podem  ser  utilizados  parâmetros  de  sustentabilidade  para  pontuação  das  propostas  técnicas  e
+pontuação mínima para as propostas técnicas cujo não atingimen to implica na desclassificação.
+
+38 / 47
+
+4.3.1.13.11.6 No Maior Retorno Econômico o edital deverá prever parâmetros objetivos de mensuração da economia
+gerada com a execução do contrato, que servirá de base de cálculo da remuneração devida ao contratado.
+
+4.3.1.13.12   INFORMAÇÕES ESPECÍFICAS – PERMISSIONÁRIO LOTÉRICO
+
+4.3.1.13.12.1 Na  solicitação  de  contratação  de  permissionários  lotéricos  devem  ser  apresentad as  a  descrição  do
+objeto,  a  justificativa  da  contratação,  a  lista  e  detalhamento  de  unidades  lotéricas,  suas  localidades  de  instalação
+com informação sobre área útil mínima, o número de terminais  e os respectivos lances mínimos para cada unidade.
+
+4.3.1.13.12.2 O  edital  padrão  e  a  Circular  CAIXA  atualizados  no  SICLG  suprem  as  informações  necessárias  na
+solicitação  de  contratação  referentes  ao  detalhamento  da  contratação,  a  exigência  de  garantia  contratual,  as
+condições de seleção do fornecedor e a definição de multas e sanções, exigidas nos itens [MN, 4.3.1.4], [MN, 4.3.1.8],
+[MN, 4.3.1.10] e [MN, 4.3.1.11], respectivamente.
+
+4.3.1.13.12.2.1 Também ficam dispensadas a apresentação dos seguintes documentos:
+
+a)  Estudo Preliminar e Mapa de Riscos;
+
+b)  Termo de Referência;
+
+c)  Pesquisa de preços e Planilha de composição de custos;
+
+4.3.1.13.13   INFORMAÇÕES ESPECÍFICAS – ATUALIZAÇÃO CONVENÇÃO COLETIVA DE TRABALHO
+
+4.3.1.13.13.1 Nas  solicitações  de  contratação  de  serviços  com  mão  de  obra  cujos  valores  estimados  estejam
+vinculados à salários normativos e demais benefícios previstos em Convenção Coletiva de Trabalho  – CCT, deverá
+constar,  obrigatoriamente,  no  documento  de  solicitação  de  contratação  e  na  Proposição,  ressalva  quanto  à
+possibilidade de atualização dos valores estimados.
+
+4.3.1.13.13.2 A ressalva de que trata o item anterior deverá consignar que eventuais alterações de valores de CCT
+ocorridas entre a autorização da licitação e  a publicação do edital serão prontamente atualizadas, sem necessidade
+de nova submissão à alçada de autorização, desde que não haja alteração da alçada decisória aplicável.
+
+4.3.1.13.13.3 Caso a atualização dos valores implique mudança da alçada decisória, deverá ser providenciada nova
+autorização nos termos do Regime de Alçadas vigente.
+
+4.3.1.14
+
+PREENCHIMENTO DO FORMULÁRIO NO SICLG
+
+4.3.1.14.1 Insere a demanda no SICLG preenchendo as informações conforme orientações constantes do “Guia para
+cadastramento
+link:
+http://www.gecot.mz.caixa/novoportal/upload/GUIA_GESTOR_SICLG.pdf .
+
+contratação”,
+
+demandas
+
+acesso
+
+pelo
+
+de
+
+de
+
+4.3.1.14.2 Anexa a documentação correspondente da demanda incluindo, no mínimo:
+
+a)  CI de solicitação de contratação;
+
+b)  Termo de Referência, ou especificações do objeto, no caso de dispensa por valor;
+
+c)  Pesquisa de preços, na forma do item [MN, 3.4];
+
+d)  Estudo Preliminar, conforme orientações do item [MN, 3.3.4], exceto para contratações diretas por dispensa de
+
+licitação e na seleção de permissionários lotéricos;
+
+e)  Mapa de Risco, exceto para contratações diretas por dispensa de licitação;
+
+f)  Demais anexos que complementem as informações da contratação.
+
+4.3.1.15
+
+APRESENTAÇÃO DE PROPOSIÇÃO
+
+4.3.1.15.1 Quando  for  o  caso,  elabora  a  Proposição  contendo  os  elementos  necessários,  tais  como  os  apontados
+abaixo, sem prejuízo de outras informações consideradas necessárias ao caso concreto, de modo que as unidades
+responsáveis citadas no item [MN, 4.3.1.12] possam emitir os pareceres, conforme as alçadas do [MN, AL080]:
+
+4.3.1.15.2 Apresenta e relata Proposição perante as devidas instâncias, de acordo com o  [MN, OR134].
+
+4.3.1.15.3 Devem  ser  anexados  à  Proposição  todos  os  documentos  que  a  fundamentaram,  como  pareceres,  notas
+técnicas, estudos, relatórios, dentre outros, inclusive o Parecer da GECOT, especificado no item  [MN, 4.3.1.12.1].
+
+4.3.2
+
+GECOT/CECOT
+
+4.3.2.1 Recebe solicitação de contração do Gestor, analisa a demanda em conformidade com este normativo e realiza
+os  procedimentos  necessários  para  a  realização  do  procedimento  licitatório  ou  da  contratação  direta,  conforme
+abrangência e alçada.
+
+39 / 47
+
+4.3.2.1.1 Na solicitação de contratação direta de remanescente, avalia os procedimentos de convocação do licitante
+remanescente, realizados pelo gestor, respeitada a ordem de classificação, conforme as regras do  [MN, AD028].
+
+4.3.2.2 Verifica se a demanda contempla todas as informações e documentos pertinentes à instrução da contratação,
+conforme as regras deste normativo.
+
+4.3.2.2.1 A  análise  da  demanda  é  realizada  em  conformidade  com  os  checklists  disponibilizados  n a  ferramenta
+POUPATEMPO (https://contratos.caixa/poupatempo/) e deverá compor o processo da contratação.
+
+4.3.2.3 Verifica se a estimativa de custos elaborada pelo Gestor contém as premissas dispostas no  item [MN, 3.4].
+
+4.3.2.4 Devolve, via SICLG, a demanda ao Gestor caso não estejam contempladas todas as informações necessárias
+à contratação para complementações e/ou ajustes.
+
+4.3.2.4.1 O checklist de análise preenchido é enviado na devolução contendo o detalhamento dos itens não atendidos
+que necessitam de ajustes ou esclarecimentos.
+
+4.3.2.4.2 Poderá ser cancelada a demanda com situação “devolvida” e constante na fila do Gestor com prazo superior
+a 5 (cinco) dias úteis.
+
+4.3.2.5 Elabora  o  edital  de  licitação  e/ou  minuta  de  contrato,  em  conformidade  com  os  modelos  padronizados
+disponíveis no SICLG, com observância às especificidades da demanda, informadas pelo Gestor.
+
+4.3.2.5.1 Os  modelos  possuem  cláusulas  gerais,  de  natureza  legal,  que  são  adotadas  conforme  as  exigências  da
+legislação,  as  orientações  da  área  jurídica  e  as  recomendações  e/ou  determinações  dos  órgãos  de  controle  e
+fiscalização.
+
+4.3.2.5.2 Os modelos padronizados de minutas de editais, contratos, Ata de RP ou ajustes, disponíveis no SICLG são
+pré-aprovados  pela  GEAJU  e  a  simples  autuação  no  processo  do  modelo  e  do  Parecer  da  GEAJU  disponíveis  no
+SICLG já cumpre a exigência legal de visto de advogado da Caixa.
+
+4.3.2.5.2.1 O  ajuste  de  cláusulas  para  adequação  do  edital  e/ou  minuta  de  contrato  às  especificidades  do  caso
+concreto dispensam nova análise jurídica ou da GECOT quando não conflitarem com aspectos legais e/ou normativos.
+
+4.3.2.6 Submete à análise da GECOT, via LICO como demanda de Normas e Modelos Padronizados – GECOT02, as
+minutas  de  editais  e/ou  contratos  que  tiverem  alterações  de  cláusulas  que  conflitem  com  as  normas  vigentes  de
+licitações e contratos.
+
+4.3.2.6.1 Nas solicitações de análise, a CECOT deve evidenciar a alteração realizada no modelo padrão e o eventual
+conflito com os normativos vigentes de licitações e contratos.
+
+4.3.2.7 Submete  à  análise  da  unidade  jurídica  as  minutas  de  editais  e/ou  contratos  que  tiverem  alterações  nas
+cláusulas de natureza legal, previamente aprovadas pela GEAJU.
+
+4.3.2.8 Define o modo de disputa, se aberto ou fechado, solicitando subsídios do gestor, conforme o caso.
+
+4.3.2.9 Operacionaliza a contratação, de acordo com o normativo vigente para o tipo de contratação.
+
+4.3.2.10 Autua os processos relativos às contratações, conforme dispos ições do item [MN, 4.1].
+
+4.3.2.11 Nos Pareceres emitidos pela GECOT relativos à licitações para contratações com mão de obra  cujos valores
+estejam vinculados a Convenção Coletiva de Trabalho – CCT, deverá constar obrigatoriamente, nas disposições finais
+ressalva quanto à possibilidade de atualização dos valores  estimados.
+
+4.3.2.11.1 A ressalva deverá consignar que eventuais alterações de salários normativos e demais benefícios previstos
+em CCT, ocorridas entre a autorização da licitação e o recebimento das propostas serão refletidas na estimativa da
+contratação,  sem  necessidade  de  nova  submissão  à  alçada,  salvo  se  a  atualização  ensejar  mudança  da  alçada
+decisória.
+
+4.4
+
+FORMALIZAÇÃO DE CONTRATO
+
+4.4.1
+
+GECOT/CECOT
+
+4.4.1.1 Para a elaboração do contrato a GECOT/CECOT utiliza a minuta que integrou o edital no caso de contratação
+decorrente  de  licitação,  ou,  no  caso  de  contratação  direta,  adota  o  modelo  contendo  as  cláusulas  padronizadas,
+conforme modelos de contratos disponibilizados no SICLG.
+
+4.4.1.2 Recebe  o  processo  com  a  autorização  de  contratação,  pela  autoridade  detentora  de  alçada  em  razão  da
+matéria a ser deliberada e de acordo com o Regime de Alçadas, constante do  [MN, AL080].
+
+4.4.1.3 Atualiza o SICLG conforme a conclusão de cada fase da contratação.
+
+4.4.1.4 Consulta a validade da proposta e, caso esteja vencida, solicita a revalidação ao fornecedor.
+
+4.4.1.4.1 Caso  o  fornecedor  não  revalide  a  proposta,  a  CECOT  providencia  os  procedimentos  de  retomada  do
+certame.
+
+40 / 47
+
+4.4.1.5 Realiza  todas  as  consultas  relacionadas  aos  impedimentos  para  contratação,  de  acordo  com  o  item   [MN,
+4.6.1].
+
+4.4.1.6 Verifica a situação de regularidade do fornecedor, conforme itens  [MN, 4.6.2] a [MN, 4.6.4].
+
+4.4.1.7 Verifica se há pré-comprometimento de recursos cadastrado no SAP, conforme valor contratado, se for o caso,
+atentando-se para as regras do item [MN, 3.6.6], em seguida, anexa a tela e anexa ao processo, para constar como
+evidência de reserva orçamentária.
+
+4.4.1.7.1 Na  hipótese  de  o  pré-comprometimento  não  contemplar  o  valor  previsto  para  a  contratação,  solicita  ao
+Gestor para que ele suplemente a reserva orçamentária para a nova contratação.
+
+4.4.1.7.1.1 O  item  [MN,  4.4.1.7.1]  não  se  aplica  para  registro  de  pré-comprometimento  com  valores  superiores  ao
+valor da nova contratação, pois uma vez que o Gestor criar Plano de Compromisso o valor sobressalente será liberado
+para utilização.
+
+4.4.1.8 Emite o contrato ou a Ata de RP, a partir da minuta publicada juntamente com o edital, no caso de licitação
+ou, no caso de contratação direta, utiliza os modelos padronizados disponíveis no SICLG.
+
+4.4.1.9 Encaminha a minuta de contrato à unidade jurídica de abrangência para análise e aprovação, caso ainda não
+tenha  sido  aprovada  como  anexo  de  edital  de  licitação  ou  como  modelo  padronizado,  com  minuta  visada  e
+disponibilizada no SICLG ou como modelo com o mesmo objeto já visado anteriormente pela área jurídica da CAIXA.
+
+4.4.1.9.1 Efetua as adequações conforme parecer jurídico, se for o caso.
+
+4.4.1.10 Convoca o licitante vencedor ou o destinatário de contratação para assinar o termo de contrato, observados
+o prazo e as condições estabelecidos em edital e/ou contrato, sob pena de decadência do direito à contratação.
+
+4.4.1.10.1 O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período.
+
+4.4.1.10.2 Quando se tratar de contratação de empresas reunidas em consórcio, esse período poderá ser prorrogado
+pelo  prazo  necessário  para  a  constituição  do  consórcio,  mediante  apresentação  do  protocolo  de  constituição  do
+consórcio registrado na junta comercial.
+
+4.4.1.11 Exige do fornecedor a assinatura da Declaração de Vedação ao Nepotismo, que integra o contrato e consta
+do modelo padronizado disponível no SICLG.
+
+4.4.1.12 Caso  o  fornecedor  a  ser  contratado  seja  MPE  optante  pelo  Simples  Nacional,  para  obter  o  benefício  da
+dispensa  de  retenção  dos  tributos  federais,  deve  assinar  também  a  Declaração  de  Empresas  Optantes  do  Simples
+Nacional  –  Anexo  IV  da  IN  RFB  1.244/2012,  que  integra  o  contrato  e  consta  do  modelo  padronizado  disponível  no
+SICLG, nos termos do [MN, MO37321].
+
+4.4.1.13 Identifica o representante da empresa e a legitimidade dos seus poderes, verificando:
+4.4.1.13.1.1 No  ato  da  assinatura,  quando  o  responsável  pela  assinatura  for  o  proprietário   da  empresa,  sócio,
+dirigente  ou  assemelhado,  solicita  cópia  do  respectivo  Estatuto  ou  Contrato  Social,  no  qual  estejam  expressos  os
+poderes  do  mandatário  responsável  pela  assinatura  do  contrato  ou  da  Ata  de  RP,  para  exercer  direitos  e  assumir
+obrigações em decorrência de tal investidura, e solicita identidade e CPF;
+
+4.4.1.13.1.2 No  caso  de  ser  nomeado  representante,  solicita  procuração  específica,  feita  por  meio  de  instrumento
+público, ou particular com firma reconhecida, estabelecendo poderes específicos para assumir obrigações em nome
+da empresa;
+
+4.4.1.13.1.3 A  procuração  particular  deve  ser  acompanhada  do  Contrato  Social  para  que  seja  comprovado  que  o
+signatário outorgante da procuração tem poderes para tal, bem como identidade e CPF do outorgado;
+
+4.4.1.14 Os  documentos  juntados  ao  processo  devem  ser  apresentados  em  bom  estado,  sem  rasuras  e/ou
+incorreções, legíveis, com consistência técnica, de forma a garantir a sua validade e autenticidade.
+
+4.4.1.14.1 Serão aceitos como autênticos os documentos do fornecedor enviados pelo Portal Licitações CAIXA ou via
+e-mail.
+
+4.4.1.14.1.1 O  condutor  do  processo  de  contratação  poderá  exigir  para  conferência  a  apresentação  do  documento
+em  cópia  autenticada,  ou  publicação  em  órgão  da  imprensa  oficial,  ou  cópia  acompanhada  do  original,  caso  exista
+dúvida a respeito da autenticidade do documento.
+
+4.4.1.14.1.2 Os  documentos  que  exigem  assinatura  podem  ser  assinados  na  forma  física  ou  na  forma  eletrônica
+qualificada,  utilizando  Certificado  Digital  no  padrão  da  Infraestrutura  de  Chaves  Públicas  Brasileira  –ICP  Brasil,  ou
+avançada, por Sistemas eletrônicos com senha pessoal e intransferível  capaz de comprovar a autoria e a integridade
+dos documentos, a exemplo da assinatura Gov.br.
+
+4.4.1.14.1.3 Em  caso  de  dúvidas  quanto  à  autenticidade/autoria  dos  documentos  com  assinatura  física,  o  condutor
+do processo de contratação também poderá exigir a sua apresentação com firma reconhecida em cartório.
+
+4.4.1.14.1.4 A entrega de documentos na forma física, caso necessária, deve ser endereçada à CECOT, condutora
+do certame/contratação.
+
+41 / 47
+
+4.4.1.14.1.5 A assinatura digital deve ser verificada para garantir a autoria e integridade do documento.
+
+4.4.1.14.1.6 Para  certificado  digital  no  padrão  ICP  Brasil,  as  verificações  podem  utilizar  os  serviços  de  Validar
+Assinatura do SERPRO e o Validar do ITI, disponível no site do Instituto Nacional de Tecnologia da Informação.
+
+4.4.1.14.2 A verificação de conformidade das assinaturas digitais, deve compor o processo administrativo.
+
+4.4.1.14.2.1 Os  documentos  de  identificação  e  representação  são  juntados  aos  autos  do  processo  seguindo  os
+procedimentos de autuação desta norma.
+
+4.4.1.14.2.2 No  caso  de  a  assinatura  contratual  ocorrer  fora  das  dependências  da  área  contratante,  encaminha  o
+contrato  ao  fornecedor  em  meio  eletrônico,  em  documento  não  editável  (formato  PDF,  por  exemplo)  e  adota  as
+providências cabíveis para atestar a veracidade da assinatura, bem como da conferência dos poderes pelo subscritor
+para assunção daqueles atos.
+
+4.4.1.15 Publica no DOU, conforme [MN, AE008], o resumo do contrato ou da Ata de RP, para eficácia e início de sua
+vigência, juntando ao processo a comprovação da publicação.
+
+4.4.1.16 Recebe e arquiva a garantia de execução contratual, se for o caso.
+
+4.4.1.17 Inclui o contrato e anexos no SICLG.
+
+4.4.1.18 Realiza  o  cadastramento  do  contrato  no  ERP/SAP,  conforme  orientação  das  cartilhas  disponíveis  no
+endereço eletrônico: https://caixa.sharepoint.com/teams/O365GRP-aprendizagemsipge/.
+
+4.4.1.19 Anexa no SICLG as consultas e diligências, se for o caso.
+
+4.4.1.20 Envia o contrato ou a Ata de RP ao fornecedor, inclui o arquivo no SICLG, de acordo com as orientações da
+Cartilha  que  consta  do  Banco  do  Saber,  arquivo  FAQ  SICLG  Versão  2.0  -  Instrumentos  Contratuais,  disponível  na
+página da GECOT na intranet, endereço eletrônico http://www.gecot.mz.caixa.
+
+4.4.1.21 O checklist de procedimentos de contratação disponibilizado no SICLG  pode ser utilizado para conferência
+dos procedimentos.
+
+4.4.1.22 O  processo  autuado  no  SICLG  fica  disponível  à  CEFOR  para  tratamento   das  demandas  de  gestão  formal
+relacionadas no [MN, AD242].
+
+4.4.2
+
+GESTOR
+
+4.4.2.1 Consulta no SICLG o contrato ou a ARP e faz a gestão operacional, conforme  [MN, AD242].
+
+4.5
+
+CONTROLE DA ATA DE REGISTRO DE PREÇOS
+
+4.5.1
+
+GESTOR
+
+4.5.1.1  Quando houver a necessidade de contratação do bem ou serviço objeto da Ata de RP encaminha a solicitação
+à CECOT, observado o saldo para não extrapolar o valor/quantidade global previsto.
+
+4.5.2
+
+CECOT
+
+4.5.2.1 Gerencia a Ata de RP, no que se refere:
+
+▪ ao  controle  do  saldo,  em  relação  ao  valor  e  a  quantidade,  por  meio  de  conferência  dos  relatórios  disponíveis  no
+
+ERP/SAP;
+
+▪ ao pedido de adesão de outros órgãos/entidades ou à utilização por outras regionais da CAIXA;
+
+▪ a todas as tratativas junto ao Órgão Gerenciador no caso de a CAIXA aderir à Ata de outro órgão/entidade;
+
+▪ à revogação da Ata; e
+
+▪ à negociação de preços com fornecedores.
+
+4.5.2.2 Recebe a solicitação do gestor para formalizar as contratações decorrentes da Ata de RP.
+
+4.5.2.3 Verifica a validade e o saldo da Ata de RP, fazendo o acompanhamento para não extrapolar o valor/quantidade
+global previsto.
+
+4.5.2.4 Para  emissão  e  assinatura  do  contrato  adota,  no  que  for  cabível,  os  procedimentos  previstos  no  item  [MN,
+4.4.1].
+
+4.5.2.4.1 A assinatura da última parte deverá ser obrigatoriamente do representante CAIXA.
+
+4.5.2.4.2 Adicionalmente, realiza a liberação dos pedidos registrados no ERP/SAP, através da transação ZMM9006,
+apenas quanto às contratações formalizadas pela GECOT/CECOT.
+
+42 / 47
+
+4.5.2.5 Encaminha  nos  termos  do  [MN,  AE008],  o  extrato  de  contrato  para  fins  de  publicação  no  DOU,  em
+conformidade com o item [MN, 3.6.5].
+
+4.5.2.6 Anexa ao processo a publicação do extrato de contrato efetuada no DOU.
+
+4.5.2.7 Envia o contrato assinado ao fornecedor e autua o contrato no processo no SICLG.
+
+4.5.2.8 Compete à CECOT disponibilizar no SICLG os contratos , que serão consultados pelo Gestor e pela CEFOR
+e, no caso de aquisição de material permanente, também pela Coordenação Suprimento.
+
+4.5.2.8.1 Também  devem  ser  disponibilizados  no  SICLG  a  proposta  e  a  planilha  de  custos  e  formação  dos  preços
+contratados, para consulta pelas unidades indicadas no item anterior.
+
+4.6
+
+CONSULTAS  DE  IMPEDIMENTOS  PARA  LICITAR  E  CONTRATAR  E  DA  REGULARIDADE  DO
+FORNECEDOR
+
+4.6.1
+
+IMPEDIMENTOS PARA CONTRATAÇÃO
+
+4.6.1.1 Na data de convocação da  empresa para formalização da contratação, bem como na data de  assinatura do
+contrato, independentemente do valor do instrumento contratual, é necessário verificar se há suspensão para licitar
+ou  contratar  com  a  CAIXA,  impedimento  de  licitar  ou  contratar  com  a  União  ou  declaração  de  inidoneidade,  ativas
+para a empresa a ser contratada, ou pessoas físicas ou jurídicas enquadradas no item  [MN, 3.1.11.5].
+
+4.6.1.1.1 Considera-se  como  data  de  assinatura  do  contrato,  a  data  em  que  ocorrer  a  aposição  de  assinatura  pela
+última parte.
+
+4.6.1.1.2 Nos contratos derivados de ARP, as consultas deverão ser realizadas apenas na data da assinatura.
+
+4.6.1.2 Estará impedida de ser contratada pela CAIXA a empresa:
+
+4.6.1.2.1 Cujo  administrador  ou  sócio  detentor  de  mais  de  5%  (cinco  por  cento)  do  capital  social  seja  diretor  ou
+empregado da CAIXA;
+
+a)  A  consulta  é  realizada  no  SILIC,  aba  “Fornecedores”,  opção  “Nepotismo”,  a  partir  do  CNPJ  da  empresa  para
+verificação  dos  sócios  e  do  CPF  do  administrador,  caso  este  não  faça  parte  do  quadro  societário.  No  caso  de
+contratação  de  Pessoa  Jurídica  constituída  como  MEI,  a  consulta  deve  ser  realizada  pelo  CPF  do
+microempreendedor individual.
+
+b)  Caso  o  administrador  ou  sócio  detentor  de  mais  de  5%  (cinco  por  cento)  do  capital  social  se  encontre  com
+
+contrato de trabalho ativo na CAIXA, a situação do vínculo deverá ser diligenciada junto à GETEM.
+
+c)  O  percentual  de  participação  societária  deve  ser  verificado  no  contrato  social/alterações  da  empresa  a  ser
+
+contratada.
+
+4.6.1.2.2 Suspensa pela CAIXA ou impedida de contratar no âmbito da União;
+
+a)  A consulta é realizada nas seguintes ferramentas:
+
+▪  SICAF, módulo “Consulta”, opção “Situação do Fornecedor”, relatório de Ocorrências Impeditivas Vigentes, a
+
+partir do CNPJ/CPF a ser contratado.
+
+▪ CEIS,  CNEP,  CEPIM  e  CNCIA  por  meio  da  página  de  Consultas  Restritivas,  a  partir  do  CNPJ/CPF  a  ser
+
+contratado.
+
+▪ No caso do CNCIA, deve ser verificado se consta no registro da pessoa física ou jurídica resposta “SIM” à pena
+
+de “Proibição de Contratar com o Poder Público”, pelo prazo assinalado.
+
+4.6.1.2.3 Declarada inidônea;
+
+a)  A consulta é realizada no CEIS e CNCIA por meio da página de Consultas Restritivas, a partir do CNPJ/CPF a
+
+ser contratado.
+
+4.6.1.2.4 Constituída por sócio de empresa que estiver suspensa, impedida ou declarada inidônea;
+
+a)  A  consulta  é  realizada  no  SICAF,  módulo  Consulta,  opção  Situação  do  Fornecedor,  relatório  de  Prováveis
+
+Impedimentos Indiretos, a partir do CNPJ/CPF a ser contratado.
+
+b)  Para verificar o impedimento, devem ser realizadas, no mínimo, as diligências abaixo relacionadas:
+
+▪ ao SICAF, módulo “Consulta”, opção “Quadro de Participação Societária/Administrativa”;
+
+▪ download dos contratos sociais da empresa a ser contratada e da empresa suspensa, impedida ou declarada
+inidônea por meio do SICAF, módulo Consulta, opção Níveis de Cadastramento, Consulta Nível II – Habilitação
+Jurídica.
+
+43 / 47
+
+▪ à empresa a ser contratada para ratificar/atualizar as informações cadastradas no SICAF, com a apresentação
+dos documentos que comprovem que o sócio da empresa a ser contratada não é sócio da empresa suspensa,
+impedida ou declarada inidônea.
+
+4.6.1.2.5 Cujo administrador seja sócio de empresa suspensa, impedida ou declarada inidônea;
+
+a)  A  consulta  é  realizada  no  SICAF,  módulo  “Consulta”,  opção  “Situação  do  Fornecedor”,  relatório  de  Prováveis
+
+Impedimentos Indiretos, a partir do CNPJ/CPF a ser contratado.
+
+b)  Para verificar o impedimento, devem ser realizadas, no mínimo, as diligências abaixo relacionadas:
+
+▪ ao SICAF, módulo “Consulta”, opção Quadro de Participação Societária/Administrativa;
+
+▪ à empresa a ser contratada, solicitando a apresentação de documentos comprobatórios de que o administrador
+
+não é sócio da empresa suspensa, impedida ou declarada inidônea.
+
+4.6.1.2.6 Constituída  por  sócio  ou  cujo  administrador  tenha  sido  sócio  ou  administrador  de  empresa  suspensa,
+impedida ou declarada inidônea, no período dos fatos que deram ensejo à sanção;
+
+a)  A  consulta  é  realizada  no  SICAF,  módulo  Consulta,  opção  Situação  do  Fornecedor,  relatório  de  Prováveis
+
+Impedimentos Indiretos, a partir do CNPJ/CPF a ser contratado.
+
+b)  Para verificar o impedimento, devem ser realizadas, no mínimo, as diligências abaixo relacionadas:
+
+▪ ao SICAF, módulo “Consulta”, opção “Quadro de Participação Societária/Administrativa”;
+
+▪ download dos contratos sociais da empresa a ser contratada e da empresa suspensa, impedida ou declarada
+inidônea  por  meio  do  SICAF,  módulo  “Consulta”,  opção  “Níveis  de  Cadastramento”,  Consulta  Nível  II  –
+Habilitação Jurídica.
+
+▪ à empresa a ser contratada para ratificar/atualizar as informações cadastradas no SICAF, com a apresentação
+dos documentos que comprovem que o sócio ou administrador da empresa a ser contratada não foi sócio ou
+administrador da empresa suspensa, impedida ou declarada inidônea no período dos fatos que deram ensejo
+à sanção.
+
+4.6.1.2.7 Que tiver, nos seus quadros de diretoria, pessoa que participou, em razão de vínculo de mesma natureza,
+de empresa declarada inidônea.
+
+a)  A  consulta  é  realizada  no  SICAF,  módulo  “Consulta”,  opção  “Situação  do  Fornecedor”,  relatório  de  Prováveis
+
+Impedimentos Indiretos, a partir do CNPJ/CPF a ser contratado.
+
+b)  Para verificar o impedimento, devem ser realizadas, no mínimo, as diligências abaixo relacionadas:
+
+▪ ao SICAF, módulo Consulta, opção Dirigentes;
+
+▪ à empresa a ser contratada para ratificar/atualizar as informações cadastradas no SICAF, com a apresentação
+dos  documentos  que  comprovem  que  o  dirigente  da  empresa  a  ser  contratada  não  atuou  como  dirigente  da
+empresa  declarada  inidônea  durante  o  período  de  vigência  da  sanção  ou  no  período  dos  fatos  que  deram
+ensejo à inidoneidade.
+
+4.6.1.2.8 Aplica-se a vedação prevista no subitem [MN, 3.1.11.1]:
+
+4.6.1.2.8.1 à contratação do próprio empregado ou dirigente, como pessoa física, bem como à participação dele em
+procedimentos licitatórios, na condição de licitante;
+
+a)  A consulta é realizada no SILIC, aba “Fornecedores”, opção “Nepotismo”, a partir do CPF da pessoa física a ser
+
+contratada.
+
+b)  Para verificar o impedimento, deve ser realizada diligência junto à GETEM para verificar se a pessoa física a ser
+
+contratada possui contrato de trabalho ativo com a CAIXA.
+
+4.6.1.2.8.2 a quem tenha relação de parentesco, até o terceiro grau civil, com:
+
+a)  dirigente CAIXA;
+
+▪ A consulta é realizada no SILIC, aba “Fornecedores”, opções “Nepotismo” e SICOW, a partir do CNPJ/CPF a
+ser contratado, para verificar se os sócios da empresa são relacionados como dependente de dirigente CAIXA
+ou parte relacionada; no caso de contratação  de  Pessoa Jurídica constituída como MEI,  a consulta deve ser
+realizada pelo CPF do microempreendedor individual.
+
+▪ Caso  a  consulta  SILIC  retorne  a  informação  de  parte  relacionada,  deve  ser  realizada  consulta  no  SICOW,
+módulo  Partes  Relacionadas,  para  verificar  se  a  parte  relacionada  é  referente  a  parentesco  com  dirigente
+CAIXA, hipótese em que a contratação estará impedida.
+
+b)  empregado CAIXA cujas atribuições envolvam a atuação na área responsável pela instrução da demanda, pela
+
+licitação ou pela contratação ou pela gestão formal, técnica ou operacional do contrato ;
+
+44 / 47
+
+▪  A  consulta  é  realizada  no  SILIC,  aba  “Fornecedores”,  opção  “Nepotismo”,  a  partir  do  CNPJ/CPF  a  ser
+contratado,  para  verificar  se  os  sócios  da  empresa  ou  a  pessoa  física  a  ser  contratada  é  relacionada  como
+dependente de empregado CAIXA; no caso de contratação de Pessoa Jurídica constituída como MEI, a consulta
+deve ser realizada pelo CPF do microempreendedor individual.
+
+▪ Caso o sócio da empresa ou a pessoa física a ser contratada seja relacionada como dependente de empregado
+CAIXA,  deve  ser  realizada  diligência  para  verificar  se  o  empregado  CAIXA  atua  na  área  responsável  pela
+instrução  da  demanda,  pela  licitação  ou  pela  contratação  ou  pela  gestão  formal,  técnica  ou  operacional  do
+contrato, hipótese em que a contratação estará impedida.
+
+c)  autoridade do Ministério da Fazenda.
+
+▪ A consulta é realizada no SICAF, módulo “Consulta”, opção “Situação do Fornecedor”, relatório de Situação do
+
+Fornecedor, Vínculo com “Serviço Público”.
+
+4.6.1.2.8.3 cujo  proprietário,  mesmo  na  condição  de  sócio,  tenha  terminado  seu  prazo  de  gestão  ou  rompido  seu
+vínculo com a CAIXA há menos de 6 (seis) meses.
+
+a)  A consulta é realizada no SILIC, aba “Fornecedores”, opção “Nepotismo”, a partir do CNPJ/CPF a ser contratado,
+para verificar se o proprietário ou sócio foi empregado CAIXA com contrato de trabalho encerrado a menos de 6
+meses.
+
+4.6.1.2.9 Com proibição para contratar com o Setor Público.
+
+a)  A consulta é realizada no SILIC, aba “Fornecedores”, opção “SICOW”, a partir do CNPJ/CPF a ser contratado,
+para verificar se há proibição para contratar com o setor público, hipótese em que a contratação estará impedida.
+
+4.6.1.2.10 Que seja empregador de Trabalho Escravo.
+
+a)  A  consulta  é  realizada  no  SILIC,  aba  “Fornecedores”,  opção  SICOW,  a  partir  do  CNPJ/CPF  a  ser  contratado,
+para verificar se a empresa ou pessoa física a ser contratada é empregador de trabalho escravo, hipótese em
+que a contratação estará impedida.
+
+4.6.1.2.11  A  CAIXA  não  se  relaciona  com  pessoas  físicas  ou  jurídicas  que  trazem  potencial  risco  de  imagem  e
+reputação à Instituição Financeira, conforme [MN, AD006].
+
+a)  A consulta é realizada no SILIC, aba “Fornecedores”, opção “SICOW”, a partir do CNPJ/CPF a ser contratado.
+Quando  se  tratar  de  S.A.,  realizar  também  a  consulta  do  CPF  dos  administradores  e  dirigentes.  Caso  tenha
+registro no campo PLD – Prevenção à Lavagem de Dinheiro, a contratação estará impedida.
+
+4.6.1.3 Em  relação  à  consulta  SICOW,  realizada  no  SILIC,  apenas  a  proibição  para  contratar  com  o  Setor  Público,
+Empregadores de Trabalho Escravos e PLD – Prevenção à Lavagem de Dinheiro são impeditivos para contratação.
+
+4.6.1.4 Em casos de indisponibilidade da página de Consultas Restritivas, as consultas referentes ao CEIS, CNEP e
+CEPIM poderão ser realizadas diretamente no Portal da Transparência do Governo Federal, módulo sanções.
+
+4.6.1.5 Quanto ao CNCIA, a consulta poderá ser realizada, diretamente, no site do CNJ, módulo Sistemas e Serviços,
+opção  Cadastro  Nacional  de  Condenados  por  Ato  de  Improbidade  Administrativa  e  por  Ato  que  Implique
+Inelegibilidade (CNCIA), Consultar Requerido/Condenação: Retorna os requeridos cadastrados no sistema, podendo -
+se detalhar suas respectivas condenações.
+
+4.6.1.6 Aplica-se  à  licitação  de  permissionário  lotérico  o  impedimento  à  pessoa  jurídica  ou  pessoa  física,  titular  e
+seus respectivos sócios, procuradores e administradores:
+
+4.6.1.6.1 que tenha permissão revogada compulsoriamente;
+
+a)  A consulta é realizada no SILIC, aba “Fornecedores”, opção “SICOW”, a partir do CPF/CNPJ a ser contratado.
+Caso a consulta retorne a informação no módulo CONRES  - R036 – CPF/CNPJ Penalidade Revog Compulsória
+UL – revogação compulsória de permissão lotérica no Cadastro Informativo de Pessoas Físicas e Jurídicas com
+relacionamento com a CAIXA, a contratação estará impedida.
+
+4.6.1.6.2 que  esteja  descredenciada  das  atividades  de  Correspondente  de  qualquer  instituição  financeira  por
+descumprimento contratual.
+
+a)  A consulta é realizada no SILIC, aba “Fornecedores”, opção “SICOW”, a partir do CPF/CNPJ a ser contratado.
+Caso a consulta retorne a informação no módulo CONRES  - R035 – Impedido ser contratado como CCA/UL, a
+contratação estará impedida.
+
+4.6.2
+
+REGULARIDADE FISCAL E TRABALHISTA
+
+4.6.2.1 A consulta é realizada no SICAF, módulo “Consulta”, opção “Situação do Fornecedor”, relatório de Situação
+do Fornecedor, nível III – Regularidade Fiscal e Trabalhista Federal, caso exigida.
+
+4.6.2.1.1 Na impossibilidade de consulta ao SICAF, seguem os sítios oficiais para a emissão das certidões:
+
+b)  Para Pessoa Jurídica:
+
+45 / 47
+
+▪ Cadastro Nacional de Pessoa Jurídica (CNPJ), mediante o Comprovante de Inscrição e de Situação Cadastral,
+link:
+
+a
+https://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp ;
+
+eletrônico
+
+realizada
+
+consulta
+
+oficial,
+
+pelo
+
+sítio
+
+no
+
+é
+
+▪ Certidão Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União ou Certidão
+Positiva com Efeitos de Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União,
+a consulta é realizada no sítio eletrônico oficial, pelo link:  Consultar certidões de regularidade fiscal emitidas
+— Português (Brasil) (www.gov.br), no item “ Etapas para a realização deste serviço”.
+
+▪ Certificado  de  Regularidade  do  FGTS,  a  consulta  é  realizada  no  sítio  eletrônico  oficial,  pelo  link:
+
+https://consulta-crf.caixa.gov.br/consultacrf/pages/consultaEmpregador.jsf
+
+▪ Certidão  Negativa  de  Débitos  Trabalhistas,  a  consulta  poderá  ser  feita  no  sítio  eletrônico  oficial,  pelo  link:
+
+Certidão Negativa de Débitos Trabalhistas (tst.jus.br).
+
+c)  Para Pessoa Física:
+
+▪ Cadastro de Pessoas Físicas (CPF), mediante o Comprovante de Inscrição e de Situação Cadastral, a consulta
+link:
+
+é
+sítio
+https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/consultapublica.asp ;
+
+eletrônico
+
+realizada
+
+oficial,
+
+pelo
+
+no
+
+▪ Certidão Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União ou Certidão
+Positiva com Efeitos de Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União,
+a consulta é realizada no sítio eletrônico oficial, pelo link:  Consultar certidões de regularidade fiscal emitidas
+— Português (Brasil) (www.gov.br), no item “ Etapas para a realização deste serviço”.
+
+▪ Comprovante de inscrição no INSS ou PIS/PASEP, emitida em conjunto com a certidão acima indicada.
+
+4.6.2.1.1.1 No caso de MEI sem empregados, fica dispensada a consulta ao Certificado de Regularidade do FGTS ,
+sendo substituída por declaração do fornecedor informando não ter empregados.
+
+4.6.3
+
+TRANSAÇÃO COM PARTES RELACIONADAS
+
+4.6.3.1 Deve ser realizada consulta no SILIC, aba “Fornecedores”, opção SICOW para verificação e monitoramento
+das contratações envolvendo Partes Relacionadas, conforme  [MN, CR464].
+
+4.6.3.1.1 Deve  ser  consultado  o  CPF  do  contratado,  se  pessoa  física,  ou  CNPJ,   se  pessoa  jurídica,  com  vistas  a
+identificar fornecedores que se enquadrem na definição de Partes Relacionadas do  [MN, CR464].
+
+4.6.3.1.1.1 No caso de fornecedor Pessoa Jurídica, a consulta realizada pelo SILIC apresenta o resultado do SICOW
+- Partes Relacionadas para todos os sócios do CNPJ consultado.
+
+4.6.3.1.1.2 No caso de contratação de Pessoa Jurídica constituída como MEI, a consulta deve ser realizada pelo CPF
+do microempreendedor individual.
+
+4.6.3.1.2 Na indisponibilidade do SILIC a referida consulta poderá ser realizada via:
+
+▪ SIPES, opção SICOW – http://sipes.caixa;
+
+▪ SICOW, módulo Partes Relacionadas – http://sicow.caixa/sicow-portal/pages/home.cef; ou
+
+▪ Compliance.CAIXA – http://compliance.caixa/tpr/.
+
+4.6.3.1.2.1 No caso de fornecedor Pessoa Jurídica, quando a consulta for realizada pelos sistemas indicados no item
+4.6.3.1.2, além do  CNPJ do fornecedor, deve ser realizada, individualmente, a pesquisa do CNPJ/CPF de todos os
+sócios da empresa.
+
+4.6.4
+
+REGULARIDADE CADASTRAL
+
+4.6.4.1 A consulta ao  CADIN é  realizada no SILIC, aba  “Fornecedores”, opção  CADIN , e  o registro de ocorrência é
+impeditivo para a contratação.
+
+4.6.5
+
+ATENDIMENTO À CIRCULAR BACEN 3978/2020 – CONHEÇA SEU FORNECEDOR
+
+4.6.5.1 Para todas as contratações, as consultas realizadas para verificação dos impedimentos para contratação, de
+acordo com o item [MN, 4.6.1] e subitens, e as consultas realizadas para verificação da regularidade do fornecedor,
+conforme os itens [MN, 4.6.2] a [MN, 4.6.4], bem como eventuais diligências, devem ser unificadas em arquivo único
+PDF e incluídas como  Anexo do Instrumento Contratual, no formulário de arquivo anexo do Instrumento  Contratual
+do SICLG:
+
+4.6.5.1.1 Para  o  correto  arquivamento  e  tratamento  das  informações,  o  anexo,  contendo  as  referidas  consultas  e
+diligências, se for o caso, deve ser cadastrado no Tipo: “Regularidade do Fornecedor” e opção “Classificação do Grau
+de Sigilo: Público”.
+
+46 / 47
+
+4.6.5.1.2 Na aba Instrumento Contratual não devem ser disponibilizados arquivos na extensão ".zip".
+
+4.6.6
+
+RISCOS SOCIAIS, AMBIENTAIS, CLIMÁTICOS E RISCO DE TERCEIROS NO CONTRATO
+
+4.6.6.1 Para  registro  no  SICLG,  deve  ser  solicitada  manifestação  do  Gestor  sobre  potenciais  riscos  sociais,
+ambientais ou climáticos para a CAIXA apresentados pelo objeto e/ou fornecedor do futuro contrato.
+
+4.6.6.1.1 Aplica-se o [MN, 4.6.6.1] para contratos vinculados a aquisições de bens, serviços e obras para a CAIXA.
+
+4.6.6.1.2 Estão  dispensadas  da  rotina  indicada  no  item  [MN,  4.6.6.1]  os  contratos  de  locação,  cessão  e  comodato,
+bem como contrato de permissionários lotéricos, contratos advindos de credenciamento e  contratações para fundos.
+
+4.6.6.1.3 Em caso de dúvidas o [MN, CR553] pode ser consultado.
+
+4.6.6.1.4 A  solicitação  de  manifestação  deve  ser  enviada  ao  Gestor  demandante  até  a  data  de  convocação  da
+empresa para assinatura do contrato e os campos correspondentes no SICLG deverão ser ajustados no momento do
+cadastramento do contrato assinado de acordo com a  manifestação recebida.
+
+4.6.6.2 Deve  ser  realizada  consulta  ao  IBAMA  e  ICMBio  por  meio  da  página  de  Consultas  Restritivas,  a  partir  do
+CNPJ/CPF a ser contratado, para conferência de irregularidades ambientais.
+
+4.6.6.2.1 O resultado é juntado às demais consultas de regularidade do fornecedor e anexada no SICLG, e o campo
+correspondente no SICLG deve ser preenchido quando do cadastramento do contrato assinado.
+
+4.6.6.3 Deve  ser  verificado  se  o  CNAE  principal  do  fornecedor  está  listado  no  [MN,  AE124],  apensado  “Lista  de
+CNAES”, que traz a relação de CNAES de empresas sujeitas à apresentação de licença ambiental.
+
+4.6.6.3.1 O CNAE principal da empresa pode ser encontrado no Comprovante de Inscrição e de Situação Cadastral
+disponibilizado pela Receita Federal, ou no documento de constituição da empresa.
+
+4.6.6.3.2 Quando  o  fornecedor  for  sujeito  ao  Licenciamento  Ambiental,  a  informação  deve  ser  encaminhada  para  o
+gestor demandante como subsídio para identificação dos riscos  quando da solicitação de manifestação detalhada no
+item [MN, 4.6.6.1].
+
+4.6.6.3.3 O resultado da pesquisa deve ser registrado no campo correspondente do SICLG, quando do cadastramento
+do contrato assinado.
+
+4.6.6.4 Deve  ser  realizada  consulta  à  Lista  de  Terceiros  Relevantes  definida  pela  GEREP,  nos  termos  do  [MN,
+CR555],  disponível  no  endereço  https://contratos.caixa/informacoesgerenciais/?a=fornecedor_relevante ,  a  partir  do
+CNPJ/CPF a ser contratado.
+
+4.6.6.4.1 O resultado da pesquisa deve ser registrado no campo correspondente do SICLG quando do cadastramento
+do contrato assinado.
+
+5
+
+ANEXOS
+
+5.1 Anexo I – Guia Rápido
+
+5.2 Anexo II – Padrões técnicos para digitalização de documentos.
+
+5.3 Anexo III – Lista de documentos para compor o processo
+
+5.4 Anexo IV – Roteiro para Elaboração de Estudo Preliminar
+
+5.5 Anexo V – Lista para verificação de apólice de seguro garantia
+
+47 / 47

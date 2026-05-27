@@ -26,9 +26,6 @@ Arquivo analisado: {nome_pdf}
 Este diretório contém os resultados produzidos pelo NRPP
 (Normative-to-Record Preprocessing Pipeline).
 
-## ENTRADA
-Documento normativo original utilizado na análise.
-
 ## EXTRACAO_TEXTO
 Texto bruto extraído do PDF.
 
@@ -77,13 +74,11 @@ def processar_pdf(args):
     rel_parent = pdf_path.parent.relative_to(raiz_processamento)
     pasta_resultado = raiz_processamento / "NRPP_RESULTADOS" / rel_parent / nome
 
-    entrada = pasta_resultado / "ENTRADA"
     texto_dir = pasta_resultado / "EXTRACAO_TEXTO"
     inter = pasta_resultado / "INTERMEDIARIOS"
     audit = pasta_resultado / "AUDITORIA_PIPELINE"
     produto = pasta_resultado / "PRODUTO_FINAL"
 
-    entrada.mkdir(parents=True, exist_ok=True)
     texto_dir.mkdir(parents=True, exist_ok=True)
     inter.mkdir(parents=True, exist_ok=True)
     audit.mkdir(parents=True, exist_ok=True)
@@ -94,9 +89,6 @@ def processar_pdf(args):
         rel_pdf = pdf_path.relative_to(raiz_processamento)
 
         print(f"\nProcessando: {rel_pdf}")
-
-        # copiar PDF original
-        shutil.copy(pdf_path, entrada / pdf_path.name)
 
         # -------------------
         # pipeline NRPP

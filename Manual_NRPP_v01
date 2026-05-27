@@ -1,0 +1,576 @@
+% ==========================================================
+% MANUAL OPERACIONAL NRPP – CAIXA
+% ==========================================================
+\title{%
+Manual Operacional\\
+Normative-to-Record Preprocessing Pipeline (NRPP)\\
+Aplicação Institucional – CAIXA
+}
+
+\author{Osvaldo Jeronymo Neto}
+\date{\today}
+
+\maketitle
+
+% ==========================================================
+\begin{abstract}
+O pipeline de pré-processamento Normative-to-Record (NRPP) é uma ferramenta metodológica concebida para facilitar a extração estruturada de informações a partir de normativos institucionais da CAIXA, visando à organização sistemática de evidências documentais e à preparação para etapas subsequentes de análise arquivística.
+
+Diante do aumento na complexidade e no volume do acervo normativo institucional, torna-se necessário implementar procedimentos padronizados capazes de reduzir a complexidade textual e organizar as informações presentes nos normativos, identificar unidades normativas e estruturar elementos relevantes de forma auditável e replicável. O NRPP foi desenvolvido em resposta a essa demanda, garantindo rigor metodológico e a separação entre operações técnicas de extração e decisões arquivísticas especializadas.
+
+Este manual operacional define os procedimentos necessários para a aplicação do NRPP em ambiente institucional, assegurando sua execução uniforme, rastreável e independente de atores específicos. O documento destina-se às equipes autorizadas da CAIXA envolvidas na implementação do procedimento, servindo como referência para sua realização operacional.
+
+\noindent\textbf{Termos para indexação:} normativos institucionais; extração de informação;
+governança arquivística; análise documental; processamento textual.
+
+\end{abstract}
+\clearpage
+
+% ==========================================================
+\section*{Apresentação}
+
+A Caixa Econômica Federal (CAIXA) mantém um amplo conjunto de manuais normativos que orientam a execução de suas atividades administrativas, operacionais e estratégicas. Esses normativos estabelecem responsabilidades institucionais, descrevem processos organizacionais e frequentemente indicam registros, documentos ou artefatos informacionais que devem ser produzidos ao longo da execução das atividades institucionais.
+
+A análise arquivística desses normativos constitui etapa essencial para a compreensão da produção documental associada aos processos institucionais. Entretanto, em organizações de grande porte como a CAIXA, o volume e a complexidade do acervo normativo tornam essa atividade particularmente desafiadora. A identificação sistemática dos documentos mencionados ou implicitamente requeridos pelas normas exige leitura detalhada, interpretação especializada e elevado esforço cognitivo por parte dos analistas.
+
+No contexto do projeto de pesquisa desenvolvido em parceria entre a CAIXA e a Universidade de Brasília (UnB), surgiu a necessidade de explorar abordagens metodológicas capazes de apoiar essa etapa inicial de identificação de evidências documentais presentes nos normativos institucionais. Como resposta a esse desafio, foi desenvolvido o \textit{Normative-to-Record Preprocessing Pipeline} (NRPP), um pipeline de pré-processamento textual concebido para estruturar informações extraídas de textos normativos de forma rastreável, auditável e reproduzível.
+
+O NRPP foi projetado como uma ferramenta metodológica de apoio à análise documental. Seu objetivo é transformar textos normativos em evidências estruturadas que possam posteriormente ser examinadas por pesquisadores, analistas e especialistas em gestão documental. O método foi deliberadamente concebido de forma conservadora, preservando a separação entre operações técnicas de extração e organização de informações — realizadas pelo pipeline — e as atividades interpretativas e decisórias próprias da análise arquivística especializada.
+
+Este manual apresenta o procedimento operacional para aplicação do NRPP em normativos institucionais da CAIXA, descrevendo sua arquitetura metodológica, os requisitos de execução, os artefatos produzidos e os cuidados necessários para garantir rastreabilidade e reprodutibilidade do processamento.
+
+Como demonstração inicial do método, o pipeline foi aplicado a manuais normativos da categoria Administração (AD) vinculados à Superintendência Nacional de Segurança Física e Patrimonial (SUSEG), no âmbito da Vice-Presidência de Logística, Operações e Segurança (VILOS). Esse experimento constitui apenas um recorte inicial dentro de um universo normativo significativamente mais amplo existente na instituição, composto por diversos tomos normativos que abrangem diferentes áreas de atuação da CAIXA.
+
+Nesse sentido, o NRPP deve ser compreendido como um instrumento metodológico inicial destinado a apoiar a organização sistemática das evidências documentais presentes nos normativos institucionais, criando condições para análises posteriores em escala institucional.
+
+% ==========================================================
+\section{Objetivo}
+Definir o procedimento operacional padrão para a implementação do Normative-to-Record Preprocessing Pipeline (NRPP) em normativos institucionais da CAIXA, garantindo:
+
+\begin{itemize}
+    \item Reprodutibilidade técnica;
+    \item Rastreabilidade completa das transformações realizadas;
+    \item Padronização institucional na extração de dados estruturados;
+    \item Independência na execução por equipes autorizadas.
+\end{itemize}
+
+% ==========================================================
+\section{Base normativa e enquadramento institucional}
+
+A aplicação do Normative-to-Record Preprocessing Pipeline (NRPP)
+está alinhada aos princípios de governança da informação,
+gestão documental e transparência administrativa adotados
+pela CAIXA.
+
+O procedimento descrito neste manual observa os seguintes
+princípios institucionais:
+
+\begin{itemize}
+    \item rastreabilidade das informações institucionais;
+    \item integridade e autenticidade dos registros documentais;
+    \item padronização de procedimentos operacionais;
+    \item separação entre processamento automatizado e decisão técnica especializada;
+    \item auditabilidade das transformações realizadas sobre os documentos institucionais.
+\end{itemize}
+
+A aplicação do NRPP constitui procedimento técnico de apoio à
+organização de evidências documentais presentes nos normativos
+institucionais, não substituindo as atribuições formais das áreas
+responsáveis pela gestão arquivística, governança da informação
+e gestão normativa.
+
+\section{Arquitetura metodológica do NRPP}
+
+O NRPP é estruturado em cinco estágios operacionais sequenciais, que
+transformam o documento normativo bruto em artefatos estruturados
+destinados à validação humana.
+
+\begin{itemize}
+    \item \textbf{A1 — Extração textual}: conversão do PDF para texto bruto.
+    \item \textbf{A2 — Normalização}: limpeza e padronização do texto.
+    \item \textbf{A3 — Segmentação normativa}: identificação das unidades normativas.
+    \item \textbf{A4 — Detecção documental}: identificação de evidências e indícios documentais.
+    \item \textbf{A5 — Estruturação tabular}: geração da planilha estruturada para validação humana.
+\end{itemize}
+
+% ==========================================================
+\section{Escopo}
+Aplicação do NRPP aos Manuais Normativos (MN) obtidos no \href{https://normas.caixa}{sistema de normas da CAIXA}. A consulta aos normativos foi realizada no \href{https://normas.caixa}{sistema de normas da CAIXA} a consulta aos normativos por unidade gestora. Assim, foi realizada consulta aos manuais normativos vinculados a Vice-Presidência de Logística, Operações e Segurança (VILOS), especificamente aqueles vinculados a Diretoria Executiva de Logística, Contratação e Segurança (DELOS). 
+
+Sendo que, os exemplos ilustrativos mostrados neste manual abarcarão somente os manuais normativos do tipo administração vinculados a Superintendência Nacional de Segurança Física e Patrimonial (SUSEG). Portanto, o escopo deste manual não inclui a avaliação arquivística, a definição de temporalidade e destinação documental.
+
+% ==========================================================
+\section{Condições de aplicação}
+
+\subsection*{Definições operacionais}
+
+Para fins deste manual, considera-se:
+
+\begin{itemize}
+    \item NRPP: pipeline metodológico composto pelos Estágios A1–A5.
+    \item Unidade normativa: menor segmento textual com prescrição autônoma.
+    \item Evidência documental explícita: documento nominalmente citado no texto.
+    \item Indício documental: ocorrência verbal que implique registro formal.
+    \item Artefato A5: planilha estruturada destinada à validação humana guiada.
+\end{itemize}
+
+\subsection*{Condições de acesso}
+
+A aplicação do NRPP requer:
+
+\begin{itemize}
+    \item Acesso ao sistema de normas da CAIXA;
+    \item Permissão de leitura aos normativos selecionados;
+    \item Acesso ao SharePoint institucional;
+    \item Acesso ao glossário institucional vigente.
+\end{itemize}
+
+\subsection*{Requisitos de ambiente e infraestrutura}
+
+O NRPP pode ser executado em:
+
+\begin{itemize}
+    \item Ambiente Linux;
+    \item Ambiente Windows com WSL habilitado;
+    \item Ambiente Windows com Python e dependências instaladas.
+\end{itemize}
+
+Quando utilizados scripts auxiliares em formato Bash (.sh), requer-se ambiente compatível com GNU Bash, sed, awk e utilitário pdftotext (Poppler). Adicionalmente, o executor deverá dispor de:
+
+\begin{itemize}
+    \item Python 3.10 ou superior;
+    \item Ambiente virtual configurado;
+    \item Scripts NRPP atualizados;
+    \item Pasta local estruturada para execução.
+\end{itemize}
+
+% ==========================================================
+\section{Constituição da massa de teste}
+A aplicação inicial do NRPP requer a definição explícita de uma massa de teste, composta por normativos obtidos diretamente do sistema oficial de normas da CAIXA. A constituição dessa massa deve observar critérios de rastreabilidade, integridade documental e reprodutibilidade.
+
+Para fins deste manual, adotou-se como recorte metodológico os Manuais Normativos (MN) do tipo Administração (AD) vinculados à Superintendência Nacional de Segurança Física e Patrimonial (SUSEG), no âmbito da Vice-Presidência de Logística, Operações e Segurança (VILOS). A seleção foi realizada mediante consulta por unidade gestora no sistema de normas da CAIXA, assegurando que:
+
+\begin{itemize}
+    \item Os normativos estejam formalmente vigentes na data da extração;
+    \item As versões correspondam às últimas publicadas no sistema;
+    \item A origem do documento seja institucionalmente verificável;
+    \item A captura preserve integridade do arquivo em formato PDF texto-nativo.
+\end{itemize}
+
+A massa de teste aqui descrita constitui exemplo ilustrativo e replicável, podendo ser reconstituída por qualquer executor autorizado mediante aplicação dos mesmos critérios.
+
+\subsection*{MNs do tipo AD da SUSEG separado por gerência nacional}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{p{3cm} p{10cm}}
+\toprule
+Gerência & MN AD Vinculados \\
+\midrule
+GEMSE & AD 002 v024; AD 228 v033; AD 218 v017; AD 196 v024; AD 134 v032; AD 100 v044; AD 061 v102 \\
+\midrule
+GESED & AD 285 v003; AD 060 v070; AD 211 v028; AD 215 v031 \\
+\midrule
+GESEP & AD 004 v037; AD 005 v040; AD 032 v041; AD 033 v051; AD 034 v057; AD 035 v048; AD 036 v033; AD 037 v037; AD 038 v034; AD 041 v040; AD 132 v030; AD 137 v023; AD 147 v019; AD 154 v009; AD 158 v021; AD 188 v026; AD 239 v013; AD 258 v009; AD 260 v013; AD 294 v002 \\
+\bottomrule
+\end{tabular}
+
+\caption{MNs de Administração (AD) vinculados às gerências da SUSEG}
+\end{table}
+
+\subsection*{Corpus efetivamente analisado}
+
+O NRPP foi aplicado aos MNs AD aos quais houve acesso formal no momento da execução.
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{p{3cm} p{10cm}}
+\toprule
+Gerência & Manuais AD analisados \\
+\midrule
+GEMSE & AD 002 v024; AD 228 v033; AD 218 v017; AD 196 v024; AD 134 v032; AD 100 v044; AD 061 v102 \\
+\midrule
+GESED & AD 285 v003; AD 060 v070; AD 211 v028; AD 215 v031 \\
+\midrule
+GESEP & AD 004 v037; AD 005 v040; AD 032 v041; AD 033 v051; AD 034 v057; AD 035 v048; AD 036 v033; AD 037 v037; AD 038 v034; AD 041 v040; AD 132 v030; AD 137 v023; AD 147 v019; AD 154 v009; AD 188 v026; AD 239 v013; AD 258 v009; AD 294 v002 \\
+\bottomrule
+\end{tabular}
+\caption{Corpus efetivamente analisado pelo NRPP}
+\end{table}
+
+\subsection*{Manuais não analisados por restrição de acesso}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{p{4cm} p{9cm}}
+\toprule
+Manual & Motivo da não aplicação \\
+\midrule
+AD 158 v021 & Acesso restrito a grupo específico definido pelo gestor do documento (GESEP) \\
+AD 260 v013 & Acesso restrito a grupo específico definido pelo gestor do documento (GESEP) \\
+\bottomrule
+\end{tabular}
+\caption{Manuais AD não analisados em razão de restrição formal de acesso}
+\end{table}
+
+\subsection*{Arquivos disponibilizados}
+Nesta etapa mostra-se alocação no Sharepoint CAIXA dos arquivos utilizados para aplicação do NRPP. 
+
+\paragraph{Estrutura de armazenamento institucional:}
+
+os arquivos utilizados na aplicação do NRPP são armazenados no ambiente corporativo SharePoint da CAIXA, na área destinada ao projeto NRPP, organizados conforme estrutura lógica abaixo:
+
+\paragraph{Estrutura lógica dos arquivos extraídos:}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{ll}
+\toprule
+Nível & Diretório \\
+\midrule
+1 & O365GRP-Projects \\
+2 & Documentos \\
+3 & NRPP \\
+4 & scripts / SUSEG\\
+5 & GEMSE / GESED / GESEP \\
+6 & AD / FI / MO / OP / PC\\
+\bottomrule
+\end{tabular}
+\caption{Estrutura institucional de armazenamento dos arquivos NRPP}
+\end{table}
+
+os arquivos extraídos do sistema de normas CAIXA estão no formato 'PDF' seguindo a convenção de nomenclatura mostrada a seguir:
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{ll}
+\toprule
+Elemento & Significado \\
+\midrule
+AD & Tipo normativo \\
+002 & Número do manual \\
+024 & Versão vigente \\
+\bottomrule
+\end{tabular}
+\caption{Convenção de nomenclatura dos arquivos PDF}
+\end{table}
+
+% ==========================================================
+\section{Execução no ambiente CAIXA}
+Considerando que o ambiente corporativo predominante na CAIXA é Windows e que os arquivos utilizados no NRPP encontram-se armazenados no SharePoint institucional, estabelece-se o seguinte procedimento padrão para execução operacional.
+
+\subsection*{Sincronização dos arquivos}
+Os diretórios do projeto NRPP no SharePoint deverão ser sincronizados localmente por meio do cliente institucional do OneDrive. Após a sincronização, os arquivos estarão disponíveis em diretório local do usuário, tipicamente em caminho semelhante a:
+
+\begin{quote}
+\ttfamily
+C:\textbackslash Users\textbackslash c000000\textbackslash Caixa Economica Federal\textbackslash O365GRP-Projects - NRPP
+\end{quote}
+
+A sincronização garante:
+\begin{itemize}
+    \item Acesso local aos arquivos PDF;
+    \item Atualização automática de versões;
+    \item Preservação da estrutura institucional de armazenamento.
+\end{itemize}
+
+\subsection*{Preparação do ambiente local de execução}
+Recomenda-se a criação de diretório local exclusivo para execução do NRPP, separado da pasta sincronizada, a fim de evitar conflitos de sincronização durante a geração de arquivos intermediários.
+
+Exemplo:
+\begin{quote}
+\ttfamily
+C:\textbackslash NRPP\_EXEC\
+\end{quote}
+
+Nesse diretório deverão estar:
+\begin{itemize}
+    \item Arquivos da pasta \texttt{scripts};
+    \item Subpasta \texttt{pdfs/} contendo os normativos a serem processados;
+    \item Subpasta \texttt{output/} para armazenamento dos resultados.
+\end{itemize}
+
+\subsection*{Ambiente recomendado de execução}
+A execução do NRPP deverá ocorrer em ambiente local Windows com Python instalado (versão 3.10 ou superior), preferencialmente utilizando o Visual Studio Code (VSCode).
+
+O VSCode é recomendado por:
+\begin{itemize}
+    \item Terminal integrado;
+    \item Facilidade de execução de scripts Python;
+    \item Visualização imediata de logs;
+    \item Redução de barreira técnica para usuários não especializados.
+\end{itemize}
+
+% ==========================================================
+\section{Instalação e primeira execução}
+
+Esta seção estabelece o procedimento padronizado para preparação do ambiente e execução inicial do pipeline NRPP em ambiente local. As instruções foram elaboradas para garantir reprodutibilidade, estabilidade operacional e rastreabilidade técnica.
+
+\subsection*{Ambiente homologado}
+
+Para assegurar a execução consistente do NRPP, recomenda-se a utilização do seguinte ambiente homologado:
+\begin{itemize}
+    \item Sistema operacional: Windows 10 ou superior;
+    \item Python: versão 3.10.x ou 3.11.x;
+    \item Editor recomendado: Visual Studio Code (VSCode);
+    \item Gerenciador de pacotes: pip (atualizado).    
+\end{itemize}
+
+{\color{orange}\faExclamationTriangle}\ \textbf{Atenção:} versões mais recentes do Python (ex.: 3.12 ou superior) podem apresentar incompatibilidades com algumas dependências do projeto.
+
+\subsection*{Verificação do ambiente Python}
+
+Antes de executar o pipeline, é necessário verificar se o Python está
+instalado no computador. Para verificar a versão do Python digite no terminal:
+
+\texttt{python ---version}. 
+
+Caso a versão não esteja compatível com o ambiente homologado, recomenda-se a instalação de uma versão suportada.
+
+\subsection*{Criação de ambiente virtual (recomendado)}
+Caso o usuário deseje isolar as dependências do projeto, pode ser criado um ambiente virtual Python.
+\begin{verbatim}
+python -m venv nrpp_env
+nrpp_env\Scripts\activate
+\end{verbatim}
+
+Após ativação, atualizar o gerenciador de pacotes:
+\begin{verbatim}
+pip install --upgrade pip
+\end{verbatim}
+
+\subsection*{Instalação das dependências}
+
+As dependências do NRPP estão definidas no arquivo requirements.txt, que consolida versões testadas e validadas no ambiente homologado.
+
+Executar:
+\begin{verbatim}
+pip install -r requirements.txt
+\end{verbatim}
+
+\noindent O uso de ambiente virtual é recomendado em ambientes de desenvolvimento, mas não é obrigatório para execução do pipeline. O arquivo de dependências do projeto possui a seguinte estrutura:
+
+\begin{verbatim}
+pdfminer.six==20221105
+pandas==2.2.2
+numpy==1.26.4
+tqdm==4.66.4
+regex==2024.5.15
+python-dateutil==2.9.0
+openpyxl==3.1.2
+\end{verbatim}
+
+{\color{orange}\faExclamationTriangle}\ \textbf{Nota técnica:} 
+O arquivo requirements.txt utiliza versões fixadas com o objetivo de garantir reprodutibilidade. Em ambientes não homologados, pode ser necessário ajuste manual de versões.
+
+\noindent Essas bibliotecas são utilizadas para:
+
+\begin{itemize}
+    \item \textbf{pdfminer.six} — extração de texto de arquivos PDF;
+    \item \textbf{pandas} — manipulação de tabelas e dados estruturados;
+    \item \textbf{numpy} — suporte a operações numéricas utilizadas no pipeline;
+    \item \textbf{tqdm} — exibição de barra de progresso durante o processamento;
+    \item \textbf{regex} — tratamento avançado de expressões regulares;
+    \item \textbf{python-dateutil} — interpretação e normalização de datas;
+    \item \textbf{openpyxl} — exportação e leitura de arquivos Excel.
+\end{itemize}
+
+
+\subsection*{Estrutura mínima de diretórios}
+
+Antes da execução, o ambiente local deverá conter a seguinte estrutura:
+
+\begin{verbatim}
+NRPP_EXEC/
+│
+├── scripts/
+├── pdfs/
+└── output/
+\end{verbatim}
+
+\noindent Onde 
+\begin{itemize}
+    \item scripts/: arquivos do pipeline NRPP
+    \item pdfs/: documentos normativos a serem processados
+    \item output/: diretório de saída dos artefatos gerados
+\end{itemize}
+
+\subsection*{Execução do pipeline}
+
+Com o ambiente preparado, executar o script principal:
+
+\begin{verbatim}
+python orchestrator.py pdfs
+\end{verbatim}
+
+\noindent Durante a execução, o sistema exibirá logs de progresso indicando:
+
+\begin{itemize}
+    \item arquivos em processamento;
+    \item etapas do pipeline (A1 a A5);
+    \item eventuais alertas ou inconsistências.
+\end{itemize}
+
+\noindent Durante a execução serão exibidas mensagens de progresso indicando
+o processamento de cada documento. Ao final da execução serão gerados os artefatos estruturados na pasta \texttt{output/}.
+
+\subsection*{Saídas geradas pelo pipeline}
+
+A execução do NRPP processa todos os arquivos PDF presentes no diretório \texttt{pdfs/}. 
+Os resultados são organizados em artefatos intermediários correspondentes aos estágios do pipeline, identificados como A1 a A5.
+
+\begin{itemize}
+    \item \textbf{A1 — Normalização textual}: arquivos contendo o texto extraído e normalizado a partir dos PDFs processados.
+
+    \item \textbf{A2 — Segmentação estrutural}: arquivos com a divisão do texto em unidades estruturais identificadas no documento.
+
+    \item \textbf{A3 — Identificação de pistas semânticas}: registros das evidências documentais e referências identificadas no texto.
+
+    \item \textbf{A4 — Normalização guiada por glossário}: arquivos com os termos normalizados de acordo com o vocabulário controlado definido no glossário.
+
+    \item \textbf{A5 — Estruturação orientada à validação humana}: planilha estruturada que consolida os resultados do processamento e permite revisão e validação manual.
+\end{itemize}
+
+\noindent Lembrando que os documentos PDFs a serem processados devem ser colocados na pasta:
+
+\begin{verbatim}
+pdfs/
+\end{verbatim}
+
+% ==========================================================
+\section{Checklist de validação}
+Antes de encerrar a execução, confirmar:
+\begin{itemize}
+    \item Verificar se todos os PDFs foram processados;
+    \item Confirmar geração do artefato A5;
+    \item Verificar ausência de erros críticos no terminal;
+    \item Conferir número de segmentos gerados por documento.
+\end{itemize}
+
+% ==========================================================
+\section*{Critérios de Aceitação da Execução}
+
+A aplicação do NRPP será considerada tecnicamente válida quando:
+\begin{itemize}
+    \item A segmentação apresentar coerência estrutural;
+    \item O artefato A5 estiver completo;
+    \item As métricas forem consolidadas;
+    \item O registro de execução estiver devidamente preenchido.
+\end{itemize}
+
+% ==========================================================
+\section{Controle de versão}
+
+Registrar em planilha interna:
+\begin{itemize}
+    \item Data da execução;
+    \item Versão do pipeline;
+    \item Versão do glossário;
+    \item Executor;
+    \item Manual processado.
+\end{itemize}
+
+% ==========================================================
+\section{Rastreabilidade e trilha de auditoria}
+Todas as execuções do NRPP devem gerar registros que permitam a reconstrução integral do processamento realizado sobre os documentos normativos. Para garantir a rastreabilidade do procedimento, deverão ser preservados os seguintes artefatos:
+
+\begin{itemize}
+    \item versão do pipeline utilizado na execução;
+    \item versão do glossário aplicado;
+    \item arquivos PDF de origem utilizados no processamento;
+    \item artefatos intermediários gerados durante o processamento;
+    \item planilhas estruturadas geradas na etapa A5.
+\end{itemize}
+
+Esses registros constituem a trilha de auditoria do procedimento, permitindo a verificação posterior das transformações aplicadas sobre os documentos normativos. A preservação desses artefatos garante que o processamento realizado seja reproduzível, verificável e auditável.
+
+% ==========================================================
+\section{Problemas frequentes}
+Durante a execução do NRPP podem ocorrer algumas situações que
+comprometem parcial ou totalmente o processamento automático dos
+documentos normativos. Esta seção apresenta os problemas mais comuns
+identificados durante a aplicação do pipeline, bem como orientações
+iniciais para sua verificação e registro.
+
+\subsection*{PDF escaneado}
+Arquivos PDF gerados por digitalização de imagens não contêm texto
+estruturado, o que impede sua leitura direta pelo pipeline. O NRPP não realiza processamento OCR automaticamente. Nesses casos, recomenda-se verificar a origem do arquivo e, se necessário, substituí-lo por uma versão com texto incorporado.
+
+\subsection*{Falha na segmentação}
+Problemas na segmentação do texto podem ocorrer quando a numeração hierárquica do documento apresenta inconsistências ou desvios em relação ao padrão esperado. Nesses casos, recomenda-se verificar manualmente a estrutura de numeração do documento normativo.
+
+\subsection*{Glossário sem cobertura}
+Em algumas situações, determinados termos identificados durante o processamento podem não possuir correspondência no glossário utilizado. Quando isso ocorrer, a recomendação é registrar a ocorrência como ``não encontrado'' e encaminhar a informação para análise posterior.
+
+% ==========================================================
+\section{Gestão de riscos operacionais}
+
+A aplicação do NRPP envolve riscos operacionais associados
+ao processamento automatizado de documentos normativos.
+A identificação desses riscos permite a adoção de medidas
+preventivas e de mitigação. Os principais riscos identificados são:
+
+\begin{itemize}
+    \item processamento de documentos em formato não compatível
+(como PDFs digitalizados sem camada textual);
+    \item inconsistências estruturais nos normativos que possam
+comprometer a segmentação automática;
+    \item ausência de termos relevantes no glossário utilizado;
+    \item falhas de execução decorrentes de ambiente computacional
+inadequado;
+    \item divergências entre a extração automatizada e a interpretação
+normativa humana.
+\end{itemize}
+
+\noindent A mitigação desses riscos ocorre por meio de:
+
+\begin{itemize}
+    \item validação humana dos artefatos produzidos na etapa A5;
+    \item manutenção e atualização periódica do glossário utilizado;
+    \item verificação prévia da integridade dos documentos normativos.
+\end{itemize}
+
+% ==========================================================
+\section{Responsabilidades}
+A execução do NRPP envolve diferentes papéis institucionais,
+responsáveis por assegurar a correta aplicação do pipeline e a
+validação dos resultados produzidos. A separação dessas responsabilidades
+garante rastreabilidade do processo e preserva a distinção entre
+processamento automatizado e decisão arquivística. Os principais papéis envolvidos são:
+
+\begin{itemize}
+    \item \textbf{Executor técnico}: responsável pela aplicação do pipeline
+NRPP e pela condução do processamento automatizado dos documentos;
+    \item \textbf{Validador humano}: responsável pela revisão dos resultados
+produzidos na etapa A5, verificando a consistência das informações
+extraídas;
+    \item \textbf{Arquivista}: responsável pela análise arquivística
+posterior e pela tomada de decisões relacionadas à classificação,
+avaliação e destinação documental.
+\end{itemize}
+
+% ==========================================================
+\section{Limites do NRPP}
+O NRPP foi concebido como um instrumento de apoio à extração e
+organização de informações presentes nos documentos normativos da
+CAIXA. Sua função é auxiliar a preparação dos dados para análise
+posterior, sem substituir as atividades de interpretação normativa
+ou avaliação arquivística. Nesse sentido, é importante compreender que o NRPP possui limites claros de atuação.
+
+O NRPP:
+\begin{itemize}
+    \item Não interpreta o conteúdo das normas;
+    \item Não atribui valor documental aos registros extraídos;
+    \item Não define prazos de temporalidade;
+    \item Não substitui a avaliação arquivística realizada por profissionais
+especializados.
+\end{itemize}
+
+% ==========================================================
+\section{Encerramento}
+Este manual estabelece as diretrizes necessárias para a aplicação padronizada do Normative-to-Record Preprocessing Pipeline (NRPP) no contexto institucional da CAIXA, garantindo rastreabilidade, reprodutibilidade técnica e adequada separação entre processamento automatizado e decisão arquivística especializada.
