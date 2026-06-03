@@ -29,6 +29,13 @@ Alternativa direta, sem `make`:
 
 python -m unittest discover -s tests -p 'test\_\*.py'
 
+## Releases
+
+Para preparar notas de release mais completas nas proximas versoes, use o modelo em
+`.github/RELEASE_TEMPLATE.md` como base e publique com `gh release create`, por exemplo:
+
+gh release create vX.Y.Z --target main --title "vX.Y.Z" --notes-file CAMINHO_DO_ARQUIVO_DE_NOTAS
+
 ## Execução
 
 Processar PDFs já existentes na pasta `pdfs`:
