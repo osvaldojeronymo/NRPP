@@ -10,7 +10,7 @@ Descreva em 2 a 4 linhas o objetivo da versao e o impacto principal para os usua
 - Mudanca 2
 - Mudanca 3
 
-## Correc oes e estabilidade
+## Correcoes e estabilidade
 
 - Ajuste 1
 - Ajuste 2
