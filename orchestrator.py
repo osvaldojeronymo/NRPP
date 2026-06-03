@@ -5,11 +5,16 @@ import shutil
 from multiprocessing import Pool, cpu_count
 import pandas as pd
 
-from pipeline.a1_text_normalization import run_pipeline as a1
-from pipeline.a2_structural_segmentation import run as a2
-from pipeline.a3_semantic_cues import run_pipeline as a3
-from pipeline.a4_glossary_guided_normalization import run_pipeline as a4
-from pipeline.a5_human_guided_structuring import run_pipeline as a5
+from pipeline.a1_text_normalization import run as a1
+from pipeline.a2_structural_segmentation import segment_text as a2
+from pipeline.a3_semantic_cues import run as a3
+from pipeline.a4_glossary_guided_normalization import run as a4
+from pipeline.a5_human_guided_structuring import run as a5
+
+
+BASE_DIR = Path(__file__).resolve().parent
+GLOSSARY_PATH = BASE_DIR / "resources" / "glossario_arquivistico_limpo.json"
+ISDF_PATH = BASE_DIR / "resources" / "isdf_diretrizes.json"
 
 
 # --------------------------------------------------
@@ -79,6 +84,13 @@ def processar_pdf(args):
     audit = pasta_resultado / "AUDITORIA_PIPELINE"
     produto = pasta_resultado / "PRODUTO_FINAL"
 
+    text_file = texto_dir / f"{nome}.txt"
+    segments = inter / "segmentos_texto.csv"
+    cues = inter / "evidencias_semanticas.csv"
+    normalized = inter / "evidencias_normalizadas.csv"
+    audit_file = audit / "termos_fora_do_glossario.csv"
+    tabela = produto / "tabela_validacao_nrpp.xlsx"
+
     texto_dir.mkdir(parents=True, exist_ok=True)
     inter.mkdir(parents=True, exist_ok=True)
     audit.mkdir(parents=True, exist_ok=True)
@@ -94,40 +106,11 @@ def processar_pdf(args):
         # pipeline NRPP
         # -------------------
 
-        text_file = a1(pdf_path)
-
-        segments = a2(text_file)
-
-        cues = a3(segments)
-
-        normalized = a4(cues)
-
-        tabela = a5(normalized)
-
-        # -------------------
-        # mover arquivos
-        # -------------------
-
-        shutil.move(text_file, texto_dir / f"{nome}.txt")
-
-        shutil.move(segments, inter / "segmentos_texto.csv")
-
-        shutil.move(cues, inter / "evidencias_semanticas.csv")
-
-        shutil.move(normalized, inter / "evidencias_normalizadas.csv")
-
-        # mover auditoria A4 automaticamente
-        audit_file = normalized.with_name(
-            normalized.name.replace("_normalized.csv", "_audit.csv")
-        )
-
-        if audit_file.exists():
-            shutil.move(
-                audit_file,
-                audit / "termos_fora_do_glossario.csv"
-            )
-
-        shutil.move(tabela, produto / "tabela_validacao_nrpp.xlsx")
+        a1(pdf_path, text_file)
+        a2(text_file, segments)
+        a3(segments, cues)
+        a4(cues, GLOSSARY_PATH, normalized, audit_file, ISDF_PATH)
+        a5(normalized, tabela)
 
         # gerar README
         gerar_readme(pasta_resultado, pdf_path.name)
@@ -136,9 +119,9 @@ def processar_pdf(args):
         # estatísticas
         # -------------------
 
-        seg = pd.read_csv(inter / "segmentos_texto.csv", sep=";")
-        cues_df = pd.read_csv(inter / "evidencias_semanticas.csv", sep=";")
-        norm = pd.read_csv(inter / "evidencias_normalizadas.csv", sep=";")
+        seg = pd.read_csv(segments, sep=";")
+        cues_df = pd.read_csv(cues, sep=";")
+        norm = pd.read_csv(normalized, sep=";")
 
         return {
             "arquivo": str(rel_pdf),

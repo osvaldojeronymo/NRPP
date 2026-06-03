@@ -19,6 +19,16 @@ As antigas pastas de demonstração empacotadas foram removidas para manter uma
 
 pip install -r requirements.txt
 
+## Testes
+
+Executar a suíte de regressão de caminhos de saída do orchestrator:
+
+make test
+
+Alternativa direta, sem `make`:
+
+python -m unittest discover -s tests -p 'test\_\*.py'
+
 ## Execução
 
 Processar PDFs já existentes na pasta `pdfs`:
